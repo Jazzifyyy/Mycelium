@@ -1,0 +1,15 @@
+filters:
+  and:
+    - type == "book"
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - author
+      - status
+      - year
+      - genre
+    cardSize: 250
+    image: note.cover
+    imageAspectRatio: 1.55

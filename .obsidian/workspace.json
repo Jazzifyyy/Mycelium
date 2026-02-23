@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d91cdef57c1dcde",
+            "id": "0748c69c12dbb74d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7b8aaf3872192757",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +27,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,12 +101,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "radius of convergence of a convolution sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from radius of convergence of a convolution sequence"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d91cdef57c1dcde",
+  "active": "7b8aaf3872192757",
   "lastOpenFiles": [
     "clone directory/README.md",
+    "Test.md",
     "clone directory",
     "wilcoxon's signed rank test.md",
     "example of performing the wilcoxon's signed rank test.md",
@@ -209,7 +220,6 @@
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
     "The Metamorphosis.md",
-    "differential equation of the family of ellipses with specified foci.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

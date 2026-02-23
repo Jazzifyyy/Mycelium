@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "42d1e8b6b339a116",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84a4fd476cc6f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0474f2f9976d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39666f1add38ecb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "992eb1866792b894",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8405892488a44b55",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "56e2887edeb71765",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f35b8770b5bbc4ff",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "cbe294a38a603603",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d0ac4096070cf099",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4234c8d98d284a91",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "cc756bb1e1919735",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f7581752965f3516",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8f0474f2f9976d21",
+  "lastOpenFiles": [
+    "Test.md",
+    "wilcoxon's signed rank test.md",
+    "wilcoxon's rank sum test.md",
+    "the physical implementation of a bit.md",
+    "the generating function of the sum of two random variables is the product of their generating functions.md",
+    "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
+    "terminology for differential equations.md",
+    "solution of a differential equation.md",
+    "series 1 problem 3 (linear statistical models).md",
+    "regression model.md",
+    "random walk.md",
+    "random sum properties.md",
+    "radius of convergence of a convolution sequence.md",
+    "probability of getting even number of heads in n coin tosses.md",
+    "power series.md",
+    "parameter estimation of a regression model.md",
+    "one sample median test - signed test.md",
+    "one sample estimation of the median.md",
+    "median.md",
+    "mann-whitney u statistic.md",
+    "machine language.md",
+    "kruskal wallis test for the equality of medians of multiple groups.md",
+    "homework 1 problem 1 advanced statistical methods.md",
+    "geometric intepretation of differential equations.md",
+    "generating function of a random variable.md",
+    "generating function of a convolution sequence.md",
+    "Pasted image 20260210195311.png",
+    "Pasted image 20260210194719.png",
+    "Pasted image 20260210194650.png",
+    "Pasted image 20260210194042.png",
+    "Pasted image 20260210193602.png",
+    "Pasted image 20260208003640.png",
+    "Pasted image 20260131190045.png",
+    "Pasted image 20260131184550.png",
+    "Books.base",
+    "Books/the_wise_man's_fear.jpg",
+    "Books/the_name_of_the_wind.jpg",
+    "clone directory",
+    "Books"
+  ]
+}

@@ -2,6 +2,6 @@
   "cssTheme": "Typomagical",
   "baseFontSize": 19,
   "nativeMenus": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true
 }

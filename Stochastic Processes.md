@@ -20,5 +20,6 @@ tags:
 + [[exercise set 1 problem 2 stochastic processes]]
 + [[exercise set 1 problem 3 stochastic processes]]
 + [[exercise set 1 problem 5 stochastic processes]]
++ [[exercise set 1 problem 6 stochastic processes]]
 + [[exercise set 2 problem 4 stochastic processes]]
 + [[exercise set 2 problem 5 stochastic processes]]

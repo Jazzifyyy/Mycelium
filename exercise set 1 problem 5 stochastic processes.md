@@ -3,6 +3,7 @@ tags:
   - problem
   - college
   - stochastic_processes
+  - child
 ---
 # Problem
 Let $p_{k}$ be the probability that three consecutive heads (HHH) is obtained for the first time after the $k$-th toss of a coin. Find the generating function of $\{ p_{k}: k \geq 0 \}$. Compute the expected time for this to happen.

@@ -28,7 +28,7 @@ G_{X}(s) &= \sum_{n=0}^\infty \left( \frac{e^{-1}}{n!} \right)s^n \\
 \end{align}
 $$
 The pgf converges if
-$$\lim_{ n \to \infty } ||$$
+$$\lim_{ n \to \infty } \left| \frac{s^{n+1}n!}{(n+1)!s^n} \right|= |s|\lim_{ n \to \infty } \left| \frac{1}{n+1} \right|=0$$
 
 ## Part 2
 

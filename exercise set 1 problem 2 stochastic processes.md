@@ -38,3 +38,10 @@ $$\begin{align}
 &= c \left[  1 - \frac{1}{2} + \frac{1}{2} - \frac{1}{3} + \dots \right] \\
 &= c.
 \end{align}$$
+The pgf is given by
+$$\begin{align}
+G_{Y}(s) &= \sum_{n=0}^\infty \frac{s^n}{(n+1)(n+2)}.
+\end{align}$$
+
+The pgf converges if 
+$$\lim_{ n \to \infty } \left|\frac{s^{n+1}(n+1)(n+2)}{(n+2)(n+3)s^n}\right|=$$

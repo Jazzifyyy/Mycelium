@@ -24,5 +24,8 @@ P(s) &= \sum_{n=2}^\infty p_{n}s^n \\
 By the above equation, we get that
 $$\begin{align}
 P(1) &= p^2 + (1-p)P(1) + p(1-p)P(1) \\
-\implies 
+&= p^2 + P(1) - pP(1) + pP(1) - p^2P(1) \\
+\implies 0 &= p^2 -p^2P(1) \\
+\implies P(1) &= 1.
 \end{align}$$
+Thus, $\mathbb{P}(T=\infty)=0$.

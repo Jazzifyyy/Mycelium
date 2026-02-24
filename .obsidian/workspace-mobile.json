@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one sample estimation of the median.md",
+                "file": "wilcoxon's signed rank test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one sample estimation of the median"
+              "title": "wilcoxon's signed rank test"
             }
           },
           {
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "one sample estimation of the median.md",
+            "file": "wilcoxon's signed rank test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "one sample estimation of the median.md",
+            "file": "wilcoxon's signed rank test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -190,7 +190,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "one sample estimation of the median.md",
+            "file": "wilcoxon's signed rank test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -217,6 +217,7 @@
   "active": "2309ae92b5f8dd92",
   "lastOpenFiles": [
     "Advanced Statistical Methods.md",
+    "one sample estimation of the median.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "Test.md",
     "one sample median test - signed test.md",
@@ -235,7 +236,6 @@
     "probability of getting even number of heads in n coin tosses.md",
     "power series.md",
     "parameter estimation of a regression model.md",
-    "one sample estimation of the median.md",
     "median.md",
     "mann-whitney u statistic.md",
     "machine language.md",

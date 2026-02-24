@@ -4,7 +4,7 @@ tags:
   - stochastic_processes
   - info
 ---
-(See: [[generating function of a random variable]])
+(See: [[probability generating function]])
 # Statement
 Suppose $X,Y$ are two independent non-negative integer valued random variables. Then 
 $$P_{X+Y}(s) = P_{X}(s)P_{Y}(s).$$

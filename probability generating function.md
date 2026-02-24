@@ -17,3 +17,9 @@ $$G_{X}(s) = \mathbb{E}[s^X]= \sum_{k=0}^\infty \mathbb{P}(X=k)s^k. $$
   $$\mathbb{E}[X(X-1)\cdots(X-k+1)] = G^{(k)}(1^{-1}).$$
 + The variance of $X$ is given by
   $$\text{Var}(X) = G''(1^{-}) + G'(1^-)- [G'(1^-)]^2.$$
+# Tricks
+The probability that $X$ takes an even number is given by
+$$G_{X}(1)+G_{X}(-1)$$
+# Also See:
++ [[the generating function of the sum of two random variables is the product of their generating functions]]
++ [[the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point]]

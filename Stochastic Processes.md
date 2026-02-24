@@ -6,7 +6,6 @@ tags:
 # Introduction
 + [[power series]]
 + [[convolution of two sequences]]
-+ [[generating function of a random variable]]
 + [[random sum properties]]
 + [[probability generating function]]
 

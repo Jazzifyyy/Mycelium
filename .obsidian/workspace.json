@@ -8,23 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0748c69c12dbb74d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "7b8aaf3872192757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes.md",
-                "mode": "source",
+                "file": "convolution of two sequences.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stochastic Processes"
-            }
-          },
-          {
-            "id": "704a75a3a39113ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "generating function of a random variable.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "generating function of a random variable"
+              "title": "convolution of two sequences"
             }
           },
           {
@@ -72,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "probability generating function.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,12 +278,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "704a75a3a39113ee",
+  "active": "e5f02beb235580e2",
   "lastOpenFiles": [
-    "Stochastic Processes.md",
-    "probability generating function.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
+    "probability generating function.md",
+    "convolution of two sequences.md",
+    "radius of convergence of a convolution sequence.md",
+    "generating function of a convolution sequence.md",
+    "Stochastic Processes.md",
+    "generating function of a random variable.md",
+    "the generating function of the sum of two random variables is the product of their generating functions.md",
     "clone directory/README.md",
     "Test.md",
     "clone directory",
@@ -332,15 +303,10 @@
     "fligner killeen test.md",
     "gambler's ruin.md",
     "random walk.md",
-    "radius of convergence of a convolution sequence.md",
     "galton watson branching process.md",
     "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
     "exercise set 2 problem 5 stochastic processes.md",
     "exercise set 2 problem 4 stochastic processes.md",
-    "one sample estimation of the median.md",
-    "one sample median test - signed test.md",
-    "random sum properties.md",
-    "daily note asm.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

@@ -21,14 +21,52 @@
             "id": "7b8aaf3872192757",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stochastic Processes"
+            }
+          },
+          {
+            "id": "4e3eee4b1e22335d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercise set 1 problem 2 stochastic processes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "exercise set 1 problem 2 stochastic processes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -191,8 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8aaf3872192757",
+  "active": "4e3eee4b1e22335d",
   "lastOpenFiles": [
+    "exercise set 1 problem 2 stochastic processes.md",
+    "Stochastic Processes.md",
     "clone directory/README.md",
     "Test.md",
     "clone directory",
@@ -205,7 +246,6 @@
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "mann-whitney u statistic.md",
     "fligner killeen test.md",
-    "Stochastic Processes.md",
     "gambler's ruin.md",
     "random walk.md",
     "radius of convergence of a convolution sequence.md",
@@ -219,7 +259,6 @@
     "daily note asm.md",
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
-    "The Metamorphosis.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

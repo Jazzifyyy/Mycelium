@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probability of getting even number of heads in n coin tosses.md",
-                "mode": "preview",
+                "file": "Stochastic Processes.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "probability of getting even number of heads in n coin tosses"
+              "title": "Stochastic Processes"
+            }
+          },
+          {
+            "id": "ae166c320d771789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "probability of getting two consecutive heads in repeated coin tosses"
             }
           },
           {
@@ -89,7 +113,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,9 +278,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8aaf3872192757",
+  "active": "ae166c320d771789",
   "lastOpenFiles": [
+    "probability of getting two consecutive heads in repeated coin tosses.md",
     "Stochastic Processes.md",
+    "probability of getting even number of heads in n coin tosses.md",
     "convolution of two sequences.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "probability generating function.md",
@@ -280,8 +307,6 @@
     "gambler's ruin.md",
     "random walk.md",
     "galton watson branching process.md",
-    "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
-    "exercise set 2 problem 5 stochastic processes.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

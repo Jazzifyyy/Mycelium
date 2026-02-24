@@ -11,6 +11,7 @@ tags:
 
 # Example
 + [[probability of getting even number of heads in n coin tosses]]
++ [[probability of getting two consecutive heads in repeated coin tosses]]
 + [[galton watson branching process]]
 + [[random walk]]
 	+ [[gambler's ruin]]

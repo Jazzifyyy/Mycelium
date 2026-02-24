@@ -38,7 +38,3 @@ $$\begin{align}
 &= c \left[  1 - \frac{1}{2} + \frac{1}{2} - \frac{1}{3} + \dots \right] \\
 &= c.
 \end{align}$$
-The pgf is given by
-$$\begin{align}
-G_{Y}(s) &= \sum_{n=0}^\infty \frac{s^n}{(n+1)(n+2)}
-\end{align}$$

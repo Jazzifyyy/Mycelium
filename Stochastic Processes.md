@@ -8,6 +8,7 @@ tags:
 + [[convolution of two sequences]]
 + [[generating function of a random variable]]
 + [[random sum properties]]
++ [[probability generating function]]
 
 # Example
 + [[probability of getting even number of heads in n coin tosses]]

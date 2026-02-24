@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "e5f02beb235580e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "probability generating function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "probability generating function"
+            }
+          },
+          {
             "id": "48968d092dc34864",
             "type": "leaf",
             "state": {
@@ -264,10 +288,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48968d092dc34864",
+  "active": "e5f02beb235580e2",
   "lastOpenFiles": [
-    "exercise set 1 problem 3 stochastic processes.md",
+    "probability generating function.md",
     "Stochastic Processes.md",
+    "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "clone directory/README.md",
     "Test.md",
@@ -292,7 +317,6 @@
     "one sample median test - signed test.md",
     "random sum properties.md",
     "daily note asm.md",
-    "probability of getting even number of heads in n coin tosses.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

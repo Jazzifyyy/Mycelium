@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "probability generating function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "root of unity filter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -302,12 +302,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d52915251e355dd",
+  "active": "48968d092dc34864",
   "lastOpenFiles": [
-    "root of unity filter.md",
-    "probability generating function.md",
-    "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
+    "probability generating function.md",
+    "root of unity filter.md",
+    "exercise set 1 problem 3 stochastic processes.md",
     "convolution of two sequences.md",
     "radius of convergence of a convolution sequence.md",
     "generating function of a convolution sequence.md",

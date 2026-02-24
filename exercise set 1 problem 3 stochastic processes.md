@@ -15,3 +15,5 @@ Find the distribution of the random variables in each of the cases and find $\ma
 # Solution
 ## Part 3
 
+The pgf of one die is given by
+$$P_{X_{1}}(s)= \frac{1}{6}()$$

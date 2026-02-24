@@ -10,7 +10,7 @@ Find the distribution of the random variables in each of the cases and find $\ma
 1. $P(s) = \frac{1}{3-2s}$
 2. $P(s) = \frac{1}{4-3s}$
 3. Two dice are rolled. Let $X$ be the sum of the outcomes. Find the pgf of $X$. Use this pgf to calculate the probability that the sum is divisible by $3$.
-4. If the pgf of a random variable $X$ is $P(s)= \frac{1}{2}e^s + \frac{1}{4}s^2+\frac{1}{4}$, find $\mathbb{P}(X \geq 2)$.
+4. If the pgf of a random variable $X$ is $P(s)= \frac{1}{2}e^{s-1} + \frac{1}{4}s^2+\frac{1}{4}$, find $\mathbb{P}(X \geq 2)$.
 
 # Solution
 ## Part 3
@@ -26,4 +26,5 @@ where $w = e^{2\pi i/3}$.
 Note that for $P(w)$ and $P(w^2)$, we have
 $$s+s^2+s^3+s^4+s^5+s^6 = 2(1+w+w^2)=0$$
 Thus, the required probability is 
-$$\frac{1}{3}[1+0+0]=\frac{1}{}$$
+$$\frac{1}{3}[1+0+0]=\frac{1}{3}.$$
+

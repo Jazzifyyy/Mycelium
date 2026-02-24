@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "convolution of two sequences.md",
+                "file": "probability of getting even number of heads in n coin tosses.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "convolution of two sequences"
-            }
-          },
-          {
-            "id": "e5f02beb235580e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "probability generating function.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "probability generating function"
-            }
-          },
-          {
-            "id": "6d52915251e355dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root of unity filter.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "root of unity filter"
+              "title": "probability of getting even number of heads in n coin tosses"
             }
           },
           {
@@ -86,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "exercise set 1 problem 3 stochastic processes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,8 +89,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,16 +253,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48968d092dc34864",
+  "active": "7b8aaf3872192757",
   "lastOpenFiles": [
-    "exercise set 1 problem 2 stochastic processes.md",
-    "probability generating function.md",
-    "root of unity filter.md",
-    "exercise set 1 problem 3 stochastic processes.md",
+    "Stochastic Processes.md",
     "convolution of two sequences.md",
+    "exercise set 1 problem 3 stochastic processes.md",
+    "probability generating function.md",
+    "exercise set 1 problem 2 stochastic processes.md",
+    "root of unity filter.md",
     "radius of convergence of a convolution sequence.md",
     "generating function of a convolution sequence.md",
-    "Stochastic Processes.md",
     "generating function of a random variable.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",
     "clone directory/README.md",

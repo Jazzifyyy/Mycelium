@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa301bfafafd7eb7",
+  "active": "4e3eee4b1e22335d",
   "lastOpenFiles": [
     "exercise set 1 problem 2 stochastic processes.md",
     "Stochastic Processes.md",

@@ -14,4 +14,20 @@ A hen lays $N$ eggs, where $N \sim \text{Poisson}(\lambda)$. Each egg hatches wi
 
 Note that 
 $$K = \sum_{i=1}^N \xi_{i}$$
-where $\xi_{i}$ is $1$ if the e
+where $\xi_{i}$ is $1$ if the egg hatches and is $0$ otherwise.
+
+
+Note that the pgf of $N$ is
+$$P_{N}(s)=e^{\lambda(s-1)}.$$
+
+
+The pgf of $\xi$ is 
+$$P_{\xi}(s) = 1-p + ps.$$
+
+The pgf of $K$ is given by
+$$
+\begin{align}
+P_{K}(s) &= P_{\xi}(P_{N}(s)) \\
+&= 1-p+pe^{\lambda(s-1)}.
+\end{align}
+$$

@@ -27,7 +27,8 @@ G_{X}(s) &= \sum_{n=0}^\infty \left( \frac{e^{-1}}{n!} \right)s^n \\
 &= e^{s-1}.
 \end{align}
 $$
-This is well-defined for all $s$. Thus, $R = \infty$.
+The pgf converges if
+$$\lim_{ n \to \infty } ||$$
 
 ## Part 2
 
@@ -44,4 +45,7 @@ G_{Y}(s) &= \sum_{n=0}^\infty \frac{s^n}{(n+1)(n+2)}.
 \end{align}$$
 
 The pgf converges if 
-$$\lim_{ n \to \infty } \left|\frac{s^{n+1}(n+1)(n+2)}{(n+2)(n+3)s^n}\right| = |s|\lim_{ n \to \infty } \left| \frac{n+1}{n+3} \right| = |s|<1.$$
+$$\lim_{ n \to \infty } \left|\frac{s^{n+1}(n+1)(n+2)}{(n+2)(n+3)s^n}\right| = |s|\lim_{ n \to \infty } \left| \frac{n+1}{n+3} \right| = |s|<1$$
+and diverges if $|s|>1$.
+
+Thus, the radius of convergence is $R=1$.

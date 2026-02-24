@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "48968d092dc34864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercise set 1 problem 3 stochastic processes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "exercise set 1 problem 3 stochastic processes"
+            }
+          },
+          {
             "id": "4e3eee4b1e22335d",
             "type": "leaf",
             "state": {
@@ -240,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e3eee4b1e22335d",
+  "active": "48968d092dc34864",
   "lastOpenFiles": [
-    "exercise set 1 problem 2 stochastic processes.md",
+    "exercise set 1 problem 3 stochastic processes.md",
     "Stochastic Processes.md",
+    "exercise set 1 problem 2 stochastic processes.md",
     "clone directory/README.md",
     "Test.md",
     "clone directory",
@@ -268,7 +293,6 @@
     "random sum properties.md",
     "daily note asm.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "Ordinary Differential Equations.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

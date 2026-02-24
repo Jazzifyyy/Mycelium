@@ -7,7 +7,7 @@ tags:
 # Setup
 Suppose $\{ X_{i} \}$ is a sequence of iid non-negative random variables with $P$ being their generating function.  
 
-Suppose $N$ is another random variable that is independent of the $X$'s with $G$ being its generating function.
+Suppose $N$ is another random variable (that is independent of the $X$'s) with $G$ being its generating function.
 
 Define the random sum:
 $$S_{N} = \begin{cases}

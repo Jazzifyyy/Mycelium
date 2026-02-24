@@ -27,7 +27,8 @@ $$P_{\xi}(s) = 1-p + ps.$$
 The pgf of $K$ is given by
 $$
 \begin{align}
-P_{K}(s) &= P_{\xi}(P_{N}(s)) \\
-&= 1-p+pe^{\lambda(s-1)}.
+P_{K}(s) &= P_{N}(P_{\xi}(s)) \\
+&= e^{\lambda(1-p+ps-1)} \\
+&= e^{\lambda p(s-1)}.
 \end{align}
 $$

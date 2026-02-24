@@ -42,13 +42,37 @@
             }
           },
           {
+            "id": "704a75a3a39113ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "generating function of a random variable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "generating function of a random variable"
+            }
+          },
+          {
             "id": "e5f02beb235580e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "probability generating function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -288,10 +312,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5f02beb235580e2",
+  "active": "704a75a3a39113ee",
   "lastOpenFiles": [
-    "probability generating function.md",
     "Stochastic Processes.md",
+    "probability generating function.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "clone directory/README.md",

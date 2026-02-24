@@ -16,4 +16,11 @@ Find the distribution of the random variables in each of the cases and find $\ma
 ## Part 3
 
 The pgf of one die is given by
-$$P_{X_{1}}(s)= \frac{1}{6}()$$
+$$P_{X_{1}}(s)= \frac{1}{6}(s+s^2+\dots+s^6).$$
+Thus, $P_{X}(s)=(P_{X_{1}}(s))^2.$
+
+We have
+$$\mathbb{P}(X \equiv 0 (\text{mod }3))=\frac{1}{3}[P_{X}(1)+P_{X}(w)+P_{X}(w^2)]$$
+where $w = e^{2\pi i/3}$.
+
+$$s+s^2+s^3+s^4+s^5+s^6 = (1+w+w^2)$$

@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "2309ae92b5f8dd92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one sample estimation of the median.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "one sample estimation of the median"
+            }
+          },
+          {
+            "id": "f08c6d9d9fb5cc24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +94,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Adva",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d0ac4096070cf099",
@@ -122,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "one sample estimation of the median.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "one sample estimation of the median.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -155,7 +190,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md",
+            "file": "one sample estimation of the median.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -179,9 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0474f2f9976d21",
+  "active": "2309ae92b5f8dd92",
   "lastOpenFiles": [
+    "Advanced Statistical Methods.md",
+    "kruskal wallis test for the equality of medians of multiple groups.md",
     "Test.md",
+    "one sample median test - signed test.md",
     "wilcoxon's signed rank test.md",
     "wilcoxon's rank sum test.md",
     "the physical implementation of a bit.md",
@@ -197,16 +235,13 @@
     "probability of getting even number of heads in n coin tosses.md",
     "power series.md",
     "parameter estimation of a regression model.md",
-    "one sample median test - signed test.md",
     "one sample estimation of the median.md",
     "median.md",
     "mann-whitney u statistic.md",
     "machine language.md",
-    "kruskal wallis test for the equality of medians of multiple groups.md",
     "homework 1 problem 1 advanced statistical methods.md",
     "geometric intepretation of differential equations.md",
     "generating function of a random variable.md",
-    "generating function of a convolution sequence.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

@@ -5,3 +5,24 @@ tags:
   - college
 ---
 # Problem 
+Find the pgf of the following random variables and state their radius of convergence:
+1. $X$ where $\mathbb{P}(X=n) = \frac{c}{n!}$ for $n\geq 0$. Find the constant $c$ first.
+2. $Y$ where $\mathbb{P}(Y=n) = \frac{c}{(n+1)(n+2)}$ for $n \geq 0$. Find the constant $c$ first.
+3. $Z$ where $\mathbb{P}(Z=n) = \frac{1}{2^{n+1}}$ for $n \geq 0$.
+
+# Solution
+## Part 1
+We must have
+$$\begin{align}
+1 &= \sum_{n=0}^\infty \frac{c}{n!} \\
+&= c\cdot e
+\end{align}$$
+and thus $c = \frac{1}{e}$.
+
+The pgf is given by
+$$
+\begin{align}
+G_{X}(s) &= \sum_{n=0}^\infty \left( \frac{e^{-1}}{n!} \right)s^n \\
+&= e^{-1}\sum_{n=0}^\infty 
+\end{align}
+$$

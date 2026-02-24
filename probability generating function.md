@@ -19,7 +19,9 @@ $$G_{X}(s) = \mathbb{E}[s^X]= \sum_{k=0}^\infty \mathbb{P}(X=k)s^k. $$
   $$\text{Var}(X) = G''(1^{-}) + G'(1^-)- [G'(1^-)]^2.$$
 # Tricks
 The probability that $X$ takes an even number is given by
-$$G_{X}(1)+G_{X}(-1)$$
+$$\frac{G_{X}(1)+G_{X}(-1)}{2}.$$
+The probability that $X$ takes a value that is divisible by $4$ is given by
+$$\frac{G_{X}(1) + G_{X}(-1)+ G_{X}()}{}$$
 # Also See:
 + [[the generating function of the sum of two random variables is the product of their generating functions]]
 + [[the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point]]

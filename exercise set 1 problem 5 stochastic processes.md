@@ -9,6 +9,6 @@ Let $p_{k}$ be the probability that three consecutive heads (HHH) is obtained fo
 # Solution
 Let $E_{k}$ denote the event that we get three consecutive heads after the $k$-th toss. Then
 $$\begin{align}
-\mathbb{P}(E_{k}) &= \mathbb{P}(E_{k}; \epsilon_{1}=1) +  \mathbb{P}(E_{k}; \epsilon_{1}=0) \\
+\mathbb{P}(E_{n}) &= \mathbb{P}(E_{n}; \epsilon_{1}=1) +  \mathbb{P}(E_{n}; \epsilon_{1}=0) \\
 &= 
 \end{align}$$

@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "random sum properties"
             }
-          },
-          {
-            "id": "7fa00b82b025d97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stochastic Processes"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -316,14 +292,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa00b82b025d97d",
+  "active": "fa301bfafafd7eb7",
   "lastOpenFiles": [
+    "Stochastic Processes.md",
     "exercise set 1 problem 6 stochastic processes.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "exercise set 1 problem 5 stochastic processes.md",
     "random sum properties.md",
     "galton watson branching process.md",
-    "Stochastic Processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "probability of getting even number of heads in n coin tosses.md",

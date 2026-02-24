@@ -23,4 +23,7 @@ We have
 $$\mathbb{P}(X \equiv 0 (\text{mod }3))=\frac{1}{3}[P_{X}(1)+P_{X}(w)+P_{X}(w^2)]$$
 where $w = e^{2\pi i/3}$.
 
-$$s+s^2+s^3+s^4+s^5+s^6 = (1+w+w^2)$$
+Note that for $P(w)$ and $P(w^2)$, we have
+$$s+s^2+s^3+s^4+s^5+s^6 = 2(1+w+w^2)=0$$
+Thus, the required probability is 
+$$\frac{1}{3}[1+0+0]=\frac{1}{}$$

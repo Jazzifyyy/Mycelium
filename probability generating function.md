@@ -18,6 +18,8 @@ $$G_{X}(s) = \mathbb{E}[s^X]= \sum_{k=0}^\infty \mathbb{P}(X=k)s^k. $$
 + The variance of $X$ is given by
   $$\text{Var}(X) = G''(1^{-}) + G'(1^-)- [G'(1^-)]^2.$$
 # Tricks
++ [[root of unity filter]]
+
 The probability that $X$ takes an even number is given by
 $$\frac{G_{X}(1)+G_{X}(-1)}{2}.$$
 The probability that $X$ takes a value that is divisible by $4$ is given by

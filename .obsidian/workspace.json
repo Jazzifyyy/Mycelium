@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "6d52915251e355dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root of unity filter.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "root of unity filter"
+            }
+          },
+          {
             "id": "48968d092dc34864",
             "type": "leaf",
             "state": {
@@ -114,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,11 +302,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5f02beb235580e2",
+  "active": "6d52915251e355dd",
   "lastOpenFiles": [
+    "root of unity filter.md",
+    "probability generating function.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
-    "probability generating function.md",
     "convolution of two sequences.md",
     "radius of convergence of a convolution sequence.md",
     "generating function of a convolution sequence.md",
@@ -306,7 +331,6 @@
     "galton watson branching process.md",
     "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
     "exercise set 2 problem 5 stochastic processes.md",
-    "exercise set 2 problem 4 stochastic processes.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

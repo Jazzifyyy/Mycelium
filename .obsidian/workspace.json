@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,14 +292,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa301bfafafd7eb7",
+  "active": "9b1f8b58ed133bd9",
   "lastOpenFiles": [
-    "Stochastic Processes.md",
-    "exercise set 1 problem 6 stochastic processes.md",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
-    "exercise set 1 problem 5 stochastic processes.md",
-    "random sum properties.md",
     "galton watson branching process.md",
+    "exercise set 1 problem 6 stochastic processes.md",
+    "Stochastic Processes.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
+    "random sum properties.md",
+    "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "probability of getting even number of heads in n coin tosses.md",

@@ -27,9 +27,9 @@ G_{X}(s) &= \sum_{n=0}^\infty \left( \frac{e^{-1}}{n!} \right)s^n \\
 &= e^{s-1}.
 \end{align}
 $$
-The pgf converges if
+Note that
 $$\lim_{ n \to \infty } \left| \frac{s^{n+1}n!}{(n+1)!s^n} \right|= |s|\lim_{ n \to \infty } \left| \frac{1}{n+1} \right|=0$$
-
+The radius of converges is $R = \infty$.
 ## Part 2
 
 We must have

@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "exercise set 1 problem 2 stochastic processes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,9 +64,19 @@
               "icon": "lucide-file",
               "title": "exercise set 1 problem 2 stochastic processes"
             }
+          },
+          {
+            "id": "fa301bfafafd7eb7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -229,10 +240,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e3eee4b1e22335d",
+  "active": "fa301bfafafd7eb7",
   "lastOpenFiles": [
-    "Stochastic Processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
+    "Stochastic Processes.md",
     "clone directory/README.md",
     "Test.md",
     "clone directory",

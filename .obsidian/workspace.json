@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Stochastic Processes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -113,8 +113,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae166c320d771789",
+  "active": "7b8aaf3872192757",
   "lastOpenFiles": [
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "Stochastic Processes.md",

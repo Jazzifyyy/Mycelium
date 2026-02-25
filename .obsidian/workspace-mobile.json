@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wilcoxon's signed rank test.md",
-                "mode": "source",
+                "file": "mann-whitney u statistic.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wilcoxon's signed rank test"
+              "title": "mann-whitney u statistic"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "wilcoxon's signed rank test.md",
+            "file": "mann-whitney u statistic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,10 +180,13 @@
   },
   "active": "6e4b6ee554caa743",
   "lastOpenFiles": [
-    "one sample median test - signed test.md",
-    "wilcoxon's signed rank test.md",
-    "median.md",
+    "wilcoxon's rank sum test.md",
     "Advanced Statistical Methods.md",
+    "wilcoxon's signed rank test.md",
+    "one sample median test - signed test.md",
+    "one sample estimation of the median.md",
+    "example of performing the wilcoxon's signed rank test.md",
+    "median.md",
     "galton watson branching process.md",
     "/probability generating function.md",
     "Stochastic Processes.md",
@@ -204,9 +207,6 @@
     "/the generating function of the sum of two random variables is the product of their generating functions.md",
     "/root of unity filter.md",
     "/random sum properties.md",
-    "/probability of getting two consecutive heads in repeated coin tosses.md",
-    "/exercise set 1 problem 6 stochastic processes.md",
-    "/exercise set 1 problem 5 stochastic processes.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

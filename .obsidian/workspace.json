@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes.md",
+                "file": "exercise set 1 problem 2 stochastic processes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stochastic Processes"
+              "title": "exercise set 1 problem 2 stochastic processes"
             }
           },
           {
@@ -231,10 +231,10 @@
   },
   "active": "7b8aaf3872192757",
   "lastOpenFiles": [
+    "Stochastic Processes.md",
     "probability generating function.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",
     "root of unity filter.md",
-    "Stochastic Processes.md",
     "random sum properties.md",
     "convolution of two sequences.md",
     "generating function of a convolution sequence.md",

@@ -14,7 +14,7 @@ $$G_{X}(s) = \mathbb{E}[s^X]= \sum_{k=0}^\infty \mathbb{P}(X=k)s^k. $$
 + The expectation of $X$ is given by
   $$\mathbb{E}[X] = G'(1^-).$$
 + The $k$-th factorial moment of $X$ is given by
-  $$\mathbb{E}[X(X-1)\cdots(X-k+1)] = G^{(k)}(1^{-1}).$$
+  $$\mathbb{E}[X(X-1)\cdots(X-k+1)] = G^{(k)}(1^{-}).$$
 + The variance of $X$ is given by
   $$\text{Var}(X) = G''(1^{-}) + G'(1^-)- [G'(1^-)]^2.$$
 # Tricks

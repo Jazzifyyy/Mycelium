@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
+                "file": "Stochastic Processes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "probability of getting two consecutive heads in repeated coin tosses"
+              "title": "Stochastic Processes"
             }
           },
           {
@@ -231,22 +231,22 @@
   },
   "active": "7b8aaf3872192757",
   "lastOpenFiles": [
+    "probability generating function.md",
+    "the generating function of the sum of two random variables is the product of their generating functions.md",
+    "root of unity filter.md",
     "Stochastic Processes.md",
+    "random sum properties.md",
+    "convolution of two sequences.md",
+    "generating function of a convolution sequence.md",
+    "radius of convergence of a convolution sequence.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
     "galton watson branching process.md",
-    "random sum properties.md",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
     "exercise set 1 problem 6 stochastic processes.md",
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
-    "convolution of two sequences.md",
-    "probability generating function.md",
-    "root of unity filter.md",
-    "radius of convergence of a convolution sequence.md",
-    "generating function of a convolution sequence.md",
     "generating function of a random variable.md",
-    "the generating function of the sum of two random variables is the product of their generating functions.md",
     "clone directory/README.md",
     "Test.md",
     "clone directory",

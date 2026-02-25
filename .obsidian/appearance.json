@@ -3,5 +3,6 @@
   "baseFontSize": 19,
   "nativeMenus": true,
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "theme": "moonstone"
 }

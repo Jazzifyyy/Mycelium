@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "galton watson branching process"
             }
-          },
-          {
-            "id": "e2c675ea3baa8ec4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,9 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8405892488a44b55",
+  "active": "a23367d54b20ed03",
   "lastOpenFiles": [
+    "exercise set 2 problem 5 stochastic processes.md",
     "galton watson branching process.md",
+    "Books.base",
+    "The Metamorphosis.md",
     "random sum properties.md",
     "root of unity filter.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
@@ -214,8 +206,6 @@
     "Stochastic Processes.md",
     "Advanced Statistical Methods.md",
     "one sample estimation of the median.md",
-    "kruskal wallis test for the equality of medians of multiple groups.md",
-    "one sample median test - signed test.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",
@@ -224,7 +214,6 @@
     "Pasted image 20260208003640.png",
     "Pasted image 20260131190045.png",
     "Pasted image 20260131184550.png",
-    "Books.base",
     "Books/the_wise_man's_fear.jpg",
     "Books/the_name_of_the_wind.jpg",
     "clone directory",

@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f0474f2f9976d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Test"
-            }
-          },
-          {
-            "id": "2309ae92b5f8dd92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wilcoxon's signed rank test.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wilcoxon's signed rank test"
-            }
-          },
-          {
-            "id": "f08c6d9d9fb5cc24",
+            "id": "332d654bb53bc16d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Adva",
+            "query": "Stochas",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "wilcoxon's signed rank test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,7 +126,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "wilcoxon's signed rank test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -190,7 +139,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "wilcoxon's signed rank test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -204,6 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,34 +163,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2309ae92b5f8dd92",
+  "active": "332d654bb53bc16d",
   "lastOpenFiles": [
+    "root of unity filter.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
+    "probability generating function.md",
+    "exercise set 1 problem 6 stochastic processes.md",
+    "exercise set 1 problem 5 stochastic processes.md",
+    "exercise set 1 problem 3 stochastic processes.md",
+    "exercise set 1 problem 2 stochastic processes.md",
+    "/the generating function of the sum of two random variables is the product of their generating functions.md",
+    "/root of unity filter.md",
+    "/random sum properties.md",
+    "/probability of getting two consecutive heads in repeated coin tosses.md",
+    "/probability generating function.md",
+    "/exercise set 1 problem 6 stochastic processes.md",
+    "/exercise set 1 problem 5 stochastic processes.md",
+    "/exercise set 1 problem 3 stochastic processes.md",
+    "/exercise set 1 problem 2 stochastic processes.md",
+    "/Stochastic Processes.md",
+    "wilcoxon's signed rank test.md",
+    "Test.md",
+    "galton watson branching process.md",
+    "random sum properties.md",
+    "Stochastic Processes.md",
     "Advanced Statistical Methods.md",
     "one sample estimation of the median.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
-    "Test.md",
     "one sample median test - signed test.md",
-    "wilcoxon's signed rank test.md",
-    "wilcoxon's rank sum test.md",
-    "the physical implementation of a bit.md",
-    "the generating function of the sum of two random variables is the product of their generating functions.md",
-    "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
-    "terminology for differential equations.md",
-    "solution of a differential equation.md",
-    "series 1 problem 3 (linear statistical models).md",
-    "regression model.md",
-    "random walk.md",
-    "random sum properties.md",
-    "radius of convergence of a convolution sequence.md",
-    "probability of getting even number of heads in n coin tosses.md",
-    "power series.md",
-    "parameter estimation of a regression model.md",
-    "median.md",
-    "mann-whitney u statistic.md",
-    "machine language.md",
-    "homework 1 problem 1 advanced statistical methods.md",
-    "geometric intepretation of differential equations.md",
-    "generating function of a random variable.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

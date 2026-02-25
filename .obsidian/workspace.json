@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probability of getting even number of heads in n coin tosses.md",
+                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "probability of getting even number of heads in n coin tosses"
+              "title": "probability of getting two consecutive heads in repeated coin tosses"
             }
           },
           {
@@ -232,6 +232,7 @@
   "active": "7b8aaf3872192757",
   "lastOpenFiles": [
     "Stochastic Processes.md",
+    "probability of getting even number of heads in n coin tosses.md",
     "galton watson branching process.md",
     "random sum properties.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
@@ -239,7 +240,6 @@
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
-    "probability of getting even number of heads in n coin tosses.md",
     "convolution of two sequences.md",
     "probability generating function.md",
     "root of unity filter.md",

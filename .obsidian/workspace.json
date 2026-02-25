@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes.md",
-                "mode": "source",
+                "file": "probability of getting even number of heads in n coin tosses.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stochastic Processes"
+              "title": "probability of getting even number of heads in n coin tosses"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc18f53713718548",
+  "active": "7b8aaf3872192757",
   "lastOpenFiles": [
+    "Stochastic Processes.md",
     "galton watson branching process.md",
     "random sum properties.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "exercise set 1 problem 6 stochastic processes.md",
-    "Stochastic Processes.md",
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",

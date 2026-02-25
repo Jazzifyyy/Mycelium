@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random walk.md",
+                "file": "exercise set 2 problem 4 stochastic processes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "random walk"
+              "title": "exercise set 2 problem 4 stochastic processes"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "random walk.md",
+            "file": "exercise set 2 problem 4 stochastic processes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,11 +180,11 @@
   },
   "active": "a23367d54b20ed03",
   "lastOpenFiles": [
-    "gambler's ruin.md",
-    "random walk.md",
     "Stochastic Processes.md",
-    "galton watson branching process.md",
     "exercise set 2 problem 5 stochastic processes.md",
+    "random walk.md",
+    "gambler's ruin.md",
+    "galton watson branching process.md",
     "Books.base",
     "The Metamorphosis.md",
     "random sum properties.md",

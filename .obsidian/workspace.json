@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2ec9dceebc208ae",
+  "active": "cc18f53713718548",
   "lastOpenFiles": [
     "galton watson branching process.md",
     "random sum properties.md",

@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a23367d54b20ed03",
+            "id": "6e4b6ee554caa743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "galton watson branching process.md",
-                "mode": "preview",
+                "file": "one sample median test - signed test.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "galton watson branching process"
+              "title": "one sample median test - signed test"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Book",
+            "query": "Adva",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -178,15 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a23367d54b20ed03",
+  "active": "6e4b6ee554caa743",
   "lastOpenFiles": [
+    "median.md",
+    "one sample median test - signed test.md",
+    "Advanced Statistical Methods.md",
+    "galton watson branching process.md",
     "/probability generating function.md",
     "Stochastic Processes.md",
     "exercise set 2 problem 4 stochastic processes.md",
     "exercise set 2 problem 5 stochastic processes.md",
     "random walk.md",
     "gambler's ruin.md",
-    "galton watson branching process.md",
     "Books.base",
     "The Metamorphosis.md",
     "random sum properties.md",
@@ -204,9 +207,6 @@
     "/exercise set 1 problem 6 stochastic processes.md",
     "/exercise set 1 problem 5 stochastic processes.md",
     "/exercise set 1 problem 3 stochastic processes.md",
-    "/exercise set 1 problem 2 stochastic processes.md",
-    "/Stochastic Processes.md",
-    "wilcoxon's signed rank test.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

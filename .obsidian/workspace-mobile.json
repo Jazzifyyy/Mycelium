@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one sample median test - signed test.md",
+                "file": "wilcoxon's signed rank test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one sample median test - signed test"
+              "title": "wilcoxon's signed rank test"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "6e4b6ee554caa743",
   "lastOpenFiles": [
-    "median.md",
     "one sample median test - signed test.md",
+    "wilcoxon's signed rank test.md",
+    "median.md",
     "Advanced Statistical Methods.md",
     "galton watson branching process.md",
     "/probability generating function.md",
@@ -206,7 +207,6 @@
     "/probability of getting two consecutive heads in repeated coin tosses.md",
     "/exercise set 1 problem 6 stochastic processes.md",
     "/exercise set 1 problem 5 stochastic processes.md",
-    "/exercise set 1 problem 3 stochastic processes.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

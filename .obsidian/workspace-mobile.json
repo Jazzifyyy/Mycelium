@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mann-whitney u statistic.md",
+                "file": "kruskal wallis test for the equality of medians of multiple groups.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mann-whitney u statistic"
+              "title": "kruskal wallis test for the equality of medians of multiple groups"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mann-whitney u statistic.md",
+            "file": "kruskal wallis test for the equality of medians of multiple groups.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,9 +180,12 @@
   },
   "active": "6e4b6ee554caa743",
   "lastOpenFiles": [
-    "wilcoxon's rank sum test.md",
     "Advanced Statistical Methods.md",
+    "fligner killeen test.md",
     "wilcoxon's signed rank test.md",
+    "wilcoxon's rank sum test.md",
+    "example of performing the wilcoxon's rank sum test.md",
+    "mann-whitney u statistic.md",
     "one sample median test - signed test.md",
     "one sample estimation of the median.md",
     "example of performing the wilcoxon's signed rank test.md",
@@ -204,9 +207,6 @@
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
-    "/the generating function of the sum of two random variables is the product of their generating functions.md",
-    "/root of unity filter.md",
-    "/random sum properties.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

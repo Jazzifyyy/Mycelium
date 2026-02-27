@@ -65,7 +65,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -229,8 +229,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8aaf3872192757",
+  "active": "b2ec9dceebc208ae",
   "lastOpenFiles": [
+    "exercise set 1 problem 2 stochastic processes.md",
     "Stochastic Processes.md",
     "probability generating function.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",
@@ -244,7 +245,6 @@
     "galton watson branching process.md",
     "exercise set 1 problem 6 stochastic processes.md",
     "exercise set 1 problem 5 stochastic processes.md",
-    "exercise set 1 problem 2 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "generating function of a random variable.md",
     "clone directory/README.md",

@@ -24,56 +24,32 @@ Repeat part (a)-(c) with $n=50,100,200,500,1000$. What do you observe?
 ```r
 #| label: f5ca38f7
 
-generate_covariates <- function(n){
-	alpha <- 2
-	beta <- 3
-	x <- rnorm(n, mean = 25, sd = 2)
-	x
+generate_covariates <- function(n){ 
+	x <- rnorm(n, mean = 25, sd = 2) 
+	return(x)
 }
 ```
 ## Part b
 
 ```r
 #| label: 59e19706
-generate_data <- function(n){
-	generate_covariates(n)
-	epsilon <- rnorm(n, mean = 0, sd = 1)
-	y <- alpha + beta * x + epsilon
-	model <- lm(y ~ x)
-	coef(model)
-}
+generate_data <- function(n){ 
+	alpha <- 2 
+	beta <- 3 
+	x <- generate_covariates(n) 
+	epsilon <- rnorm(n, mean = 0, sd = 1) 
+	y <- alpha + beta * x + epsilon 
+	model <- lm(y ~ x) 
+	return(coef(model))
 ```
 ## Part c
 ```r
 #| label: 7a61b537
-alpha_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[1]) |> as.numeric()
-beta_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[2]) |> as.numeric()
-alpha_estimates_100 <- replicate(n = 1000, expr = generate_data(100)[1]) |> as.numeric()
-beta_estimates_100 <- replicate(n = 1000, expr = generate_data(100)[2]) |> as.numeric()
-alpha_estimates_200 <- replicate(n = 1000, expr = generate_data(200)[1]) |> as.numeric()
-beta_estimates_200 <- replicate(n = 1000, expr = generate_data(200)[2]) |> as.numeric()
-alpha_estimates_500 <- replicate(n = 1000, expr = generate_data(500)[1]) |> as.numeric()
-beta_estimates_500 <- replicate(n = 1000, expr = generate_data(500)[2]) |> as.numeric()
-alpha_estimates_1000 <- replicate(n = 1000, expr = generate_data(1000)[1]) |> as.numeric()
-beta_estimates_1000 <- replicate(n = 1000, expr = generate_data(1000)[2]) |> as.numeric()
-hist(alpha_estimates_50)
-hist(beta_estimates_50)
-hist(alpha_estimates_100)
+
 ```
 > [!OUTPUT]+ {#output-7a61b537}
-> ```
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: variable lengths differ ​(found for 'x'​)
-> Error: object 'alpha​_estimates​_50' not found
-> Error: object 'beta​_estimates​_50' not found
-> Error: object 'alpha​_estimates​_100' not found
-> ```
+> ![center|480](plots/plot_7a61b537_1_20260228161233.jpg)
+> ![center|480](plots/plot_7a61b537_2_20260228161233.jpg)
+> ![center|480](plots/plot_7a61b537_3_20260228161233.jpg)
+> 
 

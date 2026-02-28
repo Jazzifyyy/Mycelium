@@ -15,21 +15,28 @@ Construct $y_{1},\dots,y_{n}$ using $y_{i}=\alpha+\beta x_{i}+\epsilon_{i}$ for 
 
 ## Part c
 Repeat part (b) 1000 times to get estimates $\hat{\alpha}_{1},\dots,\hat{\alpha}_{1000}$ and $\hat{\beta}_{1},\dots, \hat{\beta}_{1000}$. Make histograms of $\hat{\alpha}_{i}$'s and $\hat{\beta}_{i}$'s. What do you see?
+
+## Part d
+Repeat part (a)-(c) with $n=50,100,200,500,1000$. What do you observe?
 # Solution
 
 ## Part a
 ```r
 #| label: f5ca38f7
-n <- 25
-alpha <- 2
-beta <- 3
-x <- rnorm(n, mean = 25, sd = 2)
+
+generate_covariates <- function(n){
+	alpha <- 2
+	beta <- 3
+	x <- rnorm(n, mean = 25, sd = 2)
+	x
+}
 ```
 ## Part b
 
 ```r
 #| label: 59e19706
-generate_data <- function(){
+generate_data <- function(n){
+	generate_covariates(n)
 	epsilon <- rnorm(n, mean = 0, sd = 1)
 	y <- alpha + beta * x + epsilon
 	model <- lm(y ~ x)
@@ -39,8 +46,10 @@ generate_data <- function(){
 ## Part c
 ```r
 #| label: 7a61b537
-alpha_estimates <- replicate(n = 1000, expr = generate_data()[1]) |> as.numeric()
-beta_estimates <- replicate(n = 1000, expr = generate_data()[2]) |> as.numeric()
+alpha_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[1]) |> as.numeric()
+beta_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[2]) |> as.numeric()
+alpha_estimates_100 <- replicate(n = 1000, expr = generate_data(100)[1]) |> as.numeric()
+
 hist(alpha_estimates)
 hist(beta_estimates)
 ```

@@ -182,7 +182,7 @@
   "batchInteractive": false,
   "bashInteractive": false,
   "groovyInteractive": false,
-  "rInteractive": true,
+  "rInteractive": false,
   "goInteractive": false,
   "rustInteractive": false,
   "javaInteractive": false,

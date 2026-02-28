@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "series 2 problem 6 (linear statistical models).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",

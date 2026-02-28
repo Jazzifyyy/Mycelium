@@ -1,7 +1,7 @@
 {
   "typomagical-colour@@theme-variant": "obsidian",
-  "typomagical-colour@@background-color-enable": false,
-  "typomagical-colour@@ss-background-color": "#282828",
+  "typomagical-colour@@background-color-enable": true,
+  "typomagical-colour@@ss-background-color": "#232323",
   "typomagical-text@@body-ligatures": true,
   "typomagical-text@@mjx-font": "mathjax-font-default",
   "typomagical-text@@font-default": "Spectral",

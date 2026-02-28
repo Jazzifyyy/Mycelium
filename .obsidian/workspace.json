@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "fec9103bb6c68ebd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "f74a50fd1e31e991",
             "type": "leaf",
             "state": {
@@ -256,10 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fec9103bb6c68ebd",
+  "active": "f74a50fd1e31e991",
   "lastOpenFiles": [
-    "Linear Statistical Models.md",
+    "regression model.md",
     "series 2 problem 6 (linear statistical models).md",
+    "Linear Statistical Models.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "exercise set 1 problem 2 stochastic processes.md",
@@ -284,7 +273,6 @@
     "homework 1 problem 1 advanced statistical methods.md",
     "wilcoxon's rank sum test.md",
     "example of performing the wilcoxon's rank sum test.md",
-    "Advanced Statistical Methods.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

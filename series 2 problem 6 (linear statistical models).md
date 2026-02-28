@@ -52,37 +52,31 @@ results_200 <- replicate(1000, generate_data(200))
 results_500 <- replicate(1000, generate_data(500)) 
 results_1000 <- replicate(1000, generate_data(1000))
 
-b_alpha <- seq(1.5, 2.5, length.out = 40) 
-b_beta <- seq(2.9, 3.1, length.out = 40)
+# 1. Find the full range for Alpha and Beta across all results
+all_alphas <- c(results_50[1,], results_100[1,], results_200[1,], results_500[1,], results_1000[1,])
+all_betas  <- c(results_50[2,], results_100[2,], results_200[2,], results_500[2,], results_1000[2,])
 
-hist(results_50[1,], breaks = b_alpha, xlim = c(1.5, 2.5), main="Alpha n=50")
-hist(results_100[1,], breaks = b_alpha, xlim = c(1.5, 2.5), main="Alpha n=100") 
-hist(results_200[1,], breaks = b_alpha, xlim = c(1.5, 2.5), main="Alpha n=200") 
-hist(results_500[1,], breaks = b_alpha, xlim = c(1.5, 2.5), main="Alpha n=500") 
-hist(results_1000[1,], breaks = b_alpha, xlim = c(1.5, 2.5), main="Alpha n=1000")
+# 2. Create the bins based on those ranges
+b_alpha <- seq(min(all_alphas), max(all_alphas), length.out = 40)
+b_beta  <- seq(min(all_betas),  max(all_betas),  length.out = 40)
 
-hist(results_50[2,], breaks = b_beta, xlim = c(2.9, 3.1), main="Beta n=50")
- 
-hist(results_100[2,], breaks = b_beta, xlim = c(2.9, 3.1), main="Beta n=100")
+# 3. Plot Alphas (Column 1)
+par(mfcol = c(5, 2), mar = c(2, 2, 2, 1))
 
-hist(results_200[2,], breaks = b_beta, xlim = c(2.9, 3.1), main="Beta n=200")
+hist(results_50[1,],   breaks = b_alpha, main="Alpha n=50")
+hist(results_100[1,],  breaks = b_alpha, main="Alpha n=100")
+hist(results_200[1,],  breaks = b_alpha, main="Alpha n=200")
+hist(results_500[1,],  breaks = b_alpha, main="Alpha n=500")
+hist(results_1000[1,], breaks = b_alpha, main="Alpha n=1000")
 
-hist(results_500[2,], breaks = b_beta, xlim = c(2.9, 3.1), main="Beta n=500")
-
-hist(results_1000[2,], breaks = b_beta, xlim = c(2.9, 3.1), main="Beta n=1000")
+# 4. Plot Betas (Column 2)
+hist(results_50[2,],   breaks = b_beta, main="Beta n=50")
+hist(results_100[2,],  breaks = b_beta, main="Beta n=100")
+hist(results_200[2,],  breaks = b_beta, main="Beta n=200")
+hist(results_500[2,],  breaks = b_beta, main="Beta n=500")
+hist(results_1000[2,], breaks = b_beta, main="Beta n=1000")
 ```
 > [!OUTPUT]+ {#output-7a61b537}
-> ```
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> Error: some 'x' not counted; maybe 'breaks' do not span range of 'x'
-> ```
-> ![center|480](plots/plot_7a61b537_1_20260228162502.jpg)
-> ![center|480](plots/plot_7a61b537_2_20260228162502.jpg)
+> ![center|480](plots/plot_7a61b537_1_20260228162713.jpg)
 > 
 

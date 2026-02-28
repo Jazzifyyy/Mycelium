@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "series 2 problem 6 (linear statistical models).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -273,6 +273,7 @@
   },
   "active": "f74a50fd1e31e991",
   "lastOpenFiles": [
+    "plots/plot_7a61b537_1_20260228162713.jpg",
     "plots/plot_7a61b537_2_20260228162502.jpg",
     "plots/plot_7a61b537_1_20260228162502.jpg",
     "plots/plot_7a61b537_10_20260228161923.jpg",
@@ -283,7 +284,6 @@
     "plots/plot_7a61b537_5_20260228161923.jpg",
     "plots/plot_7a61b537_4_20260228161923.jpg",
     "plots/plot_7a61b537_3_20260228161923.jpg",
-    "plots/plot_7a61b537_2_20260228161923.jpg",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",

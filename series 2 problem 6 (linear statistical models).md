@@ -15,7 +15,7 @@ Construct $y_{1},\dots,y_{n}$ using $y_{i}=\alpha+\beta x_{i}+\epsilon_{i}$ for 
 # Solution
 
 ## Part a
-```r
+```r {pre}
 n <- 25
 alpha <- 2
 beta <- 3
@@ -25,5 +25,8 @@ print(x)
 ## Part b
 
 ```r
-
+epsilon <- rnorm(n, mean = 0, sd = 1)
+y <- alpha + beta * x + epsilon
+model <- lm(y ~ x)
+model
 ```

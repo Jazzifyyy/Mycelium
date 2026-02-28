@@ -37,5 +37,7 @@ generate_data <- function(){
 ## Part c
 ```r
 alpha_estimates <- replicate(n = 1000, expr = generate_data()[1]) |> as.numeric()
-alpha_estimates |> head(5)
+beta_estimates <- replicate(n = 1000, expr = generate_data()[2]) |> as.numeric()
+alpha_estimates |> head(10)
+hist(alpha_estimates)
 ```

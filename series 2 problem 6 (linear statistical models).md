@@ -26,11 +26,15 @@ x <- rnorm(n, mean = 25, sd = 2)
 ```
 ## Part b
 
-```r
-generate_data <- function(){}
-epsilon <- rnorm(n, mean = 0, sd = 1)
-y <- alpha + beta * x + epsilon
-model <- lm(y ~ x)
-model
+```r {pre}
+generate_data <- function(){
+	epsilon <- rnorm(n, mean = 0, sd = 1)
+	y <- alpha + beta * x + epsilon
+	model <- lm(y ~ x)
+	coef(model)
+}
 ```
 ## Part c
+```r
+alpha_estimates <- replicate(n = 1000, expr = generate_data())
+```

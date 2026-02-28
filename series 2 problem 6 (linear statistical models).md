@@ -24,21 +24,19 @@ Repeat part (a)-(c) with $n=50,100,200,500,1000$. What do you observe?
 ```r
 #| label: f5ca38f7
 
-generate_covariates <- function(n){ 
-	x <- rnorm(n, mean = 25, sd = 2) 
-	return(x)
-}
+x_50 <- rnorm(50, 25, 2) 
+x_100 <- rnorm(100, 25, 2) 
+x_200 <- rnorm(200, 25, 2) 
+x_500 <- rnorm(500, 25, 2) 
+x_1000 <- rnorm(1000, 25, 2)
 ```
 ## Part b
 
 ```r
 #| label: 59e19706
-generate_data <- function(n){ 
-	alpha <- 2 
-	beta <- 3 
-	x <- generate_covariates(n) 
-	epsilon <- rnorm(n, mean = 0, sd = 1) 
-	y <- alpha + beta * x + epsilon 
+generate_data <- function(x){ 
+	n <- length(x)
+	y <- 2 + 3 * x + rnorm(n, mean = 0, sd = 1)
 	model <- lm(y ~ x) 
 	return(coef(model))
 }	
@@ -46,11 +44,11 @@ generate_data <- function(n){
 ## Part c
 ```r
 #| label: 7a61b537
-results_50 <- replicate(1000, generate_data(50)) 
-results_100 <- replicate(1000, generate_data(100)) 
-results_200 <- replicate(1000, generate_data(200)) 
-results_500 <- replicate(1000, generate_data(500)) 
-results_1000 <- replicate(1000, generate_data(1000))
+results_50 <- replicate(1000, generate_data(x_50)) 
+results_100 <- replicate(1000, generate_data(x_100)) 
+results_200 <- replicate(1000, generate_data(x_200)) 
+results_500 <- replicate(1000, generate_data(x_500)) 
+results_1000 <- replicate(1000, generate_data(x_1000))
 
 # 1. Find the full range for Alpha and Beta across all results
 all_alphas <- c(results_50[1,], results_100[1,], results_200[1,], results_500[1,], results_1000[1,])

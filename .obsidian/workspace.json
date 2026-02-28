@@ -223,6 +223,33 @@
               "icon": "links-coming-in",
               "title": "Backlinks for radius of convergence of a convolution sequence"
             }
+          },
+          {
+            "id": "a5043f68f5f0d1ee",
+            "type": "leaf",
+            "state": {
+              "type": "r-environment-view",
+              "state": {},
+              "icon": "table",
+              "title": "R Environment"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "26f71d4c42a04d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2582b34cfdce6aa",
+            "type": "leaf",
+            "state": {
+              "type": "r-help-view",
+              "state": {},
+              "icon": "info",
+              "title": "R Help"
+            }
           }
         ]
       }
@@ -244,7 +271,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74a50fd1e31e991",
+  "active": "b2582b34cfdce6aa",
   "lastOpenFiles": [
     "regression model.md",
     "series 2 problem 6 (linear statistical models).md",

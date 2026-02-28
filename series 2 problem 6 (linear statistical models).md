@@ -18,7 +18,7 @@ Repeat part (b) 1000 times to get estimates $\hat{\alpha}_{1},\dots,\hat{\alpha}
 # Solution
 
 ## Part a
-```r {pre}
+```r
 n <- 25
 alpha <- 2
 beta <- 3
@@ -26,7 +26,7 @@ x <- rnorm(n, mean = 25, sd = 2)
 ```
 ## Part b
 
-```r {pre}
+```r
 generate_data <- function(){
 	epsilon <- rnorm(n, mean = 0, sd = 1)
 	y <- alpha + beta * x + epsilon
@@ -36,8 +36,15 @@ generate_data <- function(){
 ```
 ## Part c
 ```r
+#| label: 7a61b537
 alpha_estimates <- replicate(n = 1000, expr = generate_data()[1]) |> as.numeric()
 beta_estimates <- replicate(n = 1000, expr = generate_data()[2]) |> as.numeric()
 alpha_estimates |> head(10)
 hist(alpha_estimates)
 ```
+> [!OUTPUT]+ {#output-7a61b537}
+> ```
+> Error:
+> Error: R executable not found at /usr/local/bin/R.
+> ```
+

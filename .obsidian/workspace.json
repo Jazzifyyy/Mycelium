@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "series 2 problem 6 (linear statistical models).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -271,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2582b34cfdce6aa",
+  "active": "f74a50fd1e31e991",
   "lastOpenFiles": [
     "regression model.md",
     "series 2 problem 6 (linear statistical models).md",

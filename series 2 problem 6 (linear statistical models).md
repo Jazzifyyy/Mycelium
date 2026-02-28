@@ -49,12 +49,31 @@ generate_data <- function(n){
 alpha_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[1]) |> as.numeric()
 beta_estimates_50 <- replicate(n = 1000, expr = generate_data(50)[2]) |> as.numeric()
 alpha_estimates_100 <- replicate(n = 1000, expr = generate_data(100)[1]) |> as.numeric()
-
-hist(alpha_estimates)
-hist(beta_estimates)
+beta_estimates_100 <- replicate(n = 1000, expr = generate_data(100)[2]) |> as.numeric()
+alpha_estimates_200 <- replicate(n = 1000, expr = generate_data(200)[1]) |> as.numeric()
+beta_estimates_200 <- replicate(n = 1000, expr = generate_data(200)[2]) |> as.numeric()
+alpha_estimates_500 <- replicate(n = 1000, expr = generate_data(500)[1]) |> as.numeric()
+beta_estimates_500 <- replicate(n = 1000, expr = generate_data(500)[2]) |> as.numeric()
+alpha_estimates_1000 <- replicate(n = 1000, expr = generate_data(1000)[1]) |> as.numeric()
+beta_estimates_1000 <- replicate(n = 1000, expr = generate_data(1000)[2]) |> as.numeric()
+hist(alpha_estimates_50)
+hist(beta_estimates_50)
+hist(alpha_estimates_100)
 ```
 > [!OUTPUT]+ {#output-7a61b537}
-> ![center|480](plots/plot_7a61b537_1_20260228155957.jpg)
-> ![center|480](plots/plot_7a61b537_2_20260228155957.jpg)
-> 
+> ```
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: variable lengths differ ​(found for 'x'​)
+> Error: object 'alpha​_estimates​_50' not found
+> Error: object 'beta​_estimates​_50' not found
+> Error: object 'alpha​_estimates​_100' not found
+> ```
 

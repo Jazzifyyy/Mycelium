@@ -75,6 +75,6 @@ hist(results_500[2,],  breaks = b_beta, main="Beta n=500")
 hist(results_1000[2,], breaks = b_beta, main="Beta n=1000")
 ```
 > [!OUTPUT]+ {#output-7a61b537}
-> ![center|480](plots/plot_7a61b537_1_20260228162713.jpg)
+> ![center|480](plots/plot_7a61b537_1_20260228163538.jpg)
 > 
 

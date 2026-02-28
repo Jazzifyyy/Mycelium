@@ -41,15 +41,39 @@ generate_data <- function(n){
 	y <- alpha + beta * x + epsilon 
 	model <- lm(y ~ x) 
 	return(coef(model))
+}	
 ```
 ## Part c
 ```r
 #| label: 7a61b537
+results_50 <- replicate(1000, generate_data(50)) 
+results_100 <- replicate(1000, generate_data(100)) 
+results_200 <- replicate(1000, generate_data(200)) 
+results_500 <- replicate(1000, generate_data(500)) 
+results_1000 <- replicate(1000, generate_data(1000))
 
+hist(results_50[1,], main="Alpha n=50") 
+hist(results_100[1,], main="Alpha n=100") 
+hist(results_200[1,], main="Alpha n=200") 
+hist(results_500[1,], main="Alpha n=500") 
+hist(results_1000[1,], main="Alpha n=1000")
+
+hist(results_50[2,], main="Beta n=50") 
+hist(results_100[2,], main="Beta n=100") 
+hist(results_200[2,], main="Beta n=200") 
+hist(results_500[2,], main="Beta n=500") 
+hist(results_1000[2,], main="Beta n=1000")
 ```
 > [!OUTPUT]+ {#output-7a61b537}
-> ![center|480](plots/plot_7a61b537_1_20260228161233.jpg)
-> ![center|480](plots/plot_7a61b537_2_20260228161233.jpg)
-> ![center|480](plots/plot_7a61b537_3_20260228161233.jpg)
+> ![center|480](plots/plot_7a61b537_1_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_2_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_3_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_4_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_5_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_6_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_7_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_8_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_9_20260228161923.jpg)
+> ![center|480](plots/plot_7a61b537_10_20260228161923.jpg)
 > 
 

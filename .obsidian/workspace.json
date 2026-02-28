@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "cc18f53713718548",
+            "id": "7b92286e838e62a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "galton watson branching process.md",
-                "mode": "preview",
+                "file": "Linear Statistical Models.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,17 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "galton watson branching process"
+              "title": "Linear Statistical Models"
             }
           },
           {
-            "id": "b2ec9dceebc208ae",
+            "id": "f74a50fd1e31e991",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "series 2 problem 6 (linear statistical models).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "series 2 problem 6 (linear statistical models)"
             }
           }
         ],
@@ -123,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -229,8 +244,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2ec9dceebc208ae",
+  "active": "f74a50fd1e31e991",
   "lastOpenFiles": [
+    "series 2 problem 6 (linear statistical models).md",
+    "Linear Statistical Models.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
+    "galton watson branching process.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "Stochastic Processes.md",
     "probability generating function.md",
@@ -240,9 +259,7 @@
     "convolution of two sequences.md",
     "generating function of a convolution sequence.md",
     "radius of convergence of a convolution sequence.md",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "galton watson branching process.md",
     "exercise set 1 problem 6 stochastic processes.md",
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
@@ -256,8 +273,6 @@
     "wilcoxon's rank sum test.md",
     "example of performing the wilcoxon's rank sum test.md",
     "Advanced Statistical Methods.md",
-    "kruskal wallis test for the equality of medians of multiple groups.md",
-    "mann-whitney u statistic.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",

@@ -8,3 +8,6 @@ tags:
 
 # Problems
 + [[series 1 problem 3 (linear statistical models)]]
+
+# Assignment
++ [[series 2 problem 6 (linear statistical models)]]

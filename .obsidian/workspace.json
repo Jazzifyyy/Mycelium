@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Statistical Models.md",
-                "mode": "source",
+                "file": "regression model.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Statistical Models"
+              "title": "regression model"
+            }
+          },
+          {
+            "id": "fec9103bb6c68ebd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           },
           {
@@ -244,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74a50fd1e31e991",
+  "active": "fec9103bb6c68ebd",
   "lastOpenFiles": [
-    "series 2 problem 6 (linear statistical models).md",
     "Linear Statistical Models.md",
+    "series 2 problem 6 (linear statistical models).md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "exercise set 1 problem 2 stochastic processes.md",

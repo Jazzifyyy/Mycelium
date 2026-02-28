@@ -18,16 +18,17 @@ Repeat part (b) 1000 times to get estimates $\hat{\alpha}_{1},\dots,\hat{\alpha}
 # Solution
 
 ## Part a
-```r
+```{r}
 #| label: f5ca38f7
 n <- 25
 alpha <- 2
 beta <- 3
 x <- rnorm(n, mean = 25, sd = 2)
+x
 ```
 ## Part b
 
-```r
+```{r}
 #| label: 59e19706
 generate_data <- function(){
 	epsilon <- rnorm(n, mean = 0, sd = 1)
@@ -37,15 +38,12 @@ generate_data <- function(){
 }
 ```
 ## Part c
-```r
+```{r}
 #| label: 7a61b537
 alpha_estimates <- replicate(n = 1000, expr = generate_data()[1]) |> as.numeric()
 beta_estimates <- replicate(n = 1000, expr = generate_data()[2]) |> as.numeric()
+alpha_estimates |> head(10)
 hist(alpha_estimates)
-hist(beta_estimates)
 ```
-> [!OUTPUT]+ {#output-7a61b537}
-> ![center|480](plots/plot_7a61b537_1_20260228155957.jpg)
-> ![center|480](plots/plot_7a61b537_2_20260228155957.jpg)
-> 
+ ```
 

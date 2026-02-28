@@ -224,7 +224,7 @@
             }
           },
           {
-            "id": "a5043f68f5f0d1ee",
+            "id": "a3ee2d3c97863863",
             "type": "leaf",
             "state": {
               "type": "r-environment-view",
@@ -237,11 +237,11 @@
         "currentTab": 5
       },
       {
-        "id": "26f71d4c42a04d6e",
+        "id": "4929660c7e34eaa9",
         "type": "tabs",
         "children": [
           {
-            "id": "b2582b34cfdce6aa",
+            "id": "4dad0b63f47f4dec",
             "type": "leaf",
             "state": {
               "type": "r-help-view",
@@ -272,6 +272,18 @@
   },
   "active": "f74a50fd1e31e991",
   "lastOpenFiles": [
+    "plots/plot_7a61b537_2_20260228155957.jpg",
+    "plots/plot_7a61b537_1_20260228155957.jpg",
+    "plots/plot_7a61b537_1_20260228155935.jpg",
+    "plots/plot_7a61b537_1_20260228155927.jpg",
+    "plots/plot_7a61b537_1_20260228155839.jpg",
+    "plots/plot_7a61b537_1_20260228155754.jpg",
+    "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
+    "exports/series_2_problem_6__linear_statistical_models_",
+    "exports",
+    "plots/plot_7a61b537_1_20260228155619.jpg",
+    "plots/plot_7a61b537_1_20260228155508.jpg",
+    "plots",
     "regression model.md",
     "series 2 problem 6 (linear statistical models).md",
     "Linear Statistical Models.md",
@@ -298,19 +310,11 @@
     "example of performing the wilcoxon's signed rank test.md",
     "homework 1 problem 1 advanced statistical methods.md",
     "wilcoxon's rank sum test.md",
-    "example of performing the wilcoxon's rank sum test.md",
     "Pasted image 20260210195311.png",
     "Pasted image 20260210194719.png",
     "Pasted image 20260210194650.png",
-    "Pasted image 20260210194042.png",
-    "Pasted image 20260210193602.png",
     "Books.base",
-    "Books/the_metamorphosis.jpg",
-    "Books/the_wise_man's_fear.jpg",
-    "Books/the_name_of_the_wind.jpg",
-    "Pasted image 20260208003640.png",
     "Books",
-    "Pasted image 20260131190045.png",
     "Attachments",
     "Notes"
   ]

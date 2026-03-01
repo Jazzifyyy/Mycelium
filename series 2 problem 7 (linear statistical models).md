@@ -15,7 +15,7 @@ Fix $\sigma^2 =1$. Construct $y$ using $y_{i} = \alpha+\beta x_{i} + \epsilon_{i
 
 ```r
 #| label: e629fa65
-x <- rnorm(n = 100,mean = 5, sd = 1)
+x <- rnorm(n = 100, mean = 5, sd = 1)
 generate_data <- function(sigma_square){
 	y = 2 + 3 * x + rnorm(n = 100, mean = 0, sd = sqrt(sigma_square))
 	model <- lm(y ~ x)
@@ -47,13 +47,13 @@ hist(results_0.1[1,], breaks = b_alpha, main = "Alpha sigma^2 = 0.1")
 hist(results_1[1,], breaks = b_alpha, main = "Alpha sigma^2 = 1")
 hist(results_10[1,], breaks = b_alpha, main = "Alpha sigma^2 = 10")
 
-hist(results_0.001[2,], breaks = b_alpha, main = "Beta sigma^2 = 0.001")
-hist(results_0.01[2,], breaks = b_alpha, main = "Beta sigma^2 = 0.01")
-hist(results_0.1[2,], breaks = b_alpha, main = "Beta sigma^2 = 0.1")
-hist(results_1[2,], breaks = b_alpha, main = "Beta sigma^2 = 1")
-hist(results_10[2,], breaks = b_alpha, main = "Beta sigma^2 = 10")
+hist(results_0.001[2,], breaks = b_beta, main = "Beta sigma^2 = 0.001")
+hist(results_0.01[2,], breaks = b_beta, main = "Beta sigma^2 = 0.01")
+hist(results_0.1[2,], breaks = b_beta, main = "Beta sigma^2 = 0.1")
+hist(results_1[2,], breaks = b_beta, main = "Beta sigma^2 = 1")
+hist(results_10[2,], breaks = b_beta, main = "Beta sigma^2 = 10")
 ```
 > [!OUTPUT]+ {#output-670671cd}
-> ![center|480](plots/plot_670671cd_1_20260301105608.jpg)
+> ![center|480](plots/plot_670671cd_1_20260301110103.jpg)
 > 
 

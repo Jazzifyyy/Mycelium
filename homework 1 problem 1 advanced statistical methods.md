@@ -52,4 +52,24 @@ If $Y=7$, we have $(1,2,4,5,6,7,8)$ as the only vector.
 If $Y=8$, we don't have any favourable outcomes. 
 
 Thus, 
-$$\mathbb{P}()$$
+$$\mathbb{P}(T = 33) = \frac{2}{2^8}.$$
+For $T=34$,
+
+If $Y=6$, we don't have any favourable outcomes.
+
+If $Y=7$, we have $(1,3,4,5,6,7,8)$ as the only vector.
+
+If $Y=8$, we don't have any favourable outcomes.
+
+For $T = 35$, 
+
+If $Y=6$, we don't have any favourable outcomes.
+
+If $Y=7$, we have $(2,3,4,5,6,7,8)$ as the only vector.
+
+If $Y=8$, we don't have any favourable outcomes.
+
+For $T=36$, we have $Y=8$ and $(1,2,3,4,5,6,7,8)$ as the only vector.
+
+Thus, 
+$$\mathbb{P}(T \geq 32)= \frac{7}{2^8}$$

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework 1 problem 1 advanced statistical methods.md",
+                "file": "wilcoxon's rank sum test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homework 1 problem 1 advanced statistical methods"
+              "title": "wilcoxon's rank sum test"
             }
           },
           {
@@ -297,8 +297,8 @@
   },
   "active": "bc4cf36510f75af3",
   "lastOpenFiles": [
-    "wilcoxon's signed rank test.md",
     "homework 1 problem 1 advanced statistical methods.md",
+    "wilcoxon's signed rank test.md",
     "one sample median test - signed test.md",
     "Advanced Statistical Methods.md",
     "series 2 problem 6 (linear statistical models).md",

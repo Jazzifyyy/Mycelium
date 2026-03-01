@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,12 +295,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098d542b65d74451",
+  "active": "a94a62582085472b",
   "lastOpenFiles": [
+    "series 2 problem 6 (linear statistical models).md",
     "series 2 problem 7 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
-    "series 2 problem 6 (linear statistical models).md",
     "plots/plot_670671cd_10_20260301105547.jpg",
     "plots/plot_670671cd_9_20260301105547.jpg",
     "plots/plot_670671cd_8_20260301105547.jpg",

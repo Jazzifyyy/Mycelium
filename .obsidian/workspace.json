@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,15 +295,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc4cf36510f75af3",
+  "active": "f5c96c743cdf5075",
   "lastOpenFiles": [
-    "wilcoxon's signed rank test.md",
-    "homework 1 problem 1 advanced statistical methods.md",
     "Advanced Statistical Methods.md",
+    "homework 1 problem 1 advanced statistical methods.md",
+    "wilcoxon's signed rank test.md",
+    "series 2 problem 6 (linear statistical models).md",
     "wilcoxon's rank sum test.md",
     "Linear Statistical Models.md",
     "series 2 problem 7 (linear statistical models).md",
-    "series 2 problem 6 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

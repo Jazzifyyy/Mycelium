@@ -10,7 +10,7 @@ Suppose $X_{1},\dots,X_{n} \overset{\text{iid}}{\sim}f$ where $\text{median}(X_{
 
 Assumptions: 
 1. $f$ is a continuous distribution. 
-2. $f$ is a symmetric distribution at the value specified in the null hypothesis.
+2. $f$ is a symmetric distribution.
 
 # Motivation
 

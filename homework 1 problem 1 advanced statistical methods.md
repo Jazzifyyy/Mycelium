@@ -35,4 +35,10 @@ The test statistic is $T = \sum_{i=1}^8 R_{i}Y_{i}=32$.
 
 Note that for $Y \in \{ 1,2,3,4,5 \}$, we don't have favourable outcomes. 
 
-If $Y = 6$, we have $(2,4,5,6,7,8)$ and $()$
+If $Y = 6$, we have $(2,4,5,6,7,8)$ as the only vector.
+
+If $Y=7$, we have $(1,2,3,5,6,7,8)$ as the only vector.
+
+If $Y = 8$, we don't have any favourable outcomes. 
+
+Thus, $$\mathbb{P}(T=32)= \frac{2}{2^8}$$

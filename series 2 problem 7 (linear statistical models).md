@@ -25,5 +25,11 @@ generate_data <- function(sigma_square){
 ## Part c
 
 ```r
-results_
+results_0.001 <- replicate(1000, generate_data(0.001))
+results_0.01 <- replicate(1000, generate_data(0.01))
+results_0.1 <- replicate(1000, generate_data(0.1))
+results_1 <- replicate(1000, generate_data(1))
+results_10 <- replicate(1000, generate_data(10))
+
+
 ```

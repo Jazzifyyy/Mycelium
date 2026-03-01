@@ -31,5 +31,11 @@ results_0.1 <- replicate(1000, generate_data(0.1))
 results_1 <- replicate(1000, generate_data(1))
 results_10 <- replicate(1000, generate_data(10))
 
+all_alphas <- c(results_0.001[1,], results_0.01[1,], results_0.1[1,], results_1[1,], results_10[1,])
+all_betas <- c(results_0.001[2,], results_0.01[2,], results_0.1[2,], results_1[2,], results_10[2,])
 
+b_alpha <- seq(min(all_alphas), max(all_alphas), length.out = 40)
+b_beta <- seq(min(all_betas), max(all_betas), length.out = 40)
+
+par(c())
 ```

@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linear Statistical Models.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a94a62582085472b",
+  "active": "f293778c92ff8003",
   "lastOpenFiles": [
-    "series 2 problem 6 (linear statistical models).md",
     "series 2 problem 7 (linear statistical models).md",
+    "series 2 problem 6 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

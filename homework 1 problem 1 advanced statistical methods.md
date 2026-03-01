@@ -32,3 +32,4 @@ We use [[wilcoxon's signed rank test]] where $X_{i}$'s are obtained after subtra
 | 76     | 80   | -4                  | 0                       | 4       | 3   | 0    |
 | 65     | 62   | 3                   | 1                       | 3       | 2   | 2    |
 The test statistic is $T = \sum_{i=1}^8 R_{i}Y_{i}=32$.
+

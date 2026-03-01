@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5c96c743cdf5075",
+  "active": "bc4cf36510f75af3",
   "lastOpenFiles": [
-    "homework 1 problem 1 advanced statistical methods.md",
     "wilcoxon's signed rank test.md",
+    "homework 1 problem 1 advanced statistical methods.md",
     "one sample median test - signed test.md",
     "Advanced Statistical Methods.md",
     "series 2 problem 6 (linear statistical models).md",

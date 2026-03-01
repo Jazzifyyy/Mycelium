@@ -21,13 +21,14 @@ This dataset is drawn from a study discussed by Siegel (1956). It involves eight
 # Solution
 We use [[wilcoxon's signed rank test]] where $X_{i}$'s are obtained after subtracting the home score from the school score of the $i$th pair.
 
-| school | home | X = school - home | \|X -  |     |
-| ------ | ---- | ----------------- | ------ | --- |
-| 82     | 63   | 19                |        |     |
-| 69     | 42   | 27                |        |     |
-| 73     | 74   | -1                |        |     |
-| 43     | 37   | 6                 |        |     |
-| 58     | 51   | 7                 |        |     |
-| 56     | 43   | 13                |        |     |
-| 76     | 80   | -4                |        |     |
-| 65     | 62   | 3                 |        |     |
+| school | home | $X$ = school - home | $Y = \mathbb{1}(X > 0)$ | \|$X$\| | $R$ | $RY$ |
+| ------ | ---- | ------------------- | ----------------------- | ------- | --- | ---- |
+| 82     | 63   | 19                  | 1                       | 19      | 7   | 7    |
+| 69     | 42   | 27                  | 1                       | 27      | 8   | 8    |
+| 73     | 74   | -1                  | 0                       | 1       | 1   | 0    |
+| 43     | 37   | 6                   | 1                       | 6       | 4   | 4    |
+| 58     | 51   | 7                   | 1                       | 7       | 5   | 5    |
+| 56     | 43   | 13                  | 1                       | 13      | 6   | 6    |
+| 76     | 80   | -4                  | 0                       | 4       | 3   | 0    |
+| 65     | 62   | 3                   | 1                       | 3       | 2   | 2    |
+The test statistic is $T = \sum_{i=1}^8 R_{i}Y_{i}=32$.

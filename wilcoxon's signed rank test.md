@@ -12,6 +12,8 @@ Assumptions:
 1. $f$ is a continuous distribution. 
 2. $f$ is a symmetric distribution.
 
+To test 
+$$H_{0}: \theta = \theta_{0} \text{ vs. }H_{a}.$$
 # Motivation
 
 Under the null hypothesis, we expect our observations to surround the true median "in an equal manner" (this is quantified by the test statistic below). If the observations seems to be deviating towards one side, then we have more reason to believe that the null hypothesis is false.

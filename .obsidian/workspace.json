@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b8aaf3872192757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercise set 1 problem 2 stochastic processes.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "exercise set 1 problem 2 stochastic processes"
-            }
-          },
-          {
-            "id": "7b92286e838e62a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regression model.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "regression model"
-            }
-          },
-          {
             "id": "f74a50fd1e31e991",
             "type": "leaf",
             "state": {
@@ -77,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "series 2 problem 6 (linear statistical models)"
+            }
+          },
+          {
+            "id": "f293778c92ff8003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Statistical Models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linear Statistical Models"
+            }
+          },
+          {
+            "id": "a94a62582085472b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "series 2 problem 7 (linear statistical models).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "series 2 problem 7 (linear statistical models)"
             }
           }
         ],
@@ -271,8 +271,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74a50fd1e31e991",
+  "active": "a94a62582085472b",
   "lastOpenFiles": [
+    "series 2 problem 7 (linear statistical models).md",
+    "Linear Statistical Models.md",
+    "series 2 problem 6 (linear statistical models).md",
+    "exercise set 1 problem 2 stochastic processes.md",
+    "regression model.md",
     "plots/plot_7a61b537_1_20260228163538.jpg",
     "plots/plot_7a61b537_1_20260228162713.jpg",
     "plots/plot_7a61b537_2_20260228162502.jpg",
@@ -283,17 +288,12 @@
     "plots/plot_7a61b537_7_20260228161923.jpg",
     "plots/plot_7a61b537_6_20260228161923.jpg",
     "plots/plot_7a61b537_5_20260228161923.jpg",
-    "plots/plot_7a61b537_4_20260228161923.jpg",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",
     "plots",
-    "regression model.md",
-    "series 2 problem 6 (linear statistical models).md",
-    "Linear Statistical Models.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
-    "exercise set 1 problem 2 stochastic processes.md",
     "Stochastic Processes.md",
     "probability generating function.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",

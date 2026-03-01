@@ -11,3 +11,4 @@ tags:
 
 # Assignment
 + [[series 2 problem 6 (linear statistical models)]]
++ [[series 2 problem 7 (linear statistical models)]]

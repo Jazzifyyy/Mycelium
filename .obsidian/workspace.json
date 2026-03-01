@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f293778c92ff8003",
+            "id": "0c1bab5182dc5f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Statistical Models.md",
+                "file": "Advanced Statistical Methods.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Statistical Models"
+              "title": "Advanced Statistical Methods"
             }
           },
           {
-            "id": "098d542b65d74451",
+            "id": "bc4cf36510f75af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series 2 problem 6 (linear statistical models).md",
-                "mode": "preview",
+                "file": "homework 1 problem 1 advanced statistical methods.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "series 2 problem 6 (linear statistical models)"
+              "title": "homework 1 problem 1 advanced statistical methods"
             }
           },
           {
-            "id": "a94a62582085472b",
+            "id": "f5c96c743cdf5075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series 2 problem 7 (linear statistical models).md",
+                "file": "wilcoxon's signed rank test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "series 2 problem 7 (linear statistical models)"
+              "title": "wilcoxon's signed rank test"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,8 +295,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f293778c92ff8003",
+  "active": "bc4cf36510f75af3",
   "lastOpenFiles": [
+    "wilcoxon's signed rank test.md",
+    "homework 1 problem 1 advanced statistical methods.md",
+    "Advanced Statistical Methods.md",
+    "wilcoxon's rank sum test.md",
+    "Linear Statistical Models.md",
     "series 2 problem 7 (linear statistical models).md",
     "series 2 problem 6 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",
@@ -309,7 +314,6 @@
     "plots/plot_670671cd_5_20260301105547.jpg",
     "plots/plot_670671cd_4_20260301105547.jpg",
     "plots/plot_670671cd_3_20260301105547.jpg",
-    "Linear Statistical Models.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "regression model.md",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
@@ -334,9 +338,6 @@
     "clone directory/README.md",
     "Test.md",
     "clone directory",
-    "wilcoxon's signed rank test.md",
-    "example of performing the wilcoxon's signed rank test.md",
-    "homework 1 problem 1 advanced statistical methods.md",
     "Books.base",
     "Books",
     "Attachments",

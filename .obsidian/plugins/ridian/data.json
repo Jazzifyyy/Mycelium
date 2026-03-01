@@ -2,5 +2,5 @@
   "rExecutablePath": "/usr/bin/R",
   "rstudioPandocPath": "/usr/lib/rstudio/bin/pandoc",
   "quartoExecutablePath": "",
-  "enableFloatingMenu": true
+  "enableFloatingMenu": false
 }

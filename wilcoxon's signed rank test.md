@@ -10,7 +10,7 @@ Suppose $X_{1},\dots,X_{n} \overset{\text{iid}}{\sim}f$ where $\text{median}(X_{
 
 Assumptions: 
 1. $f$ is a continuous distribution. 
-2. $f$ is a symmetric distribution.
+2. $f$ is a symmetric distribution about $\theta$.
 
 To test 
 $$H_{0}: \theta = \theta_{0} \text{ vs. }H_{a}.$$

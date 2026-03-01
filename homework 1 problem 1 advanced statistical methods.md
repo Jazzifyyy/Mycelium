@@ -41,4 +41,15 @@ If $Y=7$, we have $(1,2,3,5,6,7,8)$ as the only vector.
 
 If $Y = 8$, we don't have any favourable outcomes. 
 
-Thus, $$\mathbb{P}(T=32)= \frac{2}{2^8}$$
+Thus, $$\mathbb{P}(T=32)= \frac{2}{2^8}.$$
+
+For $T = 33$, 
+
+If $Y = 6$, we have $(3,4,5,6,7,8)$ as the only vector.
+
+If $Y=7$, we have $(1,2,4,5,6,7,8)$ as the only vector.
+
+If $Y=8$, we don't have any favourable outcomes. 
+
+Thus, 
+$$\mathbb{P}()$$

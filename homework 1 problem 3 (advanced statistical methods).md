@@ -15,6 +15,8 @@ $$
 \begin{align}
 \frac{n}{\hat{p}} - \frac{\sum_{i=1}^n x_{i}}{1-\hat{p}} &= 0 \\
 \implies n+\hat{p}\left( -n- \sum_{i=1}^n x_{i} \right) &= 0 \\
-\implies \hat{p} &= \frac{n}{n + \sum_{i=1}^nx_{i}}
+\implies \hat{p} = \frac{n}{n + \sum_{i=1}^nx_{i}} &= \frac{1}{1+\bar{x}}.
 \end{align}
 $$
+Note that 
+$$\sum_{i=1}^n x_{i} = (0 \times 37) + (1 \times 35) + \dots + (20 \times 1) = 380$$

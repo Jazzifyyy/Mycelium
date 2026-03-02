@@ -19,4 +19,4 @@ $$
 \end{align}
 $$
 Note that 
-$$\sum_{i=1}^n x_{i} = (0 \times 37) + (1 \times 35) + \dots + (20 \times 1) = 380$$
+$$\sum_{i=1}^n x_{i} = (0 \times 37) + (1 \times 35) + \dots + (20 \times 1) = 377$$

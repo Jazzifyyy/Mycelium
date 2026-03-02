@@ -42,3 +42,7 @@ $$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\p
 Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 
 $$\frac{\partial F(x,y)}{\partial y} -\frac{\partial}{\partial y}\int M(x,y)\partial x $$
 must be independent of $x$.
+
+Note that 
+$$\frac{\partial}{\partial x}\left[ N(x,y) - \frac{\partial}{\partial y} \int M(x,y)\partial x \right] = \frac{\partial N(x,y)}{\partial x}- \frac{\partial^2}{\partial x\partial y}\int M(x,y)\partial x.$$
+We must have

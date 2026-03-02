@@ -31,7 +31,7 @@ Now suppose
 $$\frac{\partial M(x,y)}{\partial y}= \frac{\partial N(x,y)}{\partial x}$$for all $(x,y)\in D$.
 
 **Claim:** The exact differential of
-$$F(x,y) = \int M(x,y)\partial x + \int\left[ N(x,y) + \int \frac{\partial M(x,y)}{\partial y} \partial x\right]dy$$
+$$F(x,y) = \int M(x,y)\partial x + \int\left[ N(x,y) - \int \frac{\partial M(x,y)}{\partial y} \partial x\right]dy$$
 is the lhs of $M(x,y)dx + N(x,y)dy$.
 
 **Proof:**
@@ -41,7 +41,15 @@ Differentiating partially with respect to $y$, we obtain
 $$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + \frac{d\phi(y)}{dy}.$$
 
 But
-$$\frac{d\phi(y)}{dy}= N(x,y) + \int \frac{\partial M(x,y)}{}$$
+$$
+\begin{align}
+\frac{d\phi(y)}{dy}&= N(x,y) - \int \frac{\partial M(x,y)}{\partial y}\partial x \\
+&= N(x,y) - \int \frac{\partial N(x,y)}{\partial x}\partial x \\
+&= N(x,y) - N(x,y) \\
+&= 0.
+\end{align}
+$$
+
 
 
 Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 

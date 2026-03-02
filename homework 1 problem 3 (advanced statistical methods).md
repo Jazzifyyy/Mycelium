@@ -24,3 +24,11 @@ and $n = 150$. Thus, $\hat{p} \approx 0.2846$.
 
 ## Part b
 
+Note that
+$$\begin{align}
+\mathbb{P}(A) &= 1-\mathbb{P}(X=0)-\mathbb{P}(X=1) - \mathbb{P}(X =2)  \\
+&= 1 - p - p(1-p) - p(1-p)^2 \\
+&= 1 - p[1 + (1-p) +  (1-p)^2] \\
+&= 1 - p [1 + (1-p)[2-p]] \\
+&= 1 - p[1 + 2 - p -2p + p^2]
+\end{align}$$

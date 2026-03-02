@@ -41,7 +41,7 @@ Differentiating partially with respect to $y$, we obtain
 $$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + \frac{d\phi(y)}{dy}.$$
 
 But
-$$d\phi(y)$$
+$$\frac{d\phi(y)}{dy}= N(x,y) + \int \frac{\partial M(x,y)}{}$$
 
 
 Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 

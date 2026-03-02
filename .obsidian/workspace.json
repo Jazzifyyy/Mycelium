@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "0c1bab5182dc5f37",
+            "id": "e958c74405bc714c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one sample median test - signed test.md",
-                "mode": "preview",
+                "file": "Ordinary Differential Equations.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one sample median test - signed test"
-            }
-          },
-          {
-            "id": "c7f674e9882af6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homework 1 problem 4 (advanced statistical methods).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "homework 1 problem 4 (advanced statistical methods)"
-            }
-          },
-          {
-            "id": "239d3af2ecd3a5ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homework 1 problem 3 (advanced statistical methods).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "homework 1 problem 3 (advanced statistical methods)"
-            }
-          },
-          {
-            "id": "11361523560e1f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kruskal wallis test for the equality of medians of multiple groups.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "kruskal wallis test for the equality of medians of multiple groups"
+              "title": "Ordinary Differential Equations"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11361523560e1f60",
+  "active": "e958c74405bc714c",
   "lastOpenFiles": [
+    "kruskal wallis test for the equality of medians of multiple groups.md",
     "homework 1 problem 4 (advanced statistical methods).md",
     "homework 1 problem 3 (advanced statistical methods).md",
     "Advanced Statistical Methods.md",
@@ -329,7 +258,6 @@
     "homework 1 problem 1 (advanced statistical methods).md",
     "series 2 problem 6 (linear statistical models).md",
     "wilcoxon's signed rank test.md",
-    "kruskal wallis test for the equality of medians of multiple groups.md",
     "one sample estimation of the median.md",
     "wilcoxon's rank sum test.md",
     "Linear Statistical Models.md",

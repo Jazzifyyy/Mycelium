@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "homework 1 problem 1 (advanced statistical methods).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "kruskal wallis test for the equality of medians of multiple groups"
             }
+          },
+          {
+            "id": "208000bfe8fb8277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wilcoxon's signed rank test.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "wilcoxon's signed rank test"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -367,9 +391,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ea4a0ce87db417f",
+  "active": "208000bfe8fb8277",
   "lastOpenFiles": [
     "Advanced Statistical Methods.md",
+    "homework 1 problem 1 (advanced statistical methods).md",
     "homework 1 problem 4 (advanced statistical methods).md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "one sample median test - signed test.md",
@@ -379,7 +404,6 @@
     "homework 1 problem 3 (advanced statistical methods).md",
     "wilcoxon's signed rank test.md",
     "homework 1 problem 2 (advanced statistical methods).md",
-    "homework 1 problem 1 (advanced statistical methods).md",
     "Linear Statistical Models.md",
     "series 2 problem 7 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",

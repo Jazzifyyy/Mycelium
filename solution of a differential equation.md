@@ -14,13 +14,13 @@ where $F$ is a real function of its $n+2$ arguments $x,y, \frac{dy}{dx}, \frac{d
 
 Let $f$ be a real function defined for all $x$ in a real interval $I$ and having an $n$th derivative (and hence all lower ordered derivatives) for all $x \in I$.
 
-The function $f$ is called an **explicit solution** of the differential equation on $I$ iff it fulfills the following: 
+The *function* $f$ is called an **explicit solution** of the differential equation on $I$ iff it fulfills the following: 
 
 $F(x,f(x),f'(x), \dots, f^{(n)}(x))$ is defined for all $x \in I$ and is equal to $0$ for all $x \in I$.
 
 ### Implicit Solution
 
-A relation $g(x,y)=0$ is called an **implicit solution** of the differential equation if this relation defines at least one real function $f$ of the variable $x$ on an interval $I$ such that this function is an explicit solution on $I$.
+A *relation* $g(x,y)=0$ is called an **implicit solution** of the differential equation if this relation defines at least one real function $f$ of the variable $x$ on an interval $I$ such that this function is an explicit solution on $I$.
 
 ### Examples
 

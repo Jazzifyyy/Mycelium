@@ -22,4 +22,18 @@ with $y(1)=2$.
 
 We have
 $$\frac{\partial f(x,y)}{\partial y} = \frac{1}{\sqrt{ x }}.$$
-This is continuous in some $D$
+Both $f$ and the partial derivative are continuous in some $D$ around $(1,2)$.
+
+Since $(1,2) \in D$, we know that the problem has a unique solution defined in some sufficiently small interval around $x_{0}=1$.
+
+## Example 2
+
+Consider
+$$\frac{dy}{dx} = \frac{y}{\sqrt{ x }}$$
+with $y(0)=2$.
+
+Once again, 
+$$\frac{\partial f(x,y)}{\partial y} = \frac{1}{\sqrt{ x }}.$$
+Note that at $(0,2)$, neither $f$ nor the partial derivative is continuous, i.e., the point cannot be included in a domain $D$ where the hypotheses are satisfied. 
+
+Thus, we cannot conclude that problem 2 has a solution.

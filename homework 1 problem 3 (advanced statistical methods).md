@@ -31,6 +31,9 @@ $$\begin{align}
 &= p(1-p)^4 \cdot \frac{1}{1-(1-p)} \\
 &= (1-p)^4 
 \end{align}$$
-and thus, $\hat{\mathbb{P}}(A) = (1 - \hat{p})^4 \approx (1-0.2846)^4 \approx 0.2619.$
+and thus, $\hat{\mathbb{P}}_{\text{MLE}}(A) = (1 - \hat{p})^4 \approx (1-0.2846)^4 \approx 0.2619.$
 
+## Part c
 
+A non-parametric estimate of $\mathbb{P}(A)$ is the empericial number of accidents where the gap was greater than $3$ days:
+$$\hat{\mathbb{P}}(A) = \frac{8 + 4+7+\dots + 1}{150}$$

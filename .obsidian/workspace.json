@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "52ee527276d189ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exact differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "exact differential equation"
+            }
+          },
+          {
             "id": "c6ccaebecb4b205c",
             "type": "leaf",
             "state": {
@@ -54,81 +78,9 @@
               "icon": "lucide-file",
               "title": "exact differential"
             }
-          },
-          {
-            "id": "9dddeb4f6bea92f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "first-order differential equations.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "first-order differential equations"
-            }
-          },
-          {
-            "id": "97dc3f959a7f4532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "initial-value problem associated with a first-order differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "initial-value problem associated with a first-order differential equation"
-            }
-          },
-          {
-            "id": "7a86a0c0c0490bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "initial-value problem associated with a first-order differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "initial-value problem associated with a first-order differential equation"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,14 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a86a0c0c0490bec",
+  "active": "52ee527276d189ec",
   "lastOpenFiles": [
-    "root of unity filter.md",
-    "exact differential.md",
+    "exact differential equation.md",
     "Ordinary Differential Equations.md",
+    "exact differential.md",
     "first-order differential equations.md",
-    "total differential of a function.md",
     "initial-value problem associated with a first-order differential equation.md",
+    "root of unity filter.md",
+    "total differential of a function.md",
     "basic existence and uniqueness theorem (first order differential equation).md",
     "geometric intepretation of differential equations.md",
     "solution of a differential equation.md",
@@ -356,7 +309,6 @@
     "plots/plot_670671cd_5_20260301105547.jpg",
     "plots/plot_670671cd_4_20260301105547.jpg",
     "plots/plot_670671cd_3_20260301105547.jpg",
-    "exercise set 1 problem 2 stochastic processes.md",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",

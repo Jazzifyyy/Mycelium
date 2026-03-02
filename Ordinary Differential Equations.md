@@ -18,3 +18,4 @@ tags:
 ## Exact differential equations
 + [[total differential of a function]]
 + [[exact differential]]
++ [[exact differential equation]]

@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "homework 1 problem 3 (advanced statistical methods)"
             }
+          },
+          {
+            "id": "e3c385cbe7277573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one sample estimation of the median.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "one sample estimation of the median"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -319,10 +343,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be56eb3986abba9a",
+  "active": "e3c385cbe7277573",
   "lastOpenFiles": [
-    "homework 1 problem 3 (advanced statistical methods).md",
     "Advanced Statistical Methods.md",
+    "homework 1 problem 3 (advanced statistical methods).md",
     "wilcoxon's rank sum test.md",
     "wilcoxon's signed rank test.md",
     "homework 1 problem 2 (advanced statistical methods).md",

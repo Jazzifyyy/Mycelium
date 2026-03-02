@@ -26,9 +26,11 @@ and $n = 150$. Thus, $\hat{p} \approx 0.2846$.
 
 Note that
 $$\begin{align}
-\mathbb{P}(A) &= 1-\mathbb{P}(X=0)-\mathbb{P}(X=1) - \mathbb{P}(X =2)  \\
-&= 1 - p - p(1-p) - p(1-p)^2 \\
-&= 1 - p[1 + (1-p) +  (1-p)^2] \\
-&= 1 - p [1 + (1-p)[2-p]] \\
-&= 1 - p[1 + 2 - p -2p + p^2]
+\mathbb{P}(A) &= \mathbb{P}(X > 3) \\
+&= p(1-p)^4 \sum_{k=0}^\infty (1-p)^k \\
+&= p(1-p)^4 \cdot \frac{1}{1-(1-p)} \\
+&= (1-p)^4 
 \end{align}$$
+and thus, $\hat{\mathbb{P}}(A) = (1 - \hat{p})^4 \approx (1-0.2846)^4 \approx 0.2619.$
+
+

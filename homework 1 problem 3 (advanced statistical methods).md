@@ -48,4 +48,8 @@ theta_hat <- 0.2133
 exact_test <- binom.test(32, 150, conf.level = 0.95)
 print(exact_test)
 ```
-The exact confidence interval for $\theta$ is 
+The exact confidence interval for $\theta$ is
+```
+95 percent confidence interval:
+ 0.1507302 0.2876066
+```

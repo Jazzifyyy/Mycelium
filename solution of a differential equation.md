@@ -10,7 +10,7 @@ Consider the $n$th order ordinary differential equation:
 $$F\left( x, y, \frac{dy}{dx},\dots, \frac{d^ny}{dx^n} \right)=0$$
 where $F$ is a real function of its $n+2$ arguments $x,y, \frac{dy}{dx}, \frac{d^nx}{dx^n}$.
 
-### Explicit Solution
+## Explicit Solution
 
 Let $f$ be a real function defined for all $x$ in a real interval $I$ and having an $n$th derivative (and hence all lower ordered derivatives) for all $x \in I$.
 
@@ -18,11 +18,11 @@ The *function* $f$ is called an **explicit solution** of the differential equati
 
 $F(x,f(x),f'(x), \dots, f^{(n)}(x))$ is defined for all $x \in I$ and is equal to $0$ for all $x \in I$.
 
-### Implicit Solution
+## Implicit Solution
 
 A *relation* $g(x,y)=0$ is called an **implicit solution** of the differential equation if this relation defines at least one real function $f$ of the variable $x$ on an interval $I$ such that this function is an explicit solution on $I$.
 
-### Examples
+### Example
 
 The relation 
 $$x^2 + y^2 - 25=0$$ is an implicit solution of the differential equation
@@ -43,7 +43,7 @@ which is equal to the rhs for all $x \in I$.
 
 Thus $f_{1}$ is an explicit solution and hence the relation is an implicit solution of the differential equation.
 
-### Formal Solution
+## Formal Solution
 
 Consider the relation 
 $$x^2 + y^2 + 25 = 0.$$

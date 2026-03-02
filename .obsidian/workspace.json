@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "fc341c7614c6f243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basic existence and uniqueness theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "basic existence and uniqueness theorem"
             }
           },
           {
@@ -79,7 +103,8 @@
               "title": "initial-value problem associated with a differential equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,14 +295,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e958c74405bc714c",
+  "active": "fc341c7614c6f243",
   "lastOpenFiles": [
-    "initial-value problem associated with a differential equation.md",
+    "basic existence and uniqueness theorem.md",
     "Ordinary Differential Equations.md",
+    "geometric intepretation of differential equations.md",
     "solution of a differential equation.md",
+    "differential equation of the family of ellipses with specified foci.md",
+    "initial-value problem associated with a differential equation.md",
     "series 2 problem 6 (linear statistical models).md",
     "differential equation of the family of circles with centres on the x axis.md",
-    "geometric intepretation of differential equations.md",
     "terminology for differential equations.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "homework 1 problem 4 (advanced statistical methods).md",
@@ -310,8 +337,6 @@
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "Stochastic Processes.md",
-    "probability generating function.md",
-    "the generating function of the sum of two random variables is the product of their generating functions.md",
     "clone directory",
     "Books.base",
     "Books",

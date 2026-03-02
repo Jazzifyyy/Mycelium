@@ -13,3 +13,13 @@ where
 
 Then there exists a *unique* solution $\phi$ of the differential equation, defined on some interval $|x- x_{0}|\leq h$, where $h$ is sufficiently small, that satisfies the condition 
 $$\phi(x_{0})=y_{0}.$$
+# Examples
+## Example 1
+
+Consider
+$$\frac{dy}{dx} = \frac{y}{\sqrt{ x }}$$
+with $y(1)=2$.
+
+We have
+$$\frac{\partial f(x,y)}{\partial y} = \frac{1}{\sqrt{ x }}.$$
+This is continuous in some $D$

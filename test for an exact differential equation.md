@@ -38,4 +38,6 @@ is the lhs of $M(x,y)dx + N(x,y)dy$.
 Note that $F$ is of the form
 $$F(x,y) = \int M(x,y)\partial x + \phi(y).$$
 Differentiating partially with respect to $y$, we obtain
-$$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + d\phi()$$
+$$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + \frac{d\phi(y)}{dy}.$$
+Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 
+$$N(x,y)$$

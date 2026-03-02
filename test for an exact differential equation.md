@@ -39,6 +39,11 @@ Note that $F$ is of the form
 $$F(x,y) = \int M(x,y)\partial x + \phi(y).$$
 Differentiating partially with respect to $y$, we obtain
 $$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + \frac{d\phi(y)}{dy}.$$
+
+But
+$$d\phi(y)$$
+
+
 Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 
 $$\frac{\partial F(x,y)}{\partial y} -\frac{\partial}{\partial y}\int M(x,y)\partial x $$
 must be independent of $x$.

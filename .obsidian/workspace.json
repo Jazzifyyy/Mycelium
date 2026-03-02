@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solution of a differential equation.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solution of a differential equation"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -272,13 +272,13 @@
   },
   "active": "e958c74405bc714c",
   "lastOpenFiles": [
-    "Ordinary Differential Equations.md",
     "initial-value problem associated with a differential equation.md",
+    "Ordinary Differential Equations.md",
+    "solution of a differential equation.md",
     "series 2 problem 6 (linear statistical models).md",
     "differential equation of the family of circles with centres on the x axis.md",
     "geometric intepretation of differential equations.md",
     "terminology for differential equations.md",
-    "solution of a differential equation.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "homework 1 problem 4 (advanced statistical methods).md",
     "homework 1 problem 3 (advanced statistical methods).md",

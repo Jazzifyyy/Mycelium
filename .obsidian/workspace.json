@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Advanced Statistical Methods.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -343,12 +343,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be56eb3986abba9a",
+  "active": "c7f674e9882af6ac",
   "lastOpenFiles": [
+    "homework 1 problem 3 (advanced statistical methods).md",
     "wilcoxon's rank sum test.md",
     "Advanced Statistical Methods.md",
     "one sample estimation of the median.md",
-    "homework 1 problem 3 (advanced statistical methods).md",
     "wilcoxon's signed rank test.md",
     "homework 1 problem 2 (advanced statistical methods).md",
     "homework 1 problem 1 (advanced statistical methods).md",

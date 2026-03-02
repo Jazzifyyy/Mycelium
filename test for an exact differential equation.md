@@ -9,7 +9,7 @@ tags:
 
 Consider the differential equation
 $$M(x,y)dx + N(x,y)dy=0$$
-where $M$ and $N$ have continuous first partial derivatives at all points $(x,y)$ in a rectangular domain $D$.
+where $M$ and $N$ have *continuous first partial derivatives* at all points $(x,y)$ in a rectangular domain $D$.
 
 The differential equation is an [[exact differential equation]] in $D$ iff
 $$\frac{\partial M(x,y)}{\partial y}= \frac{\partial N(x,y)}{\partial x}$$for all $(x,y)\in D$.
@@ -18,4 +18,6 @@ $$\frac{\partial M(x,y)}{\partial y}= \frac{\partial N(x,y)}{\partial x}$$for al
 Suppose the differential equation is exact. Then $Mdx + Ndy$ is an exact differential in $D$, i.e., there exists a function $F$ such that
 $$\frac{\partial F(x,y)}{\partial x}=M(x,y)$$
 and
-$$\frac{\partial F(x,y)}{\partial y}$$
+$$\frac{\partial F(x,y)}{\partial y}=N(x,y)$$
+for all $(x,y)\in D$. Since $M$ and $N$ have partial derivatives in $D$, we have
+$$\frac{}{}$$

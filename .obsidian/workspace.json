@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "exact differential.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -319,8 +319,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6ccaebecb4b205c",
+  "active": "7a86a0c0c0490bec",
   "lastOpenFiles": [
+    "root of unity filter.md",
     "exact differential.md",
     "Ordinary Differential Equations.md",
     "first-order differential equations.md",
@@ -356,7 +357,6 @@
     "plots/plot_670671cd_4_20260301105547.jpg",
     "plots/plot_670671cd_3_20260301105547.jpg",
     "exercise set 1 problem 2 stochastic processes.md",
-    "regression model.md",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",

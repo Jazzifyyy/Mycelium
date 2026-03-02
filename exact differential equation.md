@@ -14,3 +14,13 @@ is called an **exact differential equation**.
 ## Example 1
 
 The differential equation
+$$y^2dx + 2xydy=0$$
+is an exact differential equation, since the lhs is an exact differential of the function $F(x,y)=xy^2$.
+
+## Example 2
+
+The differential equation
+$$ydx + 2xdy=0$$
+is not an exact differential equation.
+
+Why? See: [[test for an exact differential equation]]

@@ -17,3 +17,4 @@ tags:
 + [[basic existence and uniqueness theorem (first order differential equation)]]
 ## Exact differential equations
 + [[total differential of a function]]
++ [[exact differential]]

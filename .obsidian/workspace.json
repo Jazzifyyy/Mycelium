@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f232003288fef4bb",
+            "id": "c6ccaebecb4b205c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "total differential of a function.md",
+                "file": "exact differential.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "total differential of a function"
+              "title": "exact differential"
             }
           },
           {
@@ -319,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f232003288fef4bb",
+  "active": "c6ccaebecb4b205c",
   "lastOpenFiles": [
-    "total differential of a function.md",
+    "exact differential.md",
     "Ordinary Differential Equations.md",
     "first-order differential equations.md",
+    "total differential of a function.md",
     "initial-value problem associated with a first-order differential equation.md",
     "basic existence and uniqueness theorem (first order differential equation).md",
     "geometric intepretation of differential equations.md",
@@ -360,7 +361,6 @@
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",
     "plots",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
     "clone directory",
     "Books.base",
     "Books",

@@ -39,3 +39,13 @@ A non-parametric estimate of $\mathbb{P}(A)$ is the empericial number of acciden
 $$\hat{\mathbb{P}}(A) = \frac{8 + 4+7+\dots + 1}{150} = \frac{32}{150} \approx 0.2133.$$
 ## Part d
 
+```r
+n <- 150
+sum_xi <- 377
+
+theta_hat <- 0.2133
+
+exact_test <- binom.test(32, 150, conf.level = 0.95)
+print(exact_test)
+```
+The exact confidence interval for $\theta$ is 

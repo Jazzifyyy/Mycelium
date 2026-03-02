@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "homework 1 problem 4 (advanced statistical methods).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework 1 problem 2 (advanced statistical methods).md",
-                "mode": "source",
+                "file": "homework 1 problem 3 (advanced statistical methods).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homework 1 problem 2 (advanced statistical methods)"
+              "title": "homework 1 problem 3 (advanced statistical methods)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,14 +295,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239d3af2ecd3a5ba",
+  "active": "c7f674e9882af6ac",
   "lastOpenFiles": [
+    "homework 1 problem 3 (advanced statistical methods).md",
+    "Advanced Statistical Methods.md",
+    "homework 1 problem 2 (advanced statistical methods).md",
+    "one sample median test - signed test.md",
     "homework 1 problem 4 (advanced statistical methods).md",
     "homework 1 problem 1 (advanced statistical methods).md",
-    "Advanced Statistical Methods.md",
-    "one sample median test - signed test.md",
-    "homework 1 problem 2 (advanced statistical methods).md",
-    "homework 1 problem 3 (advanced statistical methods).md",
     "series 2 problem 6 (linear statistical models).md",
     "wilcoxon's signed rank test.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",

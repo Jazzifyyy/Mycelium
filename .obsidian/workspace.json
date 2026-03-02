@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "75cbeaad3ab48ba8",
+            "id": "f232003288fef4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first-order differential equations.md",
+                "file": "total differential of a function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "first-order differential equations"
+              "title": "total differential of a function"
             }
           },
           {
@@ -319,8 +319,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75cbeaad3ab48ba8",
+  "active": "f232003288fef4bb",
   "lastOpenFiles": [
+    "total differential of a function.md",
     "Ordinary Differential Equations.md",
     "first-order differential equations.md",
     "initial-value problem associated with a first-order differential equation.md",
@@ -360,7 +361,6 @@
     "exports",
     "plots",
     "probability of getting two consecutive heads in repeated coin tosses.md",
-    "galton watson branching process.md",
     "clone directory",
     "Books.base",
     "Books",

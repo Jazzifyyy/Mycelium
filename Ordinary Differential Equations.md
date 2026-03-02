@@ -15,4 +15,5 @@ tags:
 + [[first-order differential equations]]
 + [[initial-value problem associated with a first-order differential equation]]
 + [[basic existence and uniqueness theorem (first order differential equation)]]
-+ 
+## Exact differential equations
++ [[total differential of a function]]

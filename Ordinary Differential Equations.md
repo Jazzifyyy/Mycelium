@@ -11,5 +11,8 @@ tags:
 + [[differential equation of the family of circles with centres on the x axis]]
 + [[differential equation of the family of ellipses with specified foci]]
 
-[[initial-value problem associated with a first-order differential equation]]
-[[basic existence and uniqueness theorem]]
+## First-order differential equations
++ [[first-order differential equations]]
++ [[initial-value problem associated with a first-order differential equation]]
++ [[basic existence and uniqueness theorem (first order differential equation)]]
++ 

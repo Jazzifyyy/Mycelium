@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "876a84e42d7854af",
+            "id": "75cbeaad3ab48ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic existence and uniqueness theorem.md",
+                "file": "first-order differential equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "first-order differential equations"
+            }
+          },
+          {
+            "id": "9dddeb4f6bea92f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first-order differential equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "basic existence and uniqueness theorem"
+              "title": "first-order differential equations"
             }
           },
           {
@@ -295,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "876a84e42d7854af",
+  "active": "75cbeaad3ab48ba8",
   "lastOpenFiles": [
     "Ordinary Differential Equations.md",
+    "first-order differential equations.md",
     "initial-value problem associated with a first-order differential equation.md",
-    "basic existence and uniqueness theorem.md",
+    "basic existence and uniqueness theorem (first order differential equation).md",
     "geometric intepretation of differential equations.md",
     "solution of a differential equation.md",
     "differential equation of the family of ellipses with specified foci.md",
@@ -336,7 +361,6 @@
     "plots",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
-    "Stochastic Processes.md",
     "clone directory",
     "Books.base",
     "Books",

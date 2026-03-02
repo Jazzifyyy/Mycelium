@@ -37,3 +37,5 @@ and thus, $\hat{\mathbb{P}}_{\text{MLE}}(A) = (1 - \hat{p})^4 \approx (1-0.2846)
 
 A non-parametric estimate of $\mathbb{P}(A)$ is the empericial number of accidents where the gap was greater than $3$ days:
 $$\hat{\mathbb{P}}(A) = \frac{8 + 4+7+\dots + 1}{150} = \frac{32}{150} \approx 0.2133.$$
+## Part d
+

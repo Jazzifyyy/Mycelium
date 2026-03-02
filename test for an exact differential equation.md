@@ -49,7 +49,10 @@ $$
 &= 0.
 \end{align}
 $$
-
+Thus,
+$$\begin{align}
+\frac{\partial F(x,y)}{\partial y}
+\end{align}$$
 
 
 Since $\phi$ is a function of $y$ only, the derivative $\frac{d\phi}{dy}$ is also independent of $x$, and thus, 

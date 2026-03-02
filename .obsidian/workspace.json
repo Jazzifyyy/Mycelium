@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Advanced Statistical Methods.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -345,9 +345,10 @@
   },
   "active": "c7f674e9882af6ac",
   "lastOpenFiles": [
-    "homework 1 problem 3 (advanced statistical methods).md",
     "wilcoxon's rank sum test.md",
     "Advanced Statistical Methods.md",
+    "kruskal wallis test for the equality of medians of multiple groups.md",
+    "homework 1 problem 3 (advanced statistical methods).md",
     "one sample estimation of the median.md",
     "wilcoxon's signed rank test.md",
     "homework 1 problem 2 (advanced statistical methods).md",
@@ -384,7 +385,6 @@
     "radius of convergence of a convolution sequence.md",
     "probability of getting even number of heads in n coin tosses.md",
     "exercise set 1 problem 6 stochastic processes.md",
-    "exercise set 1 problem 5 stochastic processes.md",
     "clone directory",
     "Books.base",
     "Books",

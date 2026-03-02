@@ -20,3 +20,7 @@ $$
 $$
 Note that 
 $$\sum_{i=1}^n x_{i} = (0 \times 37) + (1 \times 35) + \dots + (20 \times 1) = 377$$
+and $n = 150$. Thus, $\hat{p} \approx 0.2846$.
+
+## Part b
+

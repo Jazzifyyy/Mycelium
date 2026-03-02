@@ -30,4 +30,12 @@ for all $(x,y) \in D$.
 Now suppose 
 $$\frac{\partial M(x,y)}{\partial y}= \frac{\partial N(x,y)}{\partial x}$$for all $(x,y)\in D$.
 
-**Claim: **
+**Claim:** The exact differential of
+$$F(x,y) = \int M(x,y)\partial x + \int\left[ N(x,y) + \int \frac{\partial M(x,y)}{\partial y} \partial x\right]dy$$
+is the lhs of $M(x,y)dx + N(x,y)dy$.
+
+**Proof:**
+Note that $F$ is of the form
+$$F(x,y) = \int M(x,y)\partial x + \phi(y).$$
+Differentiating partially with respect to $y$, we obtain
+$$\frac{\partial F (x,y)}{\partial y} = \frac{\partial}{\partial y}\int M(x,y)\partial x + d\phi()$$

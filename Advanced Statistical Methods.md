@@ -35,4 +35,4 @@ If a parametric model is such that it is true to the real-world, then using that
 + [[homework 1 problem 1 (advanced statistical methods)]]
 + [[homework 1 problem 2 (advanced statistical methods)]]
 + [[homework 1 problem 3 (advanced statistical methods)]]
-+ [[homework 1 problem ]]
++ [[homework 1 problem 4 (advanced statistical methods)]]

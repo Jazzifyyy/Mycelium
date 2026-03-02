@@ -24,5 +24,10 @@ $$\frac{\partial^2F(x,y)}{\partial y \partial x}= \frac{\partial M(x,y)}{\partia
 and
 $$\frac{\partial^2 F(x,y)}{\partial x\partial y} = \frac{\partial N(x,y)}{\partial x}$$
 for all $(x,y) \in D$. Since the partial derivatives of $M$ and $N$ are also continuous, by Clairaut's theorem, we have
-$$\frac{\partial^2F(x,y)}{\partial y \partial x} = \frac{\partial^2 F(x,y)}{\partial x\partial y}$$
+$$\frac{\partial^2F(x,y)}{\partial y \partial x} =\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}=\frac{\partial^2 F(x,y)}{\partial x\partial y}$$
 for all $(x,y) \in D$.
+
+Now suppose 
+$$\frac{\partial M(x,y)}{\partial y}= \frac{\partial N(x,y)}{\partial x}$$for all $(x,y)\in D$.
+
+**Claim: **

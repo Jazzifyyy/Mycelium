@@ -79,7 +79,11 @@ We make the following assumptions:
 1. K(u)= K(-u)$ for all $u$, $\sigma^2_{K} = \int_{-\infty}^\infty u^2K(u)du < \infty$, and $\lvert \lvert K \rvert  \rvert^2 = \int_{-\infty}^\infty K^2(u)du < \infty$.
 2. $f''$ is bounded and continuous.
 
-Note that by taylor's theorem, we can expand $f(x - h_{n}u)$ as
+Note that by taylor's theorem, we can expand $f(x - h_{n}u)$ by setting $x'=x-h_{n}u$ and $a=x$ in
+$$f(x') = f(a) + f'(a)(x'-a) + \frac{f''(c)}{2}(x'-a)^2$$
+where $c$ lies between $x'$ and $a$, i.e.,
 $$\begin{align}
-f(x') &= f(a) + f'(a)(x-a) + \frac{f''(c)}{2}(x-a)^2.
+f(x - h_{n}u) &= f(x) -h_{n}u f'(x) + \frac{f''(x - \lambda h_{n}u)}{2}h_{n}^2u^2 \\
+&= f(x) - h_{n}uf'(x) + \frac{1}{2}h_{n}^2u^2f''(x) + \frac{1}{2}h_{n}^2u^2(f''(x - \lambda h_{n}u) - f''(x))
 \end{align}$$
+where $0 \leq \lambda \leq 1$.

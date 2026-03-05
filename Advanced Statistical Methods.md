@@ -30,7 +30,8 @@ If a parametric model is such that it is true to the real-world, then using that
 + In a fully nonparametric setting, the difficulty with a “scale test” is that _scale is not intrinsically defined_: unlike in a parametric scale family (e.g., normal with variance $\sigma^2$), arbitrary distributions need not differ only by a multiplicative spread parameter. Without assuming a common shape, “more spread out” could reflect changes in skewness, tails, or location. The solution is to impose mild structural assumptions—such as equal medians, symmetry, or membership in a scale family—and then use rank-based procedures. See:
   [[fligner killeen test]].
 + [[kruskal wallis test for the equality of medians of multiple groups]]
-
+# Density Estimation
++ [[density estimation]]
 # Problems
 + [[homework 1 problem 1 (advanced statistical methods)]]
 + [[homework 1 problem 2 (advanced statistical methods)]]

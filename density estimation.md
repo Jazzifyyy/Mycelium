@@ -55,4 +55,12 @@ Intuition: Consider a distribution with mass $\frac{1}{n}$ at each $X_{i}$. If w
 
 But note that the mass $\frac{1}{n}$ at each $X_{i}$ can be spread by any arbitrary manner. This would define a general class of estimators of the form 
 $$\hat{f}_{n}(x) = \frac{1}{nh_{n}}\sum_{i=1}^n K\left(\frac{x - X_{i}}{h_{n}} \right)$$
-where $K$ is a pdf (i.e., $K(u)\geq 0$ and $$)
+where $K$ is a pdf (i.e., $K(u)\geq 0$ and $\int_{-\infty}^\infty K(u)du=1$). Such an estimator is called a **Kernel estimator** with *kernel* $k$ and *bandwidth* $h_{n}$.
+
+Note that 
+$$\begin{align}
+\mathbb{E}[\hat{f}_{n}(x)] &= \mathbb{E}\left[\frac{1}{nh_{n}}\sum_{i=1}^n K\left(\frac{x - X_{i}}{h_{n}} \right)\right] \\
+&= \mathbb{E}\left[ \frac{1}{h_{n}}K\left(\frac{x - X_{i}}{h_{n}} \right) \right] \\
+&= \int_{-\infty}^\infty \frac{1}{h_{n}}K\left(\frac{x- y}{h_{n}}\right)f(y)dy \\
+\text{ Set }u= \frac{x - y}{h_{n}} \text{ with }
+\end{align}$$

@@ -40,5 +40,13 @@ We may minimize this expression over $\delta$ to get the optimal banwidth.
 
 Second problem solution:
 
-First note 
-
+First note that 
+$$f(x) \approx \frac{F\left( x + \frac{h}{2} \right) - F\left( x - \frac{h}{2} \right)}{h}$$
+for small $h > 0$. This leads to the estimator
+$$
+\begin{align}
+\hat{f}_{n}(x) &= \frac{1}{nh_{n}}\left[ F_{n}\left( x + \frac{h_{n}}{2} \right)  - F_{n}\left( x - \frac{h_{n}}{2} \right) \right] \\
+&= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}\left( x - \frac{h_{n}}{2}\leq X_{i} \leq x +\frac{h_{n}}{2} \right] \\
+&= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}()
+\end{align}
+$$

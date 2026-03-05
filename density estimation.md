@@ -17,7 +17,17 @@ For any $t$, where
 $$x=:x_{i}< t< x_{i+1}:= x + \delta,$$
 the estimate at $t$ is given by
 
-$$\hat{f}(t)= \frac{\# (X_{i} \in (x, x + \delta))}{n \delta} = \frac{\hat{F}_{n}(x + \delta) - \hat{F}_{n}(x)}{\delta}$$
+$$\hat{f}(t)= \frac{\# (X_{i} \in (x, x + \delta))}{n \delta} = \frac{\hat{F}_{n}(x + \delta) - \hat{F}_{n}(x)}{\delta}.$$
+Note that 
+$$\hat{f}(t) \sim \frac{1}{n\delta}\text{Binomial}(n, F(x + \delta)-F(x)).$$
+Denote $p:=F(x + \delta)-F(x)$.
+
+Thus,
+$$\mathbb{E}[\hat{f}(t)] = \frac{1}{n\delta}\cdot n(F(x + \delta)-F(x)) = \frac{F(x + \delta)- F(x)}{\delta}= \frac{p}{\delta}$$
+and
+$$\text{Var}(\hat{f}(t)) = \frac{1}{n^2 \delta^2}\cdot np(1-p) = \frac{p(1-p)}{n \delta^2}.$$
+
+The 
 
 Problems: 
 1. Histogram is not smooth

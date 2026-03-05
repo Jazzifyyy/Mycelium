@@ -87,3 +87,5 @@ f(x - h_{n}u) &= f(x) -h_{n}u f'(x) + \frac{f''(x - \lambda h_{n}u)}{2}h_{n}^2u^
 &= f(x) - h_{n}uf'(x) + \frac{1}{2}h_{n}^2u^2f''(x) + \frac{1}{2}h_{n}^2u^2(f''(x - \lambda h_{n}u) - f''(x))
 \end{align}$$
 where $0 \leq \lambda \leq 1$.
+
+Now note that since $h_{n}u \rightarrow 0$ as $n \rightarrow \infty$, we have $f''()$

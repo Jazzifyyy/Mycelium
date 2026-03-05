@@ -10,7 +10,8 @@ Suppose $X_{1},\dots,X_{n}$ is a random sample from pdf $f$. We want to estimate
 
 (Note that $f$ is an infinite dimensional parameter.)
 
-# Naive approach
+# Shifted Histogram
+
 We can estimate $f$ by a histogram. In such a case, we have the desirable properties: $\int \hat{f}(x)dx=1$ and $\hat{f} \geq 0$.
 
 For any $t$, where 
@@ -27,8 +28,17 @@ $$\mathbb{E}[\hat{f}(t)] = \frac{1}{n\delta}\cdot n(F(x + \delta)-F(x)) = \frac{
 and
 $$\text{Var}(\hat{f}(t)) = \frac{1}{n^2 \delta^2}\cdot np(1-p) = \frac{p(1-p)}{n \delta^2}.$$
 
-The 
-
+The mean squared error is given by
+$$\text{MSE} = \text{Bias}^2 + \text{Var} = \left( \frac{p}{\delta} -f (t)\right)^2 + \frac{p(1-p)}{n\delta^2}.$$
 Problems: 
 1. Histogram is not smooth
 2. Location and width of the bins are subjective. 
+
+First problem solution:
+
+We may minimize this expression over $\delta$ to get the optimal banwidth.
+
+Second problem solution:
+
+
+

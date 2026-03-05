@@ -96,12 +96,16 @@ and thus
 $$|(f''(x-h_{n}u) - f''(x))u^2K(u)|\leq 2Mu^2K(u).$$
 Note that the rhs is integrable by one of the assumptions, and thus by dominated convergence theorem, we have
 $$\lim_{ n \to \infty } \int_{-\infty}^\infty (f''(x - h_{n}u) - f''(x))u^2K(u)du= 0.$$
-Thus, 
+All of this allows us to the bias and variance of the kernel estimator:
 $$\begin{align}
 \mathbb{E}[\hat{f}_{n}(t)] &= \int_{-\infty}^\infty K(u)f(x - h_{n}u)du \\
 &= \int_{-\infty}^\infty \left[ K(u)f(x) - h_{n}f'(x)uK(u) + \frac{1}{2}h_{n}^2 f''(x)u^2K(u) \right]du  \\
-&+ \int_{-\infty}^\infty (f''(x - h_{n}u) - f''(x))u^2K(u)du \\
-&= f(x) + \frac{1}{2}h_{n}^2f''(x)\sigma^2_{K} + o(1).
+&+ \frac{1}{2}h_{n}^2\int_{-\infty}^\infty (f''(x - h_{n}u) - f''(x))u^2K(u)du \\
+&= f(x) + \frac{1}{2}h_{n}^2f''(x)\sigma^2_{K} + \frac{1}{2}h_{n}^2o(1).
 \end{align}$$
 It then follows that
-$$$$
+$$\text{Bias}[\hat{f}_{n}(t)] = \frac{1}{2}h_{n}^2[f''(x)\sigma^2_{K} +o(1)].$$
+Also,
+$$\begin{align}
+
+\end{align}$$

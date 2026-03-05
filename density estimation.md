@@ -63,6 +63,9 @@ $$\begin{align}
 &= \mathbb{E}\left[ \frac{1}{h_{n}}K\left(\frac{x - X_{i}}{h_{n}} \right) \right] \\
 &= \int_{-\infty}^\infty \frac{1}{h_{n}}K\left(\frac{x- y}{h_{n}}\right)f(y)dy \\
 \text{ Set }u&= \frac{x - y}{h_{n}} \text{ with }dy = -h_{n}du  \\
-&=\int_{-\infty}^\infty -\left[ \frac{1}{h_{n}}K(u)f(x - h_{n}) \right](-h_{n}du) \\
-&= \int_{-\infty}^\infty K(u)f(x - h)
+&=\int_{-\infty}^\infty -\left[ \frac{1}{h_{n}}K(u)f(x - h_{n}u) \right](-h_{n}du) \\
+&= \int_{-\infty}^\infty K(u)f(x - h_{n}u)du.
 \end{align}$$
+Similarly, 
+$$\text{Var}(\hat{f}_{n}(x)) = $$
+

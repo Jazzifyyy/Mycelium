@@ -71,7 +71,8 @@ $$
 \begin{align}
 \text{Var}(\hat{f}_{n}(x)) &= \frac{1}{n^2h_{n}^2}\text{Var}\left[\sum_{i=1}^n K\left( \frac{x - X_{i}}{h_{n}} \right) \right] \\
 &= \frac{1}{nh_{n}^2}\text{Var}\left[K\left(\frac{x- X_{i}}{h_{n}} \right)\right] \\
-&= \frac{1}{n\mathbb{E}[]
+&= \frac{1}{n}\left\{ \frac{1}{h_{n}}\mathbb{E}\left[ \frac{1}{h_{n}}K^2\left( \frac{x - X_{i}}{h_{n}} \right) \right] - \mathbb{E}[\hat{f}_{n}(x)]^2\right\} \\
+&= \frac{1}{n} \left\{  \frac{1}{h_{n}}\int_{-\infty}^\infty K^2(u)f(x - h_{n}u)du  \right\}
 \end{align}
 $$
 

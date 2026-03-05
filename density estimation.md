@@ -40,5 +40,5 @@ We may minimize this expression over $\delta$ to get the optimal banwidth.
 
 Second problem solution:
 
-
+First note 
 

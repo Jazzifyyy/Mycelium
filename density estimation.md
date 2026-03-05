@@ -76,7 +76,7 @@ $$
 \end{align}
 $$
 We make the following assumptions:
-1. K(u)= K(-u)$ for all $u$, $\sigma^2_{K} = \int_{-\infty}^\infty u^2K(u)du < \infty$, and $\lvert \lvert K \rvert  \rvert^2 = \int_{-\infty}^\infty K^2(u)du < \infty$.
+1. $K(u)= K(-u)$ for all $u$, $\sigma^2_{K} = \int_{-\infty}^\infty u^2K(u)du < \infty$, and $\lvert \lvert K \rvert  \rvert^2 = \int_{-\infty}^\infty K^2(u)du < \infty$.
 2. $f''$ is bounded and continuous.
 
 Note that by taylor's theorem, we can expand $f(x - h_{n}u)$ by setting $x'=x-h_{n}u$ and $a=x$ in
@@ -88,4 +88,11 @@ f(x - h_{n}u) &= f(x) -h_{n}u f'(x) + \frac{f''(x - \lambda h_{n}u)}{2}h_{n}^2u^
 \end{align}$$
 where $0 \leq \lambda \leq 1$.
 
-Now note that since $h_{n}u \rightarrow 0$ as $n \rightarrow \infty$, we have $f''()$
+Now note that since $h_{n}u \rightarrow 0$ as $n \rightarrow \infty$, we have $f''(x - h_{n}u) \rightarrow f''(x)$ as $n \rightarrow \infty$, since $f''$ was taken to be continuous.
+
+Note that since $f''$ is bounded, say by $M$, we have
+$$|f''(x- h_{n}u) - f''(x)| \leq 2M$$
+and thus
+$$|(f''(x-h_{n}u) - f''(x))u^2K(u)|\leq 2Mu^2K(u).$$
+Note that the rhs is integrable by one of the assumptions, and thus by dominated convergence theorem, we have
+$$\lim_{ n \to \infty } \int_{-\infty}^\infty (f''(x - h_{n}u) - f''(x))u^2K(u)du= 0.$$

@@ -108,6 +108,6 @@ $$\text{Bias}[\hat{f}_{n}(t)] = \frac{1}{2}h_{n}^2[f''(x)\sigma^2_{K} +o(1)].$$
 Also,
 $$\begin{align}
 \int_{-\infty}^\infty K^2(u)f(x - h_{n}u)du &= \int_{-\infty}^\infty \left[ K^2(u)f(x) - h_{n}f'(x)uK^2(u) + \frac{1}{2}h_{n}^2f''(x)u^2K^2(u)\right]du \\
-&= f(x) \lvert \lvert K \rvert  \rvert^2  +  \frac{1}{2}h_{n}^2f''(x)\left[ u^2\int K^2(u)du - \int_{-\infty}^\infty  \right]
+&= f(x) \lvert \lvert K \rvert  \rvert^2  +  \frac{1}{2}h_{n}^2f''(x)\left[ u^2\int K^2(u)du - \int_{-\infty}^\infty 2u \lvert  \lvert K \rvert \rvert^2 du  \right]
 \end{align}
 $$

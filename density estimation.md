@@ -51,4 +51,8 @@ $$
 &= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}_{\left( -\frac{1}{2}, \frac{1}{2} \right]}\left(\frac{x- X_{i}}{h_{n}} \right).
 \end{align}
 $$
-Intuition: Consider a distribution with mass $\frac{1}{n}$ at each $X_{i}$. If we spread that discrete mass uniformly over an interval of length $h_{n}$ centered around $X_{i}$, then the mass at $\frac{1}{n}$ is replaced by a histogram of height $\frac{1}{n h_{n}}$ on the interval $(X_{i} - h/2, X_{i} + h /2]$.  
+Intuition: Consider a distribution with mass $\frac{1}{n}$ at each $X_{i}$. If we "spread" that discrete mass uniformly over an interval of length $h_{n}$ centered around $X_{i}$, then the mass at $\frac{1}{n}$ is replaced by a histogram of height $\frac{1}{n h_{n}}$ on the interval $(X_{i} - h/2, X_{i} + h /2]$. Put all the histograms around $X_{1},\dots,X_{n}$ together to obtain $\hat{f}_{n}$.
+
+But note that the mass $\frac{1}{n}$ at each $X_{i}$ can be spread by any arbitrary manner. This would define a general class of estimators of the form 
+$$\hat{f}_{n}(x) = \frac{1}{nh_{n}}\sum_{i=1}^n K\left(\frac{x - X_{i}}{h_{n}} \right)$$
+where $K$ is a pdf (i.e., $K(u)\geq 0$ and $$)

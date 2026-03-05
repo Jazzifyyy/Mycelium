@@ -54,16 +54,6 @@
               "icon": "lucide-file",
               "title": "density estimation"
             }
-          },
-          {
-            "id": "87a4cbfc3cf161eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1

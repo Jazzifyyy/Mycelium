@@ -67,5 +67,11 @@ $$\begin{align}
 &= \int_{-\infty}^\infty K(u)f(x - h_{n}u)du.
 \end{align}$$
 Similarly, 
-$$\text{Var}(\hat{f}_{n}(x)) = $$
+$$
+\begin{align}
+\text{Var}(\hat{f}_{n}(x)) &= \frac{1}{n^2h_{n}^2}\text{Var}\left[\sum_{i=1}^n K\left( \frac{x - X_{i}}{h_{n}} \right) \right] \\
+&= \frac{1}{nh_{n}^2}\text{Var}\left[K\left(\frac{x- X_{i}}{h_{n}} \right)\right] \\
+&= \frac{1}{n\mathbb{E}[]
+\end{align}
+$$
 

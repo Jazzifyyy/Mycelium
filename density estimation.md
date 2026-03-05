@@ -72,7 +72,14 @@ $$
 \text{Var}(\hat{f}_{n}(x)) &= \frac{1}{n^2h_{n}^2}\text{Var}\left[\sum_{i=1}^n K\left( \frac{x - X_{i}}{h_{n}} \right) \right] \\
 &= \frac{1}{nh_{n}^2}\text{Var}\left[K\left(\frac{x- X_{i}}{h_{n}} \right)\right] \\
 &= \frac{1}{n}\left\{ \frac{1}{h_{n}}\mathbb{E}\left[ \frac{1}{h_{n}}K^2\left( \frac{x - X_{i}}{h_{n}} \right) \right] - \mathbb{E}[\hat{f}_{n}(x)]^2\right\} \\
-&= \frac{1}{n} \left\{  \frac{1}{h_{n}}\int_{-\infty}^\infty K^2(u)f(x - h_{n}u)du  \right\}
+&= \frac{1}{n} \left\{  \frac{1}{h_{n}}\int_{-\infty}^\infty K^2(u)f(x - h_{n}u)du - \left( \int_{-\infty}^\infty K(u)f(x - h_{n}u)du \right)^2  \right\}.
 \end{align}
 $$
+We make the following assumptions:
+1. K(u)= K(-u)$ for all $u$, $\sigma^2_{K} = \int_{-\infty}^\infty u^2K(u)du < \infty$, and $\lvert \lvert K \rvert  \rvert^2 = \int_{-\infty}^\infty K^2(u)du < \infty$.
+2. $f''$ is bounded and continuous.
 
+Note that by taylor's theorem, we can expand $f(x - h_{n}u)$ as
+$$\begin{align}
+f(x') &= f(a) + f'(a)(x-a) + \frac{f''(c)}{2}(x-a)^2.
+\end{align}$$

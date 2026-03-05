@@ -47,6 +47,8 @@ $$
 \begin{align}
 \hat{f}_{n}(x) &= \frac{1}{nh_{n}}\left[ F_{n}\left( x + \frac{h_{n}}{2} \right)  - F_{n}\left( x - \frac{h_{n}}{2} \right) \right] \\
 &= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}\left( x - \frac{h_{n}}{2}\leq X_{i} \leq x +\frac{h_{n}}{2} \right] \\
-&= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}()
+&= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}\left( -\frac{1}{2} \leq \frac{x - X_{i}}{h_{n}} \leq \frac{1}{2}\right] \\
+&= \frac{1}{nh_{n}}\sum_{i=1}^n \mathbb{1}_{\left( -\frac{1}{2}, \frac{1}{2} \right]}\left(\frac{x- X_{i}}{h_{n}} \right).
 \end{align}
 $$
+Intuition: Consider a distribution with mass $\frac{1}{n}$ at each $X_{i}$. If we spread that discrete mass uniformly over an interval of length $h_{n}$ centered around $X_{i}$, then the mass at $\frac{1}{n}$ is replaced by a histogram of height $\frac{1}{n h_{n}}$ on the interval $(X_{i} - h/2, X_{i} + h /2]$.  

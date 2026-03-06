@@ -13,7 +13,7 @@ A markov chain is *homogeneous*, if $\mathbb{P}(X_{n+1}=j\mid X_{n} = i)$  does 
 $$\mathbb{P}(X_{n+1}=j\mid X_{n} = i) = \mathbb{P}(X_{1}=j \mid X_{0}=1)$$
 for $n \geq 1$.
 
-# Notation
+# Notation and naming conventions
 Define $p_{ij}:= \mathbb{P}(X_{n+1} = j \mid X_{n} = i) = \mathbb{P}(X_{1}=j \mid X_{0}=i)$.
 
 Note that
@@ -22,6 +22,11 @@ Define $P := ((p_{ij}))_{\mathcal{T} \times \mathcal{T}}$ and call it the *trans
 
 Note that 
 $$P \cdot\mathbf{1}^T= \mathbf{1}^T,$$
-i.e., $$
+i.e., $\mathbf{1}^T$ is an eigenvector corresponding to the eigenvalue $1$.
+
+The distribution of $X_{0}$ is called the **initial distribution**.
+
+# A sequence of rv is a markov chain when?
+Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes values in $\mathcal{T}$ and $X_{0} \sim \mu$. Let $\{ \xi_{n} \mid n \geq 1 \}$ be a sequence of iid random variables, all of them being independent of $X_{0}$, that also takes values in $\mathcal{T}$.
 
 

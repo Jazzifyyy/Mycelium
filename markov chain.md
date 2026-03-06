@@ -17,5 +17,11 @@ for $n \geq 1$.
 Define $p_{ij}:= \mathbb{P}(X_{n+1} = j \mid X_{n} = i) = \mathbb{P}(X_{1}=j \mid X_{0}=i)$.
 
 Note that
-$$\sum_{j \in \mathcal{T}} p_{ij} = \sum_{j \in \mathcal{T}}\mathbb{P}(X_{1}=j \mid X_{0}=i)= \mathbb{P}\left( \left\{  X_{1}  \right\} \right)$$
+$$\sum_{j \in \mathcal{T}} p_{ij} = \sum_{j \in \mathcal{T}}\mathbb{P}(X_{1}=j \mid X_{0}=i)= \mathbb{P}\left( \bigcup_{j \in \mathcal{T}}\left\{  X_{1}=j  \right\}  {\bigg |} X_{0}=i\right)=1.$$
+Define $P := ((p_{ij}))_{\mathcal{T} \times \mathcal{T}}$ and call it the *transition probability matrix*.
+
+Note that 
+$$P \cdot\mathbf{1}^T= \mathbf{1}^T,$$
+i.e., $$
+
 

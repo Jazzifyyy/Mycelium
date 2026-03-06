@@ -27,7 +27,7 @@ i.e., $\mathbf{1}^T$ is an eigenvector corresponding to the eigenvalue $1$.
 The distribution of $X_{0}$ is called the **initial distribution**.
 
 # A sequence of rv is a markov chain when?
-Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes values in $\mathscr{T}$ and $X_{0} \sim \mu$. Let $\{ \xi_{n} \mid n \geq 1 \}$ be a sequence of iid random variables, all of them being independent of $X_{0}$, that takes values in $\mathcal{T}$ and suppose that for some function $f: \mathscr{ T} \times \mathcal{T} \rightarrow \mathscr{T}$ such that $X_{n+1} = f(X_{n}, \xi_{n+1})$ for all $n \geq 0$. Then $\{ X_{n} | n\geq 0 \}$ is a markov chain.
+Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes values in $\mathscr{T}$ and $X_{0} \sim \mu$. Let $\{ \xi_{n} \mid n \geq 1 \}$ be a sequence of iid random variables, all of them being independent of $X_{0}$, that takes values in $\mathcal{T}$ and suppose that for some function $f: \mathscr{ T} \times \mathcal{T} \rightarrow \mathscr{T}$, we have $X_{n+1} = f(X_{n}, \xi_{n+1})$ for all $n \geq 0$. Then $\{ X_{n} | n\geq 0 \}$ is a markov chain.
 
 **Proof:**
 
@@ -41,5 +41,6 @@ where the second last equality is true because $X_{0}, \xi_{1},\dots,\xi_{n}$ ar
 
 Note that
 $$\begin{align}
-\mathbb{P}(X_{n+1} = j \mid X)
+\mathbb{P}(X_{n+1}= j \mid X_{n} = i) &= \frac{\mathbb{P}(X_{n+1} = j ;X_{n}=i)}{\mathbb{P}(X_{n}=i)} \\
+&= \frac{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\mathbb{P}(X_{n+1}=j; X_{n}=i;X_{n-1}= i_{n-1};\dots; X_{0}=i_{0})}{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}} \mathbb{P}(X_{n}=i;X_{n-1}= i_{n-1};\dots; X_{0}=i_{0})}
 \end{align}$$

@@ -62,3 +62,9 @@ must be independent of $x$.
 Note that 
 $$\frac{\partial}{\partial x}\left[ N(x,y) - \frac{\partial}{\partial y} \int M(x,y)\partial x \right] = \frac{\partial N(x,y)}{\partial x}- \frac{\partial^2}{\partial x\partial y}\int M(x,y)\partial x.$$
 We must have
+
+# Example
+## Example 1
+$$ydx + 2xdy=0$$
+is not an exact differential equation:
+$$\frac{\partial M(x,y)}{\partial y}=1 \neq 2 = \frac{\partial N(x,y)}{\partial x}$$

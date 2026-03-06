@@ -19,3 +19,4 @@ tags:
 + [[total differential of a function]]
 + [[exact differential]]
 + [[exact differential equation]]
+	+ [[test for an exact differential equation]]

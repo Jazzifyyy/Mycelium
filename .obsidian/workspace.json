@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "solution of an exact differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "separable equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -53,10 +53,55 @@
               },
               "icon": "lucide-file",
               "title": "separable equation"
-            }
+            },
+            "group": "78cb6e986f97f841"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0285fc5f74d42022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a99df1cf1547144a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "separable equation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of separable equation"
+            },
+            "group": "78cb6e986f97f841"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,19 +318,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 2186,
-        "y": 208,
-        "width": 884,
+        "x": 116,
+        "y": 221,
+        "width": 1044,
         "height": 624,
-        "maximize": true,
+        "maximize": false,
         "zoom": 2
       }
     ]
   },
-  "active": "09d1714c4c805ee1",
+  "active": "a99df1cf1547144a",
   "lastOpenFiles": [
-    "solution of an exact differential equation.md",
     "separable equation.md",
+    "solution of an exact differential equation.md",
     "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "integrating factor of an inexact differential equation.md",

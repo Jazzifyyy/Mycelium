@@ -131,5 +131,7 @@ $$
 &= \frac{t^4\sigma^4_{K}f''(x)^2}{4} + \frac{1}{t} \lvert \lvert K \rvert  \rvert^2f(x) + o(1). 
 \end{align}
 $$
-Now note that $t^4a + t^{-1}b$ where $a,b>0$ is maximized if
-$$4t^3a -\frac{1}{t^2}b=0 \implies 4t^5a=b \implies t = \frac{b}{}$$
+Now note that to maximize $t^4a + t^{-1}b$ where $a,b>0$, take the derivative and set it to zero:
+$$4t^3a -\frac{1}{t^2}b=0 \implies 4t^5a=b \implies t = \left(\frac{b}{4a}\right)^{1/5}.$$
+Thus, $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ is minimimized when 
+$$h_{n} = n^{-1/5} \left( \frac{\lvert \lvert K \rvert  \rvert^2f(x) }{\sigma^4_{K}f''(x)^2} \right)^{1/5}.$$

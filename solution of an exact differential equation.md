@@ -15,3 +15,21 @@ $$\frac{\partial F(x,y)}{\partial x} = M(x,y)$$
 and 
 $$\frac{\partial F(x,y)}{\partial y}=N(x,y)$$
 for all $(x,y)\in D$.
+
+# Example
+## Example 1
+
+Solve the equation 
+$$(3x^2+4xy)dx + (2x^2+2y)dy=0.$$
+### Example 1 solution
+
+We first need to determine whether the equation is exact or not. We have
+$$\frac{\partial M(x,y)}{\partial y} = 4x = \frac{\partial N(x,y)}{\partial x}$$
+for all $(x,y)$, and so is exact in every rectangular domain $D$.
+
+Now we must find a function $F$ such that
+$$\frac{\partial F(x,y)}{\partial x}=M(x,y)=3x^2 + 4xy$$
+and
+$$\frac{\partial F(x,y)}{\partial y} = N(x,y) = 2x^2 + 2y.$$
+From the first equation, we have
+$$$$

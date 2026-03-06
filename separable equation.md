@@ -49,4 +49,13 @@ or
 $$(x^{-2} - 4x^{-3})dx - (y^{-2}-3y^{-4})dy=0.$$
 Integrating, we have the one-parameter family of solutions
 $$-\frac{1}{x} + \frac{2}{x^2} + \frac{1}{y} - \frac{1}{y^3}=c.$$
-Note that on d
+Note that on dividing by $x^3y^4$ in the separation process, we assumed that $x^3\neq0$ *and* $y^4 \neq 0$. Consider the solution $y=0$ of $y^4=0$. (Note that it is not a member of the one-parameter family of solutions which we obtained.) 
+
+Writing the original differential equation in the derivative form:
+$$\frac{dy}{dx} = \frac{(x-4)y^4}{x^3(y^2-3)}.$$
+It is clear that $y=0$ is a solution of the original equation (and it was lost in the separation process).
+
+## Example 2
+
+Solve the initial-value problem that consists of the differential equation
+$$x \sin y dx  + (x^2 + 1)$$

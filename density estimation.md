@@ -123,11 +123,11 @@ $$
 $$
 Note that on the rhs of the equation, the first term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow \infty$ and the second term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow 0$. 
 
-Thus to ensure that the MSE does not blow up, $h_{n}$ must be of order of magnitude, i.e., $h_{n} = tn^{-1/5}$. Then,
+Thus, we see that $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ $h_{n}$ must be of order of magnitude, i.e., $h_{n} = tn^{-1/5}$. Then,
 
 $$
 \begin{align}
-\text{MSE}[\hat{f}_{n}(t)] &= t^4\left[ \frac{\sigma^4_{K}f''(x)^2}{4} + o(1)\right] + t^{-1}[\lvert \lvert K \rvert  \rvert^2f(x)+o(1) ] \\
+n^{4/5}\text{MSE}[\hat{f}_{n}(t)] &= t^4\left[ \frac{\sigma^4_{K}f''(x)^2}{4} + o(1)\right] + t^{-1}[\lvert \lvert K \rvert  \rvert^2f(x)+o(1) ] \\
 &= \frac{t^4\sigma^4_{K}f''(x)^2}{4} + \frac{1}{t} \lvert \lvert K \rvert  \rvert^2f(x) + o(1). 
 \end{align}
 $$

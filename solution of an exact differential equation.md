@@ -16,6 +16,9 @@ and
 $$\frac{\partial F(x,y)}{\partial y}=N(x,y)$$
 for all $(x,y)\in D$.
 
+## Note
+
+The second method below is much quicker but required a good knowledge of differentials and a certain amount of ingenuity to determine how the terms should be grouped. The first standard method may take longer, but is straightforward.
 # Example
 ## Example 1
 
@@ -57,4 +60,5 @@ We now recognize this as
 $$d(x^3)+ d(2x^2y)+d(y^2)=d(c)$$
 where $c$ is an arbitrary constant, or
 $$d(x^3 + 2x^2y + y^2)=d(c).$$
-It follows t
+It follows then that
+$$x^3 + 2x^2y + y^2 =c.$$

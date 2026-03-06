@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first-order differential equations.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "first-order differential equations"
-            }
-          },
-          {
-            "id": "72eff9afd1c08b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "solution of an exact differential equation.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solution of an exact differential equation"
+              "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "78e7e9b2eeca06f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "integrating factor of an inexact differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "integrating factor of an inexact differential equation"
             }
           },
           {
@@ -295,13 +295,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72eff9afd1c08b4c",
+  "active": "78e7e9b2eeca06f9",
   "lastOpenFiles": [
+    "integrating factor of an inexact differential equation.md",
+    "Ordinary Differential Equations.md",
+    "first-order differential equations.md",
     "test for an exact differential equation.md",
     "solution of an exact differential equation.md",
     "exact differential equation.md",
-    "first-order differential equations.md",
-    "Ordinary Differential Equations.md",
     "differential equation of the family of ellipses with specified foci.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",
@@ -322,7 +323,6 @@
     "one sample median test - signed test.md",
     "homework 1 problem 1 (advanced statistical methods).md",
     "wilcoxon's signed rank test.md",
-    "one sample estimation of the median.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

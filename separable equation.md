@@ -66,4 +66,12 @@ $$\frac{x}{x^2 + 1}dx + \frac{\cos y }{\sin y}dy=0.$$
 Thus, the family of solutions is given by
 $$\int \frac{xdx}{x^2 + 1} + \int \frac{\cos y}{\sin y}dy = c_{0}$$
 or
-$$$$
+$$\frac{1}{2}\ln (x^2 + 1) + \ln |\sin y| = c_{0}$$
+or
+$$\ln(x^2 + 1) + \ln \sin^2y=2\ln|c_{1}|=\ln c$$
+or
+$$\ln(x^2 + 1)\sin^2 y = \ln c$$
+or
+$$(x^2 + 1)\sin^2y = c.$$
+
+

@@ -81,4 +81,7 @@ Clearly, each of these solutions $y = n\pi (n=0, \pm 1, \pm2,\dots)$ of $\sin y=
 
 But note that these solutions is a member of the family of solutions for $c=0$. (Thus, none of these solutions was lost in the separation process.)
 
-Ap
+Apply initial conditions:
+$$(1^2 + 1)\sin^2 \frac{\pi}{2}=c$$
+and thus $c=2$. Thus, the solution is
+$$(x^2 + 1)\sin^2y=2.$$

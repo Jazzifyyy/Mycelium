@@ -12,7 +12,7 @@ tags:
 + [[differential equation of the family of ellipses with specified foci]]
 
 ## First-order differential equations
-+ [[first-order differential equations]]
++ [[first-order differential equation]]
 + [[initial-value problem associated with a first-order differential equation]]
 + [[basic existence and uniqueness theorem (first order differential equation)]]
 ## Exact differential equations
@@ -24,3 +24,4 @@ tags:
 + [[integrating factor of an inexact differential equation]]
 ## Separable equations and equations reducible to this form
 + [[separable equation]]
++ [[homogenous equation]]

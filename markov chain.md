@@ -16,3 +16,6 @@ for $n \geq 1$.
 # Notation
 Define $p_{ij}:= \mathbb{P}(X_{n+1} = j \mid X_{n} = i) = \mathbb{P}(X_{1}=j \mid X_{0}=i)$.
 
+Note that
+$$\mathbb{P}(X_{1}=j \mid X_{0}=i) = \frac{\mathbb{P}(X_{1}=j \cap X_{0}=i)}{\mathbb{P}(X_{0}=i)} = $$
+

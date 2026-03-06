@@ -53,8 +53,7 @@
               },
               "icon": "lucide-file",
               "title": "first-order differential equations"
-            },
-            "group": "78cb6e986f97f841"
+            }
           }
         ]
       }
@@ -246,69 +245,6 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "6f67f5ecdefb5e52",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ac0c769c8d8d5da1",
-        "type": "window",
-        "children": [
-          {
-            "id": "553dab905782eee9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a99df1cf1547144a",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "first-order differential equations.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1.0000000000000002,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of first-order differential equations"
-                },
-                "group": "78cb6e986f97f841"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 116,
-        "y": 221,
-        "width": 1044,
-        "height": 624,
-        "maximize": true,
-        "zoom": 2
-      }
-    ]
   },
   "active": "3bb9d8a8a814accb",
   "lastOpenFiles": [

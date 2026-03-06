@@ -24,5 +24,5 @@ $$(y + \sqrt{ x^2 + y^2 })dx - xdy=0$$
 is homogeneousL 
 
 In derivative form,
-$$\frac{dy}{dx} = \frac{y + \sqrt{ x^2 + y^2 }}{x}= \frac{y}{x} \pm \frac{\sqrt{ x^2 + y^2 }}{\sqrt{ x^2 }} = \frac{y}{x} \pm \sqrt{ 1 + \left( \frac{y}{x} \right)^2 }$$
-depending on the sign of 
+$$\frac{dy}{dx} = \frac{y + \sqrt{ x^2 + y^2 }}{x}= \frac{y}{x} \pm \frac{\sqrt{ x^2 + y^2 }}{\sqrt{ x^2 }} = \frac{y}{x} \pm \sqrt{ 1 + \left( \frac{y}{x} \right)^2 },$$
+depending on the sign of $x$.

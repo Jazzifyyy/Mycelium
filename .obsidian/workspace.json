@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "solution of an exact differential equation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "solution of an exact differential equation"
             }
           },
           {
@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "solution of an exact differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -127,8 +127,7 @@
               "title": "test for an exact differential equation"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,12 +318,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72eff9afd1c08b4c",
+  "active": "3bb9d8a8a814accb",
   "lastOpenFiles": [
-    "test for an exact differential equation.md",
-    "solution of an exact differential equation.md",
-    "exact differential equation.md",
     "Ordinary Differential Equations.md",
+    "solution of an exact differential equation.md",
+    "test for an exact differential equation.md",
+    "exact differential equation.md",
     "differential equation of the family of ellipses with specified foci.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",

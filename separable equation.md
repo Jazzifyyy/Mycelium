@@ -36,4 +36,4 @@ where we regarded $y$ as the dependent variable.
 
 Note that if $y_{0}$ is any real number such that $G(y_{0})=0$, then $y=y_{0}$ is a contant solution of the original differential equation; and this solution may have been lost in the separation process.
 
-Thus, first we should always make the assumption that any factors by which we divide in the separation process is not zero. Then we must find the 
+Thus, first we should always make the assumption that any factors by which we divide in the separation process is not zero. Then we must find the solutions $y=y_{0}$ of the equation $G(y)=0$ and determine whether any of these are solutions of the original equation which were lost in the separation process. 

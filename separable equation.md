@@ -73,5 +73,12 @@ or
 $$\ln(x^2 + 1)\sin^2 y = \ln c$$
 or
 $$(x^2 + 1)\sin^2y = c.$$
+In dividing by $(x^2 + 1)\sin y$ in the separation process, we assumed that $\sin y \neq 0$. Now the solutions of $\sin y = 0$ is given by $y=n\pi$ where $n \in \mathbb{Z}$. 
 
+The original equation in derivative form is
+$$\frac{dy}{dx}= \frac{-x\sin y}{(x^2 + 1)\cos y}.$$
+Clearly, each of these solutions $y = n\pi (n=0, \pm 1, \pm2,\dots)$ of $\sin y=0$ is a solution of the original differential equation.
 
+But note that these solutions is a member of the family of solutions for $c=0$. (Thus, none of these solutions was lost in the separation process.)
+
+Ap

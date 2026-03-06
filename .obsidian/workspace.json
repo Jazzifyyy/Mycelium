@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "file": "separable equation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "separable equation"
             }
           },
           {
@@ -56,8 +56,7 @@
             },
             "group": "78cb6e986f97f841"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,16 +310,16 @@
       }
     ]
   },
-  "active": "09d1714c4c805ee1",
+  "active": "3bb9d8a8a814accb",
   "lastOpenFiles": [
     "Ordinary Differential Equations.md",
+    "first-order differential equations.md",
     "separable equation.md",
     "integrating factor of an inexact differential equation.md",
     "total differential of a function.md",
     "exact differential equation.md",
     "solution of an exact differential equation.md",
     "test for an exact differential equation.md",
-    "first-order differential equations.md",
     "differential equation of the family of ellipses with specified foci.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",

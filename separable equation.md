@@ -28,7 +28,12 @@ for all $(x,y)\in D$.
 It follows that the one-parameter family of solutions is
 $$\int M(x)dx + \int N(y)dy=c.$$
 ## Note
-We must also investigate the possible loss or gain of solutions that may have occurred when multiplied with $\frac{1}{f(x)G(y)}$.
+We must also investigate the possible loss or gain of solutions that may have occurred when multiplied with $\frac{1}{f(x)G(y)}$. (note the tacit assumption that neither $f(x)$ nor $G(y)$ is zero.)
 
 Writing the original differential equation in derivative form, we have
 $$f(x)g(y) \frac{dy}{dx} + F(x)G(y)=0,$$
+where we regarded $y$ as the dependent variable.
+
+Note that if $y_{0}$ is any real number such that $G(y_{0})=0$, then $y=y_{0}$ is a contant solution of the original differential equation; and this solution may have been lost in the separation process.
+
+Thus, first we should always make the assumption that any factors by which we divide in the separation process is not zero. Then we must find the 

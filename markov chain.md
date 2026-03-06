@@ -31,4 +31,8 @@ Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes val
 
 **Proof:**
 
-
+$$\begin{align}
+\mathbb{P}(X_{0}=i_{0};X_{1}=i_{1};\dots;X_{k} = i_{k}) &= \mathbb{P}(X_{0}=i_{0}; f(X_{0}, \xi_{1})=i_{1};\dots ;f(X_{k-1}, \xi_{k})= i_{k}) \\
+&= \mathbb{P}(X_{0}=i_{0}; f(i_{0}, \xi_{1})=i_{1};\dots; f(i_{k-1}, \xi_{k})= i_{k}) \\
+&= \mathbb{P}(X_{0}=i_{0})\mathbb{P}(f)
+\end{align}$$

@@ -37,3 +37,16 @@ where we regarded $y$ as the dependent variable.
 Note that if $y_{0}$ is any real number such that $G(y_{0})=0$, then $y=y_{0}$ is a contant solution of the original differential equation; and this solution may have been lost in the separation process.
 
 Thus, first we should always make the assumption that any factors by which we divide in the separation process is not zero. Then we must find the solutions $y=y_{0}$ of the equation $G(y)=0$ and determine whether any of these are solutions of the original equation which were lost in the separation process. 
+
+# Example
+## Example 1
+
+Solve the equation $(x-4)y^4dx - x^3(y^2-3)dy=0$.
+
+The equation is separable; separating the variables by dividing by $x^3y^4$, we obtain
+$$\frac{(x-4)dx}{x^3} - \frac{(y^2-3)dy}{y^4}=0$$
+or
+$$(x^{-2} - 4x^{-3})dx - (y^{-2}-3y^{-4})dy=0.$$
+Integrating, we have the one-parameter family of solutions
+$$-\frac{1}{x} + \frac{2}{x^2} + \frac{1}{y} - \frac{1}{y^3}=c.$$
+Note that on d

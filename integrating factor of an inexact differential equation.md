@@ -8,6 +8,12 @@ tags:
 # Definition
 If the differential equation 
 $$M(x,y)dx + N(x,y)dy=0$$
-is NOT exact in domain $D$ but the differential equation 
+is NOT an [[exact differential equation]] in domain $D$ but the differential equation 
 $$\mu(x,y)M(x,y)dx + \mu(x,y)N(x,y)dy=0$$
-is exact in $D$, then $\mu(x,y)$ is called an **integrating factor** of the 
+is exact in $D$, then $\mu(x,y)$ is called an **integrating factor** of the first differential equation.
+
+## Note
+
+The multiplication of the original equation by the integrating factor may result in either 
+1. the loss of one or more solutions of the original; or
+2. the gain of one or more functions which are solutions of the new equation but *not* of the original 

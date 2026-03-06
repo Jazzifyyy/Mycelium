@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "solution of an exact differential equation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "separable equation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,7 +55,8 @@
               "title": "separable equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,11 +247,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bb9d8a8a814accb",
+  "floating": {
+    "id": "6f67f5ecdefb5e52",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ac0c769c8d8d5da1",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ee9fa248d14603b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d85115323b32f940",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2186,
+        "y": 208,
+        "width": 884,
+        "height": 624,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "09d1714c4c805ee1",
   "lastOpenFiles": [
-    "Ordinary Differential Equations.md",
     "solution of an exact differential equation.md",
     "separable equation.md",
+    "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "integrating factor of an inexact differential equation.md",
     "first-order differential equations.md",

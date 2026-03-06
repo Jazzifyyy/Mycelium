@@ -19,3 +19,11 @@ Note that this equation is exact, since
 $$\frac{\partial }{\partial y}\left[ \frac{F(x)}{f(x)} \right]= 0 = \frac{\partial}{\partial x}\left[ \frac{g(y)}{G(y)} \right].$$
 Further note that upon the multiplication of $\frac{1}{f(x)G(y)}$ with the separable equation, we get
 $$M(x)dx + N(y)dy=0.$$
+Since this is exact, the one-parameter family of solutions of this differential equation is given by $F(x,y)=c$, where $F$ is a function such that 
+$$\frac{\partial F(x,y)}{\partial x} = M(x,y)$$
+and 
+$$\frac{\partial F(x,y)}{\partial y}=N(x,y)$$
+for all $(x,y)\in D$.
+
+It follows that the one-parameter family of solutions is
+$$\int M(x)dx + \int N(y)dy=c.$$

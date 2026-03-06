@@ -21,7 +21,7 @@ for all $(x,y)\in D$.
 
 Solve the equation 
 $$(3x^2+4xy)dx + (2x^2+2y)dy=0.$$
-### Example 1 solution
+### Solution (proceeding )
 
 We first need to determine whether the equation is exact or not. We have
 $$\frac{\partial M(x,y)}{\partial y} = 4x = \frac{\partial N(x,y)}{\partial x}$$
@@ -44,4 +44,8 @@ $$\frac{\partial F(x,y)}{\partial y} = 2x^2 + \frac{d\phi(y)}{dy}= N(x,y)=2x^2 +
 So,
 $$\frac{d\phi(y)}{dy} = 2y.$$
 Thus, $\phi(y)= y^2 + c_{0}$ where $c_{0}$ is an arbitrary constant, and so
-$$F(x,y) = x^3 + 2x^2y+y^2 +c_{0}$$
+$$F(x,y) = x^3 + 2x^2y+y^2 +c_{0}.$$
+Hence, a one-parameter family of solution is $F(x,y)=c_{1}$, or
+$$x^3 + 2x^2 y+ y^2 + c_{0}=c_{1}.$$
+Combining the constants, the solution is
+$$x^3 + 2x^2y+y^2 = c.$$

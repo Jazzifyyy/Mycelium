@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "integrating factor of an inexact differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -103,8 +103,7 @@
               "title": "test for an exact differential equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78e7e9b2eeca06f9",
+  "active": "3bb9d8a8a814accb",
   "lastOpenFiles": [
     "integrating factor of an inexact differential equation.md",
     "Ordinary Differential Equations.md",

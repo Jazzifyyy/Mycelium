@@ -22,3 +22,4 @@ tags:
 	+ [[test for an exact differential equation]]
 	+ [[solution of an exact differential equation]]
 + [[integrating factor of an inexact differential equation]]
+## Separable equations and equa

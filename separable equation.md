@@ -27,3 +27,8 @@ for all $(x,y)\in D$.
 
 It follows that the one-parameter family of solutions is
 $$\int M(x)dx + \int N(y)dy=c.$$
+## Note
+We must also investigate the possible loss or gain of solutions that may have occurred when multiplied with $\frac{1}{f(x)G(y)}$.
+
+Writing the original differential equation in derivative form, we have
+$$f(x)g(y) \frac{dy}{dx} + F(x)G(y)=0,$$

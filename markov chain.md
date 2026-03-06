@@ -17,5 +17,5 @@ for $n \geq 1$.
 Define $p_{ij}:= \mathbb{P}(X_{n+1} = j \mid X_{n} = i) = \mathbb{P}(X_{1}=j \mid X_{0}=i)$.
 
 Note that
-$$\mathbb{P}(X_{1}=j \mid X_{0}=i) = \frac{\mathbb{P}(X_{1}=j \cap X_{0}=i)}{\mathbb{P}(X_{0}=i)} = $$
+$$\sum_{j \in \mathcal{T}} p_{ij} = \sum_{j \in \mathcal{T}}\mathbb{P}(X_{1}=j \mid X_{0}=i)= \mathbb{P}\left( \left\{  X_{1}  \right\} \right)$$
 

@@ -21,7 +21,7 @@ for all $(x,y)\in D$.
 
 Solve the equation 
 $$(3x^2+4xy)dx + (2x^2+2y)dy=0.$$
-### Solution (proceeding )
+### Solution (a method similar to the technique of proving 'test for an exact differential equation')
 
 We first need to determine whether the equation is exact or not. We have
 $$\frac{\partial M(x,y)}{\partial y} = 4x = \frac{\partial N(x,y)}{\partial x}$$
@@ -49,3 +49,12 @@ Hence, a one-parameter family of solution is $F(x,y)=c_{1}$, or
 $$x^3 + 2x^2 y+ y^2 + c_{0}=c_{1}.$$
 Combining the constants, the solution is
 $$x^3 + 2x^2y+y^2 = c.$$
+### Solution (method of grouping)
+
+Write the differential equation as
+$$3x^2 + (4xydx + 2x^2 dy) + 2ydy=0.$$
+We now recognize this as
+$$d(x^3)+ d(2x^2y)+d(y^2)=d(c)$$
+where $c$ is an arbitrary constant, or
+$$d(x^3 + 2x^2y + y^2)=d(c).$$
+It follows t

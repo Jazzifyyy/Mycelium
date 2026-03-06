@@ -20,3 +20,4 @@ tags:
 + [[exact differential]]
 + [[exact differential equation]]
 	+ [[test for an exact differential equation]]
+	+ [[solution of an exact differential equation]]

@@ -68,3 +68,4 @@ We must have
 $$ydx + 2xdy=0$$
 is not an exact differential equation:
 $$\frac{\partial M(x,y)}{\partial y}=1 \neq 2 = \frac{\partial N(x,y)}{\partial x}$$
+for all $(x,y)$. 

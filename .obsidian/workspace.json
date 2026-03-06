@@ -32,7 +32,31 @@
             }
           },
           {
-            "id": "a831a012ebbba66d",
+            "id": "3d04a7192d147b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exact differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "exact differential equation"
+            }
+          },
+          {
+            "id": "47615fa470a53be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "test for an exact differential equation"
+            }
+          },
+          {
+            "id": "72eff9afd1c08b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solution of an exact differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "solution of an exact differential equation"
             }
           },
           {
@@ -80,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a831a012ebbba66d",
+  "active": "72eff9afd1c08b4c",
   "lastOpenFiles": [
+    "test for an exact differential equation.md",
+    "solution of an exact differential equation.md",
     "exact differential equation.md",
     "Ordinary Differential Equations.md",
-    "test for an exact differential equation.md",
     "differential equation of the family of ellipses with specified foci.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",
@@ -298,7 +347,6 @@
     "homework 1 problem 1 (advanced statistical methods).md",
     "wilcoxon's signed rank test.md",
     "one sample estimation of the median.md",
-    "wilcoxon's rank sum test.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

@@ -24,3 +24,6 @@ $$ydx + 2xdy=0$$
 is not an exact differential equation.
 
 Why? See: [[test for an exact differential equation]]
+
+# Also See:
++ [[solution of an exact differential equation]]

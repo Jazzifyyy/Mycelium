@@ -15,6 +15,7 @@ tags:
 + [[galton watson branching process]]
 + [[random walk]]
 	+ [[gambler's ruin]]
++ [[markov chain]] 
 
 # Problems
 + [[exercise set 1 problem 2 stochastic processes]]

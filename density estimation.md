@@ -123,7 +123,7 @@ $$
 $$
 Note that on the rhs of the equation, the first term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow \infty$ and the second term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow 0$. 
 
-Thus, we see that $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ $h_{n}$ must be of order of magnitude, i.e., $h_{n} = tn^{-1/5}$. Then,
+Thus, we see that $n^{4/5}\text{MSE}[\hat{f}_{n}(t)] \rightarrow \infty$ if either $n^{1/5}h_{n} \rightarrow \infty$ or $n^{1/5}h_{n} \rightarrow 0$. Thus, $h_{n}$ must be of order of magnitude, i.e., $h_{n} = tn^{-1/5}$. Then,
 
 $$
 \begin{align}

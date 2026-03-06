@@ -58,4 +58,12 @@ It is clear that $y=0$ is a solution of the original equation (and it was lost i
 ## Example 2
 
 Solve the initial-value problem that consists of the differential equation
-$$x \sin y dx  + (x^2 + 1)$$
+$$x \sin y dx  + (x^2 + 1)\cos ydy =0$$
+and the initial condition
+$$y(1) = \frac{\pi}{2}.$$
+This is a separable equation. Divide by $(x^2+1)\sin y$ to get
+$$\frac{x}{x^2 + 1}dx + \frac{\cos y }{\sin y}dy=0.$$
+Thus, the family of solutions is given by
+$$\int \frac{xdx}{x^2 + 1} + \int \frac{\cos y}{\sin y}dy = c_{0}$$
+or
+$$$$

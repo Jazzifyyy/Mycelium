@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "solution of an exact differential equation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "solution of an exact differential equation"
             }
           },
           {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "separable equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,81 +54,8 @@
               "icon": "lucide-file",
               "title": "separable equation"
             }
-          },
-          {
-            "id": "78e7e9b2eeca06f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "integrating factor of an inexact differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "integrating factor of an inexact differential equation"
-            }
-          },
-          {
-            "id": "a992b0b372e4aa01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test for an exact differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test for an exact differential equation"
-            }
-          },
-          {
-            "id": "9446e3e802f7a6c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test for an exact differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test for an exact differential equation"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,14 +246,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09d1714c4c805ee1",
+  "active": "3bb9d8a8a814accb",
   "lastOpenFiles": [
-    "separable equation.md",
     "Ordinary Differential Equations.md",
+    "solution of an exact differential equation.md",
+    "separable equation.md",
+    "test for an exact differential equation.md",
     "integrating factor of an inexact differential equation.md",
     "first-order differential equations.md",
-    "test for an exact differential equation.md",
-    "solution of an exact differential equation.md",
     "exact differential equation.md",
     "differential equation of the family of ellipses with specified foci.md",
     "density estimation.md",

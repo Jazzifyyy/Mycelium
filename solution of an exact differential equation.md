@@ -18,7 +18,7 @@ for all $(x,y)\in D$.
 
 ## Note
 
-The second method below is much quicker but required a good knowledge of differentials and a certain amount of ingenuity to determine how the terms should be grouped. The first standard method may take longer, but is straightforward.
+The second method below is much quicker but requires a good knowledge of differentials and a certain amount of ingenuity to determine how the terms should be grouped. The first standard method may take longer, but is straightforward.
 # Example
 ## Example 1
 

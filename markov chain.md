@@ -34,5 +34,12 @@ Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes val
 $$\begin{align}
 \mathbb{P}(X_{0}=i_{0};X_{1}=i_{1};\dots;X_{k} = i_{k}) &= \mathbb{P}(X_{0}=i_{0}; f(X_{0}, \xi_{1})=i_{1};\dots ;f(X_{k-1}, \xi_{k})= i_{k}) \\
 &= \mathbb{P}(X_{0}=i_{0}; f(i_{0}, \xi_{1})=i_{1};\dots; f(i_{k-1}, \xi_{k})= i_{k}) \\
-&= \mathbb{P}(X_{0}=i_{0})\mathbb{P}(f)
+&= \mathbb{P}(X_{0}=i_{0})\cdot\mathbb{P}(f(i_{0}, \xi_{1})= i_{1}) \cdots \mathbb{P}(f(i_{k-1}, \xi_{k}) = i_{k}) \\
+&= \mathbb{P}(X_{0}=i_{0})\prod_{j=1}^k \mathbb{P}(f(i_{j-1}, \xi_{j})=i_{j})
+\end{align}$$
+where the second last equality is true because $X_{0}, \xi_{1},\dots,\xi_{n}$ are independent. 
+
+Note that
+$$\begin{align}
+\mathbb{P}(X_{n+1} = j \mid X)
 \end{align}$$

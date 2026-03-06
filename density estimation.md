@@ -123,15 +123,16 @@ $$
 $$
 Note that on the rhs of the equation, the first term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow \infty$ and the second term $\rightarrow \infty$ if $n^{1/5}h_{n} \rightarrow 0$. 
 
-Thus, we see that $n^{4/5}\text{MSE}[\hat{f}_{n}(t)] \rightarrow \infty$ if either $n^{1/5}h_{n} \rightarrow \infty$ or $n^{1/5}h_{n} \rightarrow 0$. Thus, $h_{n}$ must be of order of magnitude, i.e., $h_{n} = tn^{-1/5}$. Then,
+Thus, we see that $n^{4/5}\text{MSE}[\hat{f}_{n}(t)] \rightarrow \infty$ if either $n^{1/5}h_{n} \rightarrow \infty$ or $n^{1/5}h_{n} \rightarrow 0$. Thus, $h_{n}$ must be of order of magnitude, i.e., $h_{n} = t_{0}n^{-1/5}$. Then,
 
 $$
 \begin{align}
-n^{4/5}\text{MSE}[\hat{f}_{n}(t)] &= t^4\left[ \frac{\sigma^4_{K}f''(x)^2}{4} + o(1)\right] + t^{-1}[\lvert \lvert K \rvert  \rvert^2f(x)+o(1) ] \\
-&= \frac{t^4\sigma^4_{K}f''(x)^2}{4} + \frac{1}{t} \lvert \lvert K \rvert  \rvert^2f(x) + o(1). 
+n^{4/5}\text{MSE}[\hat{f}_{n}(t)] &= t_{0}^4\left[ \frac{\sigma^4_{K}f''(x)^2}{4} + o(1)\right] + t_{0}^{-1}[\lvert \lvert K \rvert  \rvert^2f(x)+o(1) ] \\
+&= \frac{t_{0}^4\sigma^4_{K}f''(x)^2}{4} + \frac{1}{t_{0}} \lvert \lvert K \rvert  \rvert^2f(x) + o(1). 
 \end{align}
 $$
-Now note that to maximize $t^4a + t^{-1}b$ where $a,b>0$, take the derivative and set it to zero:
-$$4t^3a -\frac{1}{t^2}b=0 \implies 4t^5a=b \implies t = \left(\frac{b}{4a}\right)^{1/5}.$$
+Now note that to maximize $t_{0}^4a + t_{0}^{-1}b$ where $a,b>0$, take the derivative and set it to zero:
+$$4t_{0}^3a -\frac{1}{t_{0}^2}b=0 \implies 4t_{0}^5a=b \implies t_{0} = \left(\frac{b}{4a}\right)^{1/5}.$$
 Thus, $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ is minimimized when 
 $$h_{n} = n^{-1/5} \left( \frac{\lvert \lvert K \rvert  \rvert^2f(x) }{\sigma^4_{K}f''(x)^2} \right)^{1/5}.$$
+Note that this still involves the unknown $f(x)$ and $f''(x)$. To implement this in practice, one could obtain the initial estimates of them from the data and then plug in those values.

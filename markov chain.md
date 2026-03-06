@@ -39,6 +39,15 @@ $$\begin{align}
 \end{align}$$
 where the second last equality is true because $X_{0}, \xi_{1},\dots,\xi_{n}$ are independent. 
 
+
+Using the above fact, we get that
+$$
+\begin{align}
+\mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1}= i_{n-1};\dots; X_{0}=i_{0}) &= \frac{\mathbb{P}(X_{0}=i_{0}) \prod_{j=1}^{n+1} \mathbb{P}(f(i_{j-1}, \xi_{j})=i_{j})}{\mathbb{P}(X_{0}=i_{0})\prod_{j=1}^n \mathbb{P}(f(i_{j-1}, \xi_{j})=i_{j})} \\
+&= \mathbb{P}(f())
+\end{align}
+$$
+
 Note that
 $$\begin{align}
 \mathbb{P}(X_{n+1}= j \mid X_{n} = i) &= \frac{\mathbb{P}(X_{n+1} = j ;X_{n}=i)}{\mathbb{P}(X_{n}=i)} \\

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Stochastic Processes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Stochastic Processes"
             }
+          },
+          {
+            "id": "ebecdb1d2e43ab44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random walk on graphs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "random walk on graphs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +247,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64bffbc8b84d7c66",
+  "active": "ebecdb1d2e43ab44",
   "lastOpenFiles": [
+    "random walk on graphs.md",
+    "Stochastic Processes.md",
     "random walk.md",
     "markov chain.md",
     "a random walk forms a markov chain.md",
-    "Stochastic Processes.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "probability of getting even number of heads in n coin tosses.md",
@@ -249,7 +275,6 @@
     "basic existence and uniqueness theorem (first order differential equation).md",
     "geometric intepretation of differential equations.md",
     "solution of a differential equation.md",
-    "series 2 problem 6 (linear statistical models).md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

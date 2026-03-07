@@ -16,6 +16,7 @@ tags:
 + [[random walk]]
 	+ [[gambler's ruin]]
 + [[markov chain]] 
+	+ [[a random walk forms a markov chain]]
 
 # Problems
 + [[exercise set 1 problem 2 stochastic processes]]

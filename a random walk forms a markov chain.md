@@ -4,6 +4,8 @@ tags:
   - stochastic_processes
   - college
 ---
+# A simple symmetric random walk is a markov chain
+
 Consider a simple and symmetric random walk (See: [[random walk]]) in $\mathbb{Z}$ and denote the position of the walker at time $n$ is denoted by the random variable $S_{n}= S_{0} + \sum_{i=1}^n \epsilon_{i}$. 
 
 Here, $\mathcal{T}=\{ -1,1 \}$, $\mathscr{T}= \mathbb{Z}$ and $f(i, \epsilon)=i+\epsilon$. Thus,
@@ -24,4 +26,6 @@ p_{ij} &= \mathbb{P}(S_{n+1}=j \mid S_{n}=i) \\
 \end{cases}
 \end{align}
 $$
+# Generalized versions of random walks are also markov chains
 
+(...)

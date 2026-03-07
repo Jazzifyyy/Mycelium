@@ -69,3 +69,16 @@ $$
 \end{align}
 $$
 This proves that $\{ X_{n} | n\geq 0 \}$ is a homogeneous markov chain.
+
+# A sequence of iid rv is a markov chain
+Suppose $\{ X_{n} \mid n\geq 0 \}$ is a sequence of iid random variables that takes values in $\mathscr{T}$. Then the sequence is a markov chain.
+
+**Proof:**
+$$\begin{align}
+\mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1}= i_{n-1};\dots; X_{0}=i_{0}) &= \mathbb{P}(X_{n+1}=j) \\
+&= \mathbb{P}(X_{n+1}=j \mid X_{n} = i)
+\end{align}$$
+and we are done.
+
+Note that, here, $p_{ij} = \mathbb{P}(X_{n+1}=j)$.
+

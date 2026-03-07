@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acc5860421dbecd1",
+  "active": "2a132cdfca3f6bb8",
   "lastOpenFiles": [
-    "a random walk forms a markov chain.md",
     "random walk.md",
+    "a random walk forms a markov chain.md",
     "Stochastic Processes.md",
     "markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",

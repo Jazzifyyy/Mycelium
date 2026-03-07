@@ -82,3 +82,5 @@ and we are done.
 
 Note that, here, $p_{ij} = \mathbb{P}(X_{n+1}=j)$.
 
+# Also See:
++ [[a random walk forms a markov chain]]

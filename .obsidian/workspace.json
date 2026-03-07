@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "f314394a548570b5",
+            "id": "acc5860421dbecd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "galton watson branching process.md",
+                "file": "random walk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,40 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "galton watson branching process"
+              "title": "random walk"
             }
           },
           {
-            "id": "779efe3026cb1425",
+            "id": "2a132cdfca3f6bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "probability of getting two consecutive heads in repeated coin tosses"
-            }
-          },
-          {
-            "id": "82b787151f145bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markov chain.md",
+                "file": "a random walk forms a markov chain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "markov chain"
+              "title": "a random walk forms a markov chain"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,13 +295,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4448029b629968cf",
+  "active": "acc5860421dbecd1",
   "lastOpenFiles": [
+    "a random walk forms a markov chain.md",
+    "random walk.md",
     "Stochastic Processes.md",
+    "markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "markov chain.md",
     "Ordinary Differential Equations.md",
     "homogenous equation.md",
     "first-order differential equation.md",
@@ -345,8 +323,6 @@
     "geometric intepretation of differential equations.md",
     "solution of a differential equation.md",
     "series 2 problem 6 (linear statistical models).md",
-    "differential equation of the family of circles with centres on the x axis.md",
-    "terminology for differential equations.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

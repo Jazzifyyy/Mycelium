@@ -56,5 +56,11 @@ $$\begin{align}
 &= \mathbb{P}(f(i, \xi_{n+1} )=j).
 \end{align}$$
 Thus, 
-$$\mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1}= i_{n-1};\dots; X_{0}=i_{0}) = \mathbb{P}(X_{n+1}= j \mid X_{n} = i).$$
+$$
+\begin{align}
+\mathbb{P}(f(i, \xi_{n+1} )=j) &= \mathbb{P}(X_{n+1}= j \mid X_{n} = i) \\
+&= \mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1} = i_{n-1};\dots; X_{0}=i_{0}) \\
+&= \mathbb{P}(f(i, \xi_{1})= j). 
+\end{align}
+$$
 

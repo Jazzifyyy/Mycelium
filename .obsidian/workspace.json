@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "random walk on graphs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "random walk on graphs"
             }
+          },
+          {
+            "id": "9abccf6dfb5b7851",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebecdb1d2e43ab44",
+  "active": "9abccf6dfb5b7851",
   "lastOpenFiles": [
     "random walk on graphs.md",
     "Stochastic Processes.md",

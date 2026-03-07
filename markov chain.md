@@ -30,7 +30,7 @@ The distribution of $X_{0}$ is called the **initial distribution**.
 Let $\{ X_{n} \mid n \geq 0 \}$ be a sequence of random variables that takes values in $\mathscr{T}$ and $X_{0} \sim \mu$. Let $\{ \xi_{n} \mid n \geq 1 \}$ be a sequence of iid random variables, all of them being independent of $X_{0}$, that takes values in $\mathcal{T}$ and suppose that for some function $f: \mathscr{ T} \times \mathcal{T} \rightarrow \mathscr{T}$, we have $X_{n+1} = f(X_{n}, \xi_{n+1})$ for all $n \geq 0$. Then $\{ X_{n} | n\geq 0 \}$ is a homogenous markov chain.
 
 **Note:** because of independence of $\xi_{n}'$s from $X_{0}$, we have
-$$\mathbb{P}(X_{1}=j \mid X_{0}=i) = \mathbb{P}(f(X_{0}, \xi_{n+1})=j \mid X_{0} = i) = \mathbb{P}(f(i, \xi_{n+1})=j \mid X_{0}=i) = \mathbb{P}(f(i, \xi_{n+1})=j).$$
+$$\mathbb{P}(X_{1}=j \mid X_{0}=i) = \mathbb{P}(f(X_{0}, \xi_{1})=j \mid X_{0} = i) = \mathbb{P}(f(i, \xi_1)=j \mid X_{0}=i) = \mathbb{P}(f(i, \xi_1)=j).$$
 
 
 **Proof:**

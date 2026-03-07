@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "4448029b629968cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markov chain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "markov chain"
-            }
-          },
-          {
             "id": "acc5860421dbecd1",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "random walk"
+            }
+          },
+          {
+            "id": "4448029b629968cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markov chain.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "markov chain"
             }
           },
           {
@@ -297,10 +297,10 @@
   },
   "active": "2a132cdfca3f6bb8",
   "lastOpenFiles": [
-    "random walk.md",
-    "a random walk forms a markov chain.md",
-    "Stochastic Processes.md",
     "markov chain.md",
+    "a random walk forms a markov chain.md",
+    "random walk.md",
+    "Stochastic Processes.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "galton watson branching process.md",
     "probability of getting even number of heads in n coin tosses.md",

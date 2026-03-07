@@ -51,5 +51,10 @@ Note that
 $$\begin{align}
 \mathbb{P}(X_{n+1}= j \mid X_{n} = i) &= \frac{\mathbb{P}(X_{n+1} = j ;X_{n}=i)}{\mathbb{P}(X_{n}=i)} \\
 &= \frac{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\mathbb{P}(X_{n+1}=j; X_{n}=i;X_{n-1}= i_{n-1};\dots; X_{0}=i_{0})}{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}} \mathbb{P}(X_{n}=i;X_{n-1}= i_{n-1};\dots; X_{0}=i_{0})} \\
-&= \frac{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\left[ \mathbb{P}(X_{0}=i_{0}) \left(\prod_{j=1}^n \mathbb{P}(f(i_{j-1},\xi_{j}))\right) \mathbb{P}(f(i, \xi_{n+1})=j)\right]}{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}
+&= \frac{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\left[ \mathbb{P}(X_{0}=i_{0}) \left(\prod_{j=1}^n \mathbb{P}(f(i_{j-1},\xi_{j}))\right) \mathbb{P}(f(i, \xi_{n+1})=j)\right]}{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\left[ \mathbb{P}\left( X_{0}=i_{0}\prod_{j=1}^n \mathbb{P}(f(i_{j-1},\xi_{j})) \right) \right]} \\
+&= \frac{\mathbb{P}(f(i, \xi_{n+1})=j)\cancel{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\left[ \mathbb{P}(X_{0}=i_{0}) \left(\prod_{j=1}^n \mathbb{P}(f(i_{j-1},\xi_{j}))\right) \right]}}{\cancel{\sum_{i_{0},\dots,i_{n-1} \in \mathscr{T}}\left[ \mathbb{P}( X_{0}=i_{0})\prod_{j=1}^n \mathbb{P}(f(i_{j-1},\xi_{j})) \right]}} \\
+&= \mathbb{P}(f(i, \xi_{n+1} )=j).
 \end{align}$$
+Thus, 
+$$\mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1}= i_{n-1};\dots; X_{0}=i_{0}) = \mathbb{P}(X_{n+1}= j \mid X_{n} = i).$$
+

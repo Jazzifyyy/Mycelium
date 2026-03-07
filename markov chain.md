@@ -60,7 +60,8 @@ $$
 \begin{align}
 \mathbb{P}(f(i, \xi_{n+1} )=j) &= \mathbb{P}(X_{n+1}= j \mid X_{n} = i) \\
 &= \mathbb{P}(X_{n+1}=j \mid X_{n}=i ; X_{n-1} = i_{n-1};\dots; X_{0}=i_{0}) \\
-&= \mathbb{P}(f(i, \xi_{1})= j). 
+&= \mathbb{P}(f(i, \xi_{1})= j) \\
+&= \mathbb{P}(X_{1}=j \mid X_{0}) 
 \end{align}
 $$
-
+This proves that $\{ X_{n} | n\geq 0 \}$

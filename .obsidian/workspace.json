@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "k-nearest neighbour regression.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -297,8 +297,8 @@
   },
   "active": "47df79618847e116",
   "lastOpenFiles": [
-    "k-nearest neighbour regression.md",
     "non-parametric regression.md",
+    "k-nearest neighbour regression.md",
     "parameter estimation of a regression model.md",
     "regression model.md",
     "Linear Statistical Models.md",

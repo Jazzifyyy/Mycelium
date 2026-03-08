@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a3e679b62196d04c",
+            "id": "582c1e3ff8f345ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "least-squares cross-validation objective function.md",
+                "file": "density estimation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "least-squares cross-validation objective function"
+              "title": "density estimation"
             }
           },
           {
-            "id": "4a944d956d631c03",
+            "id": "eb12e70d540c7410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "least-squares cross-validation objective function.md",
-                "mode": "preview",
+                "file": "non-parametric regression.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "least-squares cross-validation objective function"
+              "title": "non-parametric regression"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,16 +271,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1a86e9bddc07d8",
+  "active": "eb12e70d540c7410",
   "lastOpenFiles": [
-    "density estimation.md",
     "least-squares cross-validation objective function.md",
+    "non-parametric regression.md",
+    "density estimation.md",
     "Advanced Statistical Methods.md",
+    "Test.md",
+    "markov chain.md",
     "galton watson branching process.md",
     "Stochastic Processes.md",
     "random walk on graphs.md",
     "random walk.md",
-    "markov chain.md",
     "a random walk forms a markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
@@ -296,8 +299,6 @@
     "exact differential.md",
     "initial-value problem associated with a first-order differential equation.md",
     "root of unity filter.md",
-    "basic existence and uniqueness theorem (first order differential equation).md",
-    "geometric intepretation of differential equations.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "least-squares cross-validation objective function.md",
-                "mode": "preview",
+                "file": "Advanced Statistical Methods.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "least-squares cross-validation objective function"
+              "title": "Advanced Statistical Methods"
             }
           },
           {

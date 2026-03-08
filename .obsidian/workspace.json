@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64bffbc8b84d7c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "galton watson branching process.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "galton watson branching process"
-            }
-          },
-          {
-            "id": "ebecdb1d2e43ab44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random walk on graphs.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "random walk on graphs"
-            }
-          },
-          {
             "id": "cb1a86e9bddc07d8",
             "type": "leaf",
             "state": {
@@ -85,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cross validation to determine bin width.md",
+                "file": "least-squares cross-validation objective function.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cross validation to determine bin width"
+              "title": "least-squares cross-validation objective function"
+            }
+          },
+          {
+            "id": "4a944d956d631c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "density estimation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "density estimation"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,14 +271,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e679b62196d04c",
+  "active": "4a944d956d631c03",
   "lastOpenFiles": [
+    "Advanced Statistical Methods.md",
+    "density estimation.md",
+    "least-squares cross-validation objective function.md",
     "galton watson branching process.md",
     "Stochastic Processes.md",
     "random walk on graphs.md",
-    "cross validation to determine bin width.md",
-    "density estimation.md",
-    "Advanced Statistical Methods.md",
     "random walk.md",
     "markov chain.md",
     "a random walk forms a markov chain.md",

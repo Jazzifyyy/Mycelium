@@ -32,6 +32,7 @@ If a parametric model is such that it is true to the real-world, then using that
 + [[kruskal wallis test for the equality of medians of multiple groups]]
 # Density Estimation
 + [[density estimation]]
+	+ [[least-squares cross-validation objective function]]
 # Problems
 + [[homework 1 problem 1 (advanced statistical methods)]]
 + [[homework 1 problem 2 (advanced statistical methods)]]

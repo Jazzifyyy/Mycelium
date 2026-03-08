@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "density estimation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "density estimation"
             }
+          },
+          {
+            "id": "a3e679b62196d04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cross validation to determine bin width.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cross validation to determine bin width"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,8 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1a86e9bddc07d8",
+  "active": "a3e679b62196d04c",
   "lastOpenFiles": [
+    "cross validation to determine bin width.md",
+    "density estimation.md",
     "Advanced Statistical Methods.md",
     "random walk on graphs.md",
     "Stochastic Processes.md",
@@ -286,7 +312,6 @@
     "homogenous equation.md",
     "first-order differential equation.md",
     "separable equation.md",
-    "density estimation.md",
     "integrating factor of an inexact differential equation.md",
     "total differential of a function.md",
     "exact differential equation.md",
@@ -298,7 +323,6 @@
     "root of unity filter.md",
     "basic existence and uniqueness theorem (first order differential equation).md",
     "geometric intepretation of differential equations.md",
-    "solution of a differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

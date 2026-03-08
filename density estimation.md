@@ -136,3 +136,5 @@ $$4t_{0}^3a -\frac{1}{t_{0}^2}b=0 \implies 4t_{0}^5a=b \implies t_{0} = \left(\f
 Thus, $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ is minimimized when 
 $$h_{n} = n^{-1/5} \left( \frac{\lvert \lvert K \rvert  \rvert^2f(x) }{\sigma^4_{K}f''(x)^2} \right)^{1/5}.$$
 Note that this still involves the unknown $f(x)$ and $f''(x)$. To implement this in practice, one could obtain the initial estimates of them from the data and then plug in those values.
+
+See: [[cross validation to determine bin width]]

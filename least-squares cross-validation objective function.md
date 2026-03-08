@@ -4,9 +4,10 @@ tags:
   - college
   - statistical_methods
 ---
-In [[density estimation]], we saw that $h_{n}$ may change depending as we move across the $x$-axis so we need to instead pick a "global" binwidth that "performs" well on the whole density.
+In [[density estimation]], we saw that $h_{n}$ may change depending as we move across the $x$-axis so we need to instead pick a "global" binwidth that, on average, "performs" well on the whole density, i.e., it minimizes
+$$\mathbb{E}\left[ \int (\hat{f}_{h}(x) - f(x))^2dx\right] = \int \mathbb{E}[\hat{f}_{h}(x) - f(x))^2].$$
 
-We aim to minimize 
+Thus, we aim to minimize 
 $$
 \begin{align}
 \int_{-\infty}^\infty (\hat{f}_{h}(x) -f(x))^2dx &=\int_{-\infty}^\infty \hat{f}^2_{h}(x)dx  - 2 \int_{-\infty}^\infty \hat{f}_{h}(x)f(x)dx + \int_{-\infty}^\infty f^2(x)dx.

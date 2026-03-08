@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes.md",
+                "file": "galton watson branching process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stochastic Processes"
+              "title": "galton watson branching process"
             }
           },
           {
@@ -297,16 +297,16 @@
   },
   "active": "a3e679b62196d04c",
   "lastOpenFiles": [
-    "density estimation.md",
-    "cross validation to determine bin width.md",
-    "Advanced Statistical Methods.md",
-    "random walk on graphs.md",
+    "galton watson branching process.md",
     "Stochastic Processes.md",
+    "random walk on graphs.md",
+    "cross validation to determine bin width.md",
+    "density estimation.md",
+    "Advanced Statistical Methods.md",
     "random walk.md",
     "markov chain.md",
     "a random walk forms a markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
-    "galton watson branching process.md",
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
     "homogenous equation.md",

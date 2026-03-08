@@ -18,5 +18,7 @@ but this is biased, since after denoting $K_{h}(x - X_{j}) = \frac{1}{h_{n}}K\le
 $$\begin{align}
 \mathbb{E}\left[\frac{1}{n} \sum_{i=1}^n \hat{f}_{h}(X_{i})\right] &= \mathbb{E}[\hat{f}_{h}(X_{i})] \\
 &= \mathbb{E}\left[ \frac{1}{n}\sum_{j=1}^n K_{h}(X_{i} - X_{j}) \right] \\
-&= \frac{1}{n}[(n-1)\mathbb{E}[\hat{f}_{h}(X_{i})] + ]
+&= \frac{1}{n}[(n-1)\mathbb{E}[\hat{f}_{h}(X_{i})] + \mathbb{E}[K_{h}(0)]] \\
+&= \mathbb{E}\left[ \hat{f}_{n}(X_{i}) \right] + \underbrace{\frac{1}{n}\left(K_{h}(0) - \mathbb{E}[\hat{f}_{h}(X_{i})]\right)}_{\text{Bias}}.
 \end{align}$$
+The bias can be corrected by removing the $K_{h}(X_{i}-X_{i})$ term in the sum

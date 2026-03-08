@@ -4,6 +4,8 @@ tags:
   - college
   - statistical_methods
 ---
+In [[density estimation]], we saw that $h_{n}$ may change depending as we move across the $x$-axis so we need to instead pick a "global" binwidth that "performs" well on the whole density.
+
 We aim to minimize 
 $$
 \begin{align}

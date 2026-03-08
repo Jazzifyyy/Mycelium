@@ -137,4 +137,7 @@ Thus, $n^{4/5}\text{MSE}[\hat{f}_{n}(t)]$ is minimimized when
 $$h_{n} = n^{-1/5} \left( \frac{\lvert \lvert K \rvert  \rvert^2f(x) }{\sigma^4_{K}f''(x)^2} \right)^{1/5}.$$
 Note that this still involves the unknown $f(x)$ and $f''(x)$. To implement this in practice, one could obtain the initial estimates of them from the data and then plug in those values.
 
+Problems:
+1. The binwidth may change at different $x'$s. 
+
 See: [[least-squares cross-validation objective function]]

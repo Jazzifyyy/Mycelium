@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "density estimation.md",
-                "mode": "preview",
+                "file": "least-squares cross-validation objective function.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "density estimation"
+              "title": "least-squares cross-validation objective function"
             }
           },
           {
@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "least-squares cross-validation objective function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,8 +79,7 @@
               "title": "least-squares cross-validation objective function"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,11 +270,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a944d956d631c03",
+  "active": "cb1a86e9bddc07d8",
   "lastOpenFiles": [
     "density estimation.md",
-    "Advanced Statistical Methods.md",
     "least-squares cross-validation objective function.md",
+    "Advanced Statistical Methods.md",
     "galton watson branching process.md",
     "Stochastic Processes.md",
     "random walk on graphs.md",

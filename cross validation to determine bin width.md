@@ -24,3 +24,7 @@ $$\begin{align}
 The bias can be corrected by ensuring that the $K_{h}(X_{i}-X_{i})$ term does not appear in the density estimate, i.e., 
 $$\hat{f}_{h, -i}(X_{i}) = \frac{1}{n-1}\sum_{j \in \{ 1,\dots,n  \} \setminus \{ i \}}K_{h}(X_{i}-X_{j}).$$
 Thus, $(-2) \frac{1}{n}\sum_{i=1}^n \hat{f}_{h, -i}(X_{i})$ estimates the second term.
+
+Thus, the final objective is to pick an $h$ that minimizes the **least-squares cross-validation objective function**:
+$$\text{LSCV}(h) =\int_{-\infty}^\infty \hat{f}_{h}(x)^2 dx - \frac{2}{n}\sum_{i=1}^n \hat{f}_{h, -i}(X_{i}).$$
+

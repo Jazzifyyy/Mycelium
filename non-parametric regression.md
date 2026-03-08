@@ -17,3 +17,10 @@ $$\begin{align}
 &= \mathbb{E}[(Y - \mathbb{E}[Y|X])^2] + \mathbb{E}[(\mathbb{E}[Y|X] - \hat{f}(X))^2].
 \end{align}$$
 Note that the second term is zero if $\hat{f}(X) = \mathbb{E}[Y|X]$.
+
+Thus, the conditional distribution of $Y$ given $X=x$ will be our estimate, but how do we estimate this conditional distribution?
+
+For a given $x$, we look at $K$ many $x_{i}'$s that are close to $x$; and take the average of the respective $y'$s.
+
+Two methods:
+1. [[k-nearest neighbour regression]]

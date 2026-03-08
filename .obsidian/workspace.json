@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "non-parametric regression.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -80,13 +80,27 @@
             }
           },
           {
-            "id": "d26331184e1823aa",
+            "id": "47df79618847e116",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "k-nearest neighbour regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "k-nearest neighbour regression"
             }
           }
         ],
@@ -281,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d26331184e1823aa",
+  "active": "47df79618847e116",
   "lastOpenFiles": [
+    "k-nearest neighbour regression.md",
     "non-parametric regression.md",
     "parameter estimation of a regression model.md",
     "regression model.md",
@@ -308,7 +323,6 @@
     "exact differential equation.md",
     "solution of an exact differential equation.md",
     "test for an exact differential equation.md",
-    "differential equation of the family of ellipses with specified foci.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

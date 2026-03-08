@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "random walk on graphs"
             }
+          },
+          {
+            "id": "cb1a86e9bddc07d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "density estimation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "density estimation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +271,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebecdb1d2e43ab44",
+  "active": "cb1a86e9bddc07d8",
   "lastOpenFiles": [
+    "Advanced Statistical Methods.md",
     "random walk on graphs.md",
     "Stochastic Processes.md",
     "random walk.md",
@@ -262,7 +287,6 @@
     "first-order differential equation.md",
     "separable equation.md",
     "density estimation.md",
-    "Advanced Statistical Methods.md",
     "integrating factor of an inexact differential equation.md",
     "total differential of a function.md",
     "exact differential equation.md",

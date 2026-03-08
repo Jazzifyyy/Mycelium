@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "density estimation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -297,8 +297,8 @@
   },
   "active": "a3e679b62196d04c",
   "lastOpenFiles": [
-    "cross validation to determine bin width.md",
     "density estimation.md",
+    "cross validation to determine bin width.md",
     "Advanced Statistical Methods.md",
     "random walk on graphs.md",
     "Stochastic Processes.md",

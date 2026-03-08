@@ -16,3 +16,4 @@ $$\begin{align}
 &= \mathbb{E}[(Y - \mathbb{E}[Y|X])^2] + \mathbb{E}[(\mathbb{E}[Y|X] - \hat{f}(X))^2] + \mathbb{E}[(Y - \mathbb{E}[Y|X])(\mathbb{E}[Y|X] - \hat{f}(X))] \\
 &= \mathbb{E}[(Y - \mathbb{E}[Y|X])^2] + \mathbb{E}[(\mathbb{E}[Y|X] - \hat{f}(X))^2].
 \end{align}$$
+Note that the second term is zero if $\hat{f}(X) = \mathbb{E}[Y|X]$.

@@ -14,7 +14,9 @@ Note that the third term does not involve $h$ and the second term is $-2\mathbb{
 
 Recall that we had $X_{1},\dots,X_{n} \overset{\text{iid}}{\sim}f$ and thus the second term can be estimated by
 $$\frac{1}{n} \sum_{i=1}^n \hat{f}_{h}(X_{i})$$
-but this is biased: ($K_{h} = \frac{1}{}$)
+but this is biased, since after denoting $K_{h}(x - X_{j}) = \frac{1}{h_{n}}K\left(\frac{x- X_{j}}{h_{n}}\right)$, we have
 $$\begin{align}
-\mathbb{E}\left[\frac{1}{n} \sum_{i=1}^n \hat{f}_{h}(X_{i})\right] &= \mathbb{E}\left[ \frac{1}{n}\sum_{i=1}^n \frac{1}{n}\sum_{j=1}^n K_{h}(X_{i} - X_{j}) \right]
+\mathbb{E}\left[\frac{1}{n} \sum_{i=1}^n \hat{f}_{h}(X_{i})\right] &= \mathbb{E}[\hat{f}_{h}(X_{i})] \\
+&= \mathbb{E}\left[ \frac{1}{n}\sum_{i=1}^n K_{h}(\frac{x - X_{i}}{}) \right] \\
+&= 
 \end{align}$$

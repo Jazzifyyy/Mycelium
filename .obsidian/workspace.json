@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "density estimation.md",
-                "mode": "preview",
+                "file": "least-squares cross-validation objective function.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "density estimation"
+              "title": "least-squares cross-validation objective function"
             }
           }
         ],
@@ -273,8 +273,8 @@
   },
   "active": "4a944d956d631c03",
   "lastOpenFiles": [
-    "Advanced Statistical Methods.md",
     "density estimation.md",
+    "Advanced Statistical Methods.md",
     "least-squares cross-validation objective function.md",
     "galton watson branching process.md",
     "Stochastic Processes.md",

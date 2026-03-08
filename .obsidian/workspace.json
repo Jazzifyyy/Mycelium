@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "non-parametric regression"
             }
+          },
+          {
+            "id": "d26331184e1823aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,10 +281,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb12e70d540c7410",
+  "active": "d26331184e1823aa",
   "lastOpenFiles": [
-    "least-squares cross-validation objective function.md",
     "non-parametric regression.md",
+    "parameter estimation of a regression model.md",
+    "regression model.md",
+    "Linear Statistical Models.md",
+    "least-squares cross-validation objective function.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",
     "Test.md",
@@ -296,9 +309,6 @@
     "solution of an exact differential equation.md",
     "test for an exact differential equation.md",
     "differential equation of the family of ellipses with specified foci.md",
-    "exact differential.md",
-    "initial-value problem associated with a first-order differential equation.md",
-    "root of unity filter.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

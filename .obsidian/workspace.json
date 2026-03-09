@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "integrating factor of an inexact differential equation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "integrating factor of an inexact differential equation"
             }
           },
           {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "linear first order differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,8 +55,7 @@
               "title": "linear first order differential equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad679f402b8c3cf3",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "linear first order differential equation.md",
     "Ordinary Differential Equations.md",
+    "integrating factor of an inexact differential equation.md",
+    "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
     "homogeneous equation.md",
@@ -274,7 +274,6 @@
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
     "first-order differential equation.md",
-    "separable equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integrating factor of a linear first order differential equation.md",
-                "mode": "source",
+                "file": "solution of a linear first order differential equation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "integrating factor of a linear first order differential equation"
+              "title": "solution of a linear first order differential equation"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "linear first order differential equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,9 +270,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4bf5bc1e2b49a10",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "integrating factor of a linear first order differential equation.md",
+    "solution of a linear first order differential equation.md",
     "Ordinary Differential Equations.md",
     "linear first order differential equation.md",
     "integrating factor of an inexact differential equation.md",

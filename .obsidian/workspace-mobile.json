@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e4b6ee554caa743",
+            "id": "e733f9d24b6abd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mann-whitney u statistic.md",
+                "file": "one sample median test - signed test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mann-whitney u statistic"
+              "title": "one sample median test - signed test"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Adva",
+            "query": "Adv",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -178,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e4b6ee554caa743",
+  "active": "e733f9d24b6abd0d",
   "lastOpenFiles": [
+    "Advanced Statistical Methods.md",
+    "one sample median test - signed test.md",
+    "density estimation.md",
+    "least-squares cross-validation objective function.md",
+    "mann-whitney u statistic.md",
     "total differential of a function.md",
     "test for an exact differential equation.md",
     "solution of an exact differential equation.md",
@@ -199,7 +204,6 @@
     "plots/plot_7a61b537_2_20260228161923.jpg",
     "non-parametric regression.md",
     "markov chain.md",
-    "least-squares cross-validation objective function.md",
     "k-nearest neighbour regression.md",
     "integrating factor of an inexact differential equation.md",
     "initial-value problem associated with a first-order differential equation.md",
@@ -212,11 +216,7 @@
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exact differential.md",
     "exact differential equation.md",
-    "density estimation.md",
     "basic existence and uniqueness theorem (first order differential equation).md",
-    "a random walk forms a markov chain.md",
-    "/wilcoxon's signed rank test.md",
-    "/total differential of a function.md",
     "/exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "plots",
     "exports/series_2_problem_6__linear_statistical_models_",

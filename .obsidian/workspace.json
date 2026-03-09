@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear first order differential equation.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "linear first order differential equation"
+              "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "f4bf5bc1e2b49a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "integrating factor of a linear first order differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "integrating factor of a linear first order differential equation"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "linear first order differential equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,11 +271,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "f4bf5bc1e2b49a10",
   "lastOpenFiles": [
+    "integrating factor of a linear first order differential equation.md",
     "Ordinary Differential Equations.md",
-    "integrating factor of an inexact differential equation.md",
     "linear first order differential equation.md",
+    "integrating factor of an inexact differential equation.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
     "homogeneous equation.md",
@@ -273,7 +299,6 @@
     "a random walk forms a markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "first-order differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

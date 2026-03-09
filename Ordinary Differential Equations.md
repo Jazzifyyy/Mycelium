@@ -29,3 +29,4 @@ tags:
 + [[solving homogeneous equations]]
 ## Linear equations and Bernoulli equations
 + [[linear first order differential equation]]
++ [[integrating factor of a linear first order differential equation]]

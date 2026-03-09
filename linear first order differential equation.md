@@ -28,4 +28,11 @@ Note that $\mu(x)$ is an integrating factor iff
 $$\frac{\partial}{\partial y}[\mu(x)P(x)y - \mu(x)Q(x)] = \frac{\partial}{\partial x}[\mu(x)],$$
 i.e., iff
 $$\mu(x)P(x) = \frac{d}{dx}[\mu(x)].$$
-
+Note that $\mu$ is an unknown function of $x$ that we are trying to determine. Rewrite above as
+$$\mu P(x) = \frac{d\mu}{dx},$$
+i.e., 
+$$\frac{d\mu}{\mu} = P(x)dx.$$
+Integrate:
+$$\ln|\mu | = \int P(x)dx$$
+or 
+$$\mu(x) = e^{\int P(x)dx}.$$

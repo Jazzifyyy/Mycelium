@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mann-whitney u statistic.md",
+                "file": "kruskal wallis test for the equality of medians of multiple groups.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mann-whitney u statistic"
+              "title": "kruskal wallis test for the equality of medians of multiple groups"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mann-whitney u statistic.md",
+            "file": "kruskal wallis test for the equality of medians of multiple groups.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,9 +180,11 @@
   },
   "active": "e733f9d24b6abd0d",
   "lastOpenFiles": [
-    "wilcoxon's rank sum test.md",
-    "mann-whitney u statistic.md",
     "Advanced Statistical Methods.md",
+    "fligner killeen test.md",
+    "wilcoxon's rank sum test.md",
+    "example of performing the wilcoxon's rank sum test.md",
+    "mann-whitney u statistic.md",
     "wilcoxon's signed rank test.md",
     "example of performing the wilcoxon's signed rank test.md",
     "one sample median test - signed test.md",
@@ -214,8 +216,6 @@
     "homogenous equation.md",
     "homework 1 problem 4 (advanced statistical methods).md",
     "homework 1 problem 3 (advanced statistical methods).md",
-    "homework 1 problem 2 (advanced statistical methods).md",
-    "homework 1 problem 1 (advanced statistical methods).md",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "/exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "plots",

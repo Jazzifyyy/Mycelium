@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "a homogeneous equation is separable.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "a homogeneous equation is separable"
             }
           },
           {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "a homogeneous equation is separable.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,8 +55,7 @@
               "title": "a homogeneous equation is separable"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "570caaeeb8ca23c6",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "a homogeneous equation is separable.md",
     "Ordinary Differential Equations.md",
+    "a homogeneous equation is separable.md",
     "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
     "test for an exact differential equation.md",

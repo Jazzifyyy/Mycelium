@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "non-parametric regression"
             }
-          },
-          {
-            "id": "47df79618847e116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k-nearest neighbour regression.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "k-nearest neighbour regression"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,10 +271,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47df79618847e116",
+  "active": "eb12e70d540c7410",
   "lastOpenFiles": [
-    "non-parametric regression.md",
     "k-nearest neighbour regression.md",
+    "non-parametric regression.md",
     "parameter estimation of a regression model.md",
     "regression model.md",
     "Linear Statistical Models.md",

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
+          },
+          {
+            "id": "570caaeeb8ca23c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a homogeneous equation is separable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "a homogeneous equation is separable"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,11 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "570caaeeb8ca23c6",
   "lastOpenFiles": [
+    "a homogeneous equation is separable.md",
+    "Ordinary Differential Equations.md",
     "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
-    "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "density estimation.md",
     "non-parametric regression.md",
@@ -249,7 +275,6 @@
     "separable equation.md",
     "integrating factor of an inexact differential equation.md",
     "total differential of a function.md",
-    "exact differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

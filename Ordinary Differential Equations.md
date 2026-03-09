@@ -23,5 +23,6 @@ tags:
 	+ [[solution of an exact differential equation]]
 + [[integrating factor of an inexact differential equation]]
 ## Separable equations and equations reducible to this form
-+ [[separable equation]]
 + [[homogeneous equation]]
++ + [[separable equation]]
+	+ [[a homogeneous equation is separable]]

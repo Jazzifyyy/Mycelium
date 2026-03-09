@@ -26,3 +26,4 @@ tags:
 + [[homogeneous equation]]
 + + [[separable equation]]
 	+ [[a homogeneous equation is separable]]
++ [[solving homogeneous equations]]

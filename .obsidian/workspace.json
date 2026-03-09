@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "file": "solution of a linear first order differential equation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "solution of a linear first order differential equation"
             }
           },
           {
@@ -272,8 +272,8 @@
   },
   "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "solution of a linear first order differential equation.md",
     "Ordinary Differential Equations.md",
+    "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
     "integrating factor of an inexact differential equation.md",
     "a homogeneous equation is separable.md",

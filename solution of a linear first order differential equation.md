@@ -11,4 +11,10 @@ To find the solution of the differential equation, we employ a simple approch: m
 $$e^{\int P(x)dx} \frac{dy}{dx} + e^{\int P(x)dx} P(x)y = Q(x)e^{\int P(x)dx}$$
 i.e.,
 
-$$$$
+$$\frac{d}{dx}\left[ e^{\int P(x)dx}y \right] = Q(x)e^{\int P(x)dx}.$$
+Integrating,
+$$e^{\int P(x)dx}y = \int e^{\int P(x)dx}Q(x)dx +c;$$
+i.e., a one-parameter family of solutions is
+$$y = \frac{1}{e^{\int P(x)dx}}\left[\int e^{\int P(x)dx}Q(x)dx +c\right].$$
+
+Furthermore, it can be shown that this one-parameter family of solutions includes *all* the solutions of the equation.

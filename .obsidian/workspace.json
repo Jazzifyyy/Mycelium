@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a483055e330c34bc",
+            "id": "37ffd72ef0bfab54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bernoulli equations.md",
+                "file": "transforming a bernoulli equation to a linear equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bernoulli equations"
+              "title": "transforming a bernoulli equation to a linear equation"
+            }
+          },
+          {
+            "id": "ce0e7504dcdeb11b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bernoulli differential equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bernoulli differential equation"
+            }
+          },
+          {
+            "id": "a483055e330c34bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bernoulli differential equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bernoulli differential equation"
             }
           },
           {
@@ -271,10 +319,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a483055e330c34bc",
+  "active": "37ffd72ef0bfab54",
   "lastOpenFiles": [
-    "bernoulli equations.md",
+    "transforming a bernoulli equation to a linear equation.md",
     "Ordinary Differential Equations.md",
+    "bernoulli differential equation.md",
     "homogeneous equation.md",
     "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
@@ -298,7 +347,6 @@
     "galton watson branching process.md",
     "Stochastic Processes.md",
     "random walk on graphs.md",
-    "random walk.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

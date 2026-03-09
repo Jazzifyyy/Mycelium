@@ -16,4 +16,10 @@ or
 $$x \frac{dv}{dx} = -\frac{1}{2v} + \frac{v}{2}$$
 or
 $$x \frac{dv}{dx} = \frac{v^2 -1}{2v}.$$
-This is separable. Divide by 
+This is separable. Separating the variables, we obtain
+$$\frac{2vdv}{v^2 - 1}= \frac{dx}{x}.$$
+Integrating,
+$$\ln|v^2 - 1| = \ln|x| + \ln|c| $$
+and thus
+$$|v^2 -1| = |cx|.$$
+Check that no solutions were lost in the separation process. Now, 

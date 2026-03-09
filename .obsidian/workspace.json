@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "solution of a linear first order differential equation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,32 +54,9 @@
               "icon": "lucide-file",
               "title": "solution of a linear first order differential equation"
             }
-          },
-          {
-            "id": "ad679f402b8c3cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear first order differential equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "linear first order differential equation"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,17 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "f4bf5bc1e2b49a10",
   "lastOpenFiles": [
-    "Ordinary Differential Equations.md",
-    "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
+    "solution of a linear first order differential equation.md",
+    "Ordinary Differential Equations.md",
+    "exact differential equation.md",
+    "test for an exact differential equation.md",
+    "exact differential.md",
     "integrating factor of an inexact differential equation.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
     "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
-    "test for an exact differential equation.md",
     "density estimation.md",
     "non-parametric regression.md",
     "k-nearest neighbour regression.md",
@@ -296,8 +275,6 @@
     "random walk on graphs.md",
     "random walk.md",
     "a random walk forms a markov chain.md",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
-    "probability of getting even number of heads in n coin tosses.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

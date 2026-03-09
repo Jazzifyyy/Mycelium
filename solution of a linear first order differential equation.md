@@ -18,3 +18,11 @@ i.e., a one-parameter family of solutions is
 $$y = \frac{1}{e^{\int P(x)dx}}\left[\int e^{\int P(x)dx}Q(x)dx +c\right].$$
 
 Furthermore, it can be shown that this one-parameter family of solutions includes *all* the solutions of the equation.
+
+# Examples
+## Example 1
+Consider the differential equation
+$$y^2 dx + (3xy -1)dy = 0.$$
+This becomes
+$$\frac{dy}{dx} = \frac{y^2}{1 - 3xy}$$
+which is not linear in $y$, not exact, 

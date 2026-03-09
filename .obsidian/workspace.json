@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "homogenous equation"
             }
+          },
+          {
+            "id": "dffc90cf91270bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a trick to recognize homogenous equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "a trick to recognize homogenous equations"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "dffc90cf91270bd3",
   "lastOpenFiles": [
+    "a trick to recognize homogenous equations.md",
+    "homogenous equation.md",
     "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "density estimation.md",
@@ -243,13 +270,11 @@
     "a random walk forms a markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "homogenous equation.md",
     "first-order differential equation.md",
     "separable equation.md",
     "integrating factor of an inexact differential equation.md",
     "total differential of a function.md",
     "exact differential equation.md",
-    "solution of an exact differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

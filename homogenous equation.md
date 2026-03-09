@@ -28,4 +28,4 @@ $$\frac{dy}{dx} = \frac{y + \sqrt{ x^2 + y^2 }}{x}= \frac{y}{x} \pm \frac{\sqrt{
 depending on the sign of $x$.
 
 # Also See:
-+ [[a trick to recognize homogenous equat]]
++ [[a trick to recognize homogenous equations]]

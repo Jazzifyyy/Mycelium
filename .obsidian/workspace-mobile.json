@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "least-squares cross-validation objective function.md",
+                "file": "density estimation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "least-squares cross-validation objective function"
+              "title": "density estimation"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "least-squares cross-validation objective function.md",
+            "file": "density estimation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "e733f9d24b6abd0d",
   "lastOpenFiles": [
+    "least-squares cross-validation objective function.md",
     "density estimation.md",
     "Advanced Statistical Methods.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
@@ -191,7 +192,6 @@
     "example of performing the wilcoxon's signed rank test.md",
     "one sample median test - signed test.md",
     "one sample estimation of the median.md",
-    "least-squares cross-validation objective function.md",
     "total differential of a function.md",
     "test for an exact differential equation.md",
     "solution of an exact differential equation.md",

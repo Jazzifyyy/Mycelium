@@ -30,3 +30,4 @@ tags:
 ## Linear equations and Bernoulli equations
 + [[linear first order differential equation]]
 + [[solution of a linear first order differential equation]]
++ [[bernoulli equations]]

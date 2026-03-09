@@ -25,4 +25,14 @@ Consider the differential equation
 $$y^2 dx + (3xy -1)dy = 0.$$
 This becomes
 $$\frac{dy}{dx} = \frac{y^2}{1 - 3xy}$$
-which is not linear in $y$, not exact, 
+which is not linear in $y$, not exact, not separabe, nor homogeneous.
+
+It appears to be of a type that we have not yet encountered; but note that in the differential form of a first-order differential equation, the roles of $x$ and $y$ are interchangeable, in the sense that either variable may be regarded as the dependent variable and the other as the independent variable. 
+
+So let us now regard $x$ as the dependent variable and $y$ as the independent variable. With this, we have
+$$\frac{dx}{dy} = \frac{1-3xy}{y^2}$$
+i.e.,
+$$\frac{dx}{dy} + \frac{3}{y}x = \frac{1}{y^2}.$$
+This is of the form
+$$\frac{dx}{dy} + P(y)x = Q(y).$$
+Thus the theory developed here may be applied to this equation merely by interchanging the roles of $x$ and $y$.

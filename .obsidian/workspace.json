@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solution of a linear first order differential equation.md",
-                "mode": "preview",
+                "file": "Ordinary Differential Equations.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solution of a linear first order differential equation"
+              "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "a483055e330c34bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bernoulli equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bernoulli equations"
             }
           },
           {
@@ -38,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "solution of a linear first order differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -247,18 +271,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4bf5bc1e2b49a10",
+  "active": "a483055e330c34bc",
   "lastOpenFiles": [
-    "linear first order differential equation.md",
-    "solution of a linear first order differential equation.md",
+    "bernoulli equations.md",
     "Ordinary Differential Equations.md",
+    "homogeneous equation.md",
+    "solution of a linear first order differential equation.md",
+    "linear first order differential equation.md",
     "exact differential equation.md",
     "test for an exact differential equation.md",
     "exact differential.md",
     "integrating factor of an inexact differential equation.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
-    "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
     "density estimation.md",
     "non-parametric regression.md",
@@ -274,7 +299,6 @@
     "Stochastic Processes.md",
     "random walk on graphs.md",
     "random walk.md",
-    "a random walk forms a markov chain.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

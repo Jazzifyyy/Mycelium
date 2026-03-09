@@ -24,4 +24,4 @@ tags:
 + [[integrating factor of an inexact differential equation]]
 ## Separable equations and equations reducible to this form
 + [[separable equation]]
-+ [[homogenous equation]]
++ [[homogeneous equation]]

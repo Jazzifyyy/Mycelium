@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homogenous equation.md",
-                "mode": "source",
+                "file": "Ordinary Differential Equations.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homogenous equation"
-            }
-          },
-          {
-            "id": "dffc90cf91270bd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a trick to recognize homogenous equations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "a trick to recognize homogenous equations"
+              "title": "Ordinary Differential Equations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dffc90cf91270bd3",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
+    "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
-    "homogenous equation.md",
     "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "density estimation.md",

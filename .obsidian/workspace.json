@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integrating factor of an inexact differential equation.md",
-                "mode": "preview",
+                "file": "linear first order differential equation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "integrating factor of an inexact differential equation"
+              "title": "linear first order differential equation"
             }
           },
           {

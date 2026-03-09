@@ -27,3 +27,5 @@ tags:
 + + [[separable equation]]
 	+ [[a homogeneous equation is separable]]
 + [[solving homogeneous equations]]
+## Linear equations and Bernoulli equations
++ [[linear first order differential equation]]

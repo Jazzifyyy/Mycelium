@@ -22,4 +22,7 @@ Integrating,
 $$\ln|v^2 - 1| = \ln|x| + \ln|c| $$
 and thus
 $$|v^2 -1| = |cx|.$$
-Check that no solutions were lost in the separation process. Now, 
+Check that no solutions were lost in the separation process. Now, replacing $v$ by $\frac{y}{x}$, we obtain the solutions in the form
+$$\left| \frac{y^2}{x^2} -1\right|=|cx|$$
+or
+$$|y^2 - x^2| = |cx|x^2.$$

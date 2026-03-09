@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4f119e41d15a4c98",
+            "id": "ad679f402b8c3cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solving homogeneous equations.md",
+                "file": "linear first order differential equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solving homogeneous equations"
-            }
-          },
-          {
-            "id": "570caaeeb8ca23c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a homogeneous equation is separable.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "a homogeneous equation is separable"
+              "title": "linear first order differential equation"
             }
           }
         ],
@@ -271,11 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f119e41d15a4c98",
+  "active": "ad679f402b8c3cf3",
   "lastOpenFiles": [
+    "linear first order differential equation.md",
+    "Ordinary Differential Equations.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
-    "Ordinary Differential Equations.md",
     "homogeneous equation.md",
     "a trick to recognize homogenous equations.md",
     "test for an exact differential equation.md",
@@ -298,7 +275,6 @@
     "probability of getting even number of heads in n coin tosses.md",
     "first-order differential equation.md",
     "separable equation.md",
-    "integrating factor of an inexact differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

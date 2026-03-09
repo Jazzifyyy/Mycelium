@@ -21,8 +21,11 @@ $$\frac{dy}{dx} = \frac{3y^2 - x^2}{2xy}= \frac{3y}{2x} - \frac{x}{2y}  = \frac{
 
 The equation 
 $$(y + \sqrt{ x^2 + y^2 })dx - xdy=0$$
-is homogeneousL 
+is homogeneous.
 
 In derivative form,
 $$\frac{dy}{dx} = \frac{y + \sqrt{ x^2 + y^2 }}{x}= \frac{y}{x} \pm \frac{\sqrt{ x^2 + y^2 }}{\sqrt{ x^2 }} = \frac{y}{x} \pm \sqrt{ 1 + \left( \frac{y}{x} \right)^2 },$$
 depending on the sign of $x$.
+
+# Also See:
++ [[a trick to recognize homogenous equat]]

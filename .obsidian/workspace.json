@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb1a86e9bddc07d8",
+            "id": "26568d8220af89f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Statistical Methods.md",
+                "file": "homogenous equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Advanced Statistical Methods"
-            }
-          },
-          {
-            "id": "582c1e3ff8f345ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "density estimation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "density estimation"
-            }
-          },
-          {
-            "id": "eb12e70d540c7410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "non-parametric regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "non-parametric regression"
+              "title": "homogenous equation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,15 +222,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb12e70d540c7410",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "k-nearest neighbour regression.md",
+    "Ordinary Differential Equations.md",
+    "test for an exact differential equation.md",
+    "density estimation.md",
     "non-parametric regression.md",
+    "k-nearest neighbour regression.md",
     "parameter estimation of a regression model.md",
     "regression model.md",
     "Linear Statistical Models.md",
     "least-squares cross-validation objective function.md",
-    "density estimation.md",
     "Advanced Statistical Methods.md",
     "Test.md",
     "markov chain.md",
@@ -290,7 +243,6 @@
     "a random walk forms a markov chain.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "probability of getting even number of heads in n coin tosses.md",
-    "Ordinary Differential Equations.md",
     "homogenous equation.md",
     "first-order differential equation.md",
     "separable equation.md",
@@ -298,7 +250,6 @@
     "total differential of a function.md",
     "exact differential equation.md",
     "solution of an exact differential equation.md",
-    "test for an exact differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

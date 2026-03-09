@@ -19,5 +19,7 @@ and thus,
 $$v + x \frac{dv}{dx} = g(v)$$
 or 
 $$[v - g(v)]dx + xdv =0.$$
-This equation is separable. Dividing by $[v-g(v)]x$, we obtain
-$$dx + $$
+This equation is separable and we are done.
+
+**Note:** Dividing by $[v-g(v)]x$, we obtain
+$$\frac{dx}{x} + \frac{dv}{v - g(v)}=0.$$

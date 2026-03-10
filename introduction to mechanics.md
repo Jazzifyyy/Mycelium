@@ -31,7 +31,7 @@ where $F$ is the resultartn force acting on the body.
 
 A body weighing $8$ lb falls from rest toward the earth from a great height. As it falls, air resistance acts upon it, and we assume that this resistance (in pounds) is numerically equal to $2v$, where $v$ is the velocity (in feet per second). Find the velocity and distance fallen at time $t$ seconds. 
 
-**Formulation:** positive x axis: downward. Then
+**Formulation:** positive x axis: downward. Origin: The point from which the body fell. Then
 1. $F_{1} = 8$ lb is the body's weight; and
 2. $F_{2} = -2v$ is the air resistance.
 
@@ -51,4 +51,11 @@ i.e.,
 $$8 - 2v = c_{1}e^{ -8t }.$$
 The initial condition gives us $c_{1}=8$. Thus the velocity at time $t$ is given by
 $$v = 4(1-e^{-8t}).$$
-To determine falle
+To determine the distance fallen at time $t$, write the above equation in the form
+$$\frac{dx}{dt} = 4(1- e^{-8t})$$
+with the initial condition $x(0)=0$.
+
+Integrate the above equation:
+$$x = t\left( t + \frac{1}{8}e^{-8t} \right) + c_{2}.$$
+The initial conidition gives us $c_{2} = -\frac{1}{2}$ and hence the distance fallen is given by
+$$x = 4\left( t + \frac{1}{8}e^{-8t} - \frac{1}{8} \right).$$

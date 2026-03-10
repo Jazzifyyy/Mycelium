@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5e15bf09d734feb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear differential equation of higher order.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "linear differential equation of higher order"
+            }
+          },
+          {
             "id": "05076a4465235198",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "introduction to mechanics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,11 +271,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "5e15bf09d734feb5",
   "lastOpenFiles": [
+    "linear differential equation of higher order.md",
+    "Ordinary Differential Equations.md",
     "introduction to mechanics.md",
     "rate problems.md",
-    "Ordinary Differential Equations.md",
     "separable equation.md",
     "solution of a linear first order differential equation.md",
     "bernoulli differential equation.md",
@@ -273,7 +299,6 @@
     "least-squares cross-validation objective function.md",
     "Advanced Statistical Methods.md",
     "Test.md",
-    "markov chain.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

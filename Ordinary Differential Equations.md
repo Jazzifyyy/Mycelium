@@ -35,3 +35,5 @@ tags:
 ## Mechanics and rate problems
 + [[introduction to mechanics]]
 + [[rate problems]]
+## Theory of linear equations of order $n$
++ [[linear differential equation of higher order]]

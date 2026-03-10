@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26568d8220af89f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear differential equation of higher order.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "linear differential equation of higher order"
-            }
-          },
-          {
             "id": "d65722f398998d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,8 +31,7 @@
               "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +224,9 @@
   },
   "active": "d65722f398998d3a",
   "lastOpenFiles": [
-    "linear differential equation of higher order.md",
+    "existence of a solution of linear differential equation of higher order.md",
     "Ordinary Differential Equations.md",
+    "linear differential equation of higher order.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "terminology for differential equations.md",
     "reduction of order of homogeneous linear differential equation.md",
@@ -264,7 +240,6 @@
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
-    "existence of a solution of linear differential equation of higher order.md",
     "introduction to mechanics.md",
     "Advanced Statistical Methods.md",
     "initial-value problem associated with a first-order differential equation.md",

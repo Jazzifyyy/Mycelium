@@ -23,11 +23,17 @@ or
 $$a_{0}(x)f(x)v'' + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]v'+ [a_{0}(x)f''(x)+a_{1}f'(x)+a_{2}(x)f(x)]v =0$$
 Note that since $f$ is a solution, the coefficient of $v$ is zero. Let $w=v'$:
 $$a_{0}(x)f(x) \frac{dw}{dx} + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]w = 0.$$
-This is a first-order homogeneous linear differential equation in the dependent variable $w$ and is separable; thus, assuming $f(x) \neq 0$ and $a_{0}(x) \neq 0$, we have
+This is a first-order homogeneous linear differential equation in the dependent variable $w$ and is separable (note that the tranformation led us to a first-order linear homogeneous equation); thus, assuming $f(x) \neq 0$ and $a_{0}(x) \neq 0$, we have
 $$\frac{dw}{w} = -\left[ 2 \frac{f'(x)}{f(x)} + \frac{a_{1}(x)}{a_{0}(x)} \right]dx.$$
 Integrating, we obtain
 $$\ln|w| = - \ln[f^2(x)] - \int\frac{a_{1}(x)}{a_{0}(x)}dx + \ln|c|$$
 or
 $$w = \frac{c \exp\left( - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right)}{[f(x)]^2}.$$
+Take the solution for which $c=1$, and note that $\frac{dv}{dx}=w$. Integrating again, we have
+$$v = \int \frac{\exp \left[ - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right]}{[f(x)]^2}dx.$$
+
 Substituting this back in $y = f(x)v$, we have
-$$y = $$
+$$y = f(x)\int \frac{\exp \left[ - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right]}{[f(x)]^2}dx.$$
+The rhs, denote it by $g$, is a solution of the second-order original differential equation.
+
+Note that $f$ and 

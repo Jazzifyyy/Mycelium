@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -249,8 +249,8 @@
   },
   "active": "05076a4465235198",
   "lastOpenFiles": [
-    "introduction to mechanics.md",
     "Ordinary Differential Equations.md",
+    "introduction to mechanics.md",
     "separable equation.md",
     "solution of a linear first order differential equation.md",
     "bernoulli differential equation.md",

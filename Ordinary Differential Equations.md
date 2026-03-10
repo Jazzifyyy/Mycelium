@@ -24,7 +24,7 @@ tags:
 + [[integrating factor of an inexact differential equation]]
 ## Separable equations and equations reducible to this form
 + [[homogeneous equation]]
-+ + [[separable equation]]
++  [[separable equation]]
 	+ [[a homogeneous equation is separable]]
 + [[solving homogeneous equations]]
 ## Linear equations and Bernoulli equations

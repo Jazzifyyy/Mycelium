@@ -37,4 +37,18 @@ A body weighing $8$ lb falls from rest toward the earth from a great height. As 
 
 By Newton's second law, we have
 $$m \frac{dv}{dt} = F_{1} + F_{2}.$$
-We have $g = 32$ and $m = \frac{w}{g} = \frac{8}{32} = \frac{1}{4}$.
+We have $g = 32$ and $m = \frac{w}{g} = \frac{8}{32} = \frac{1}{4}$. This yields:
+$$\frac{1}{4} \frac{dv}{dt} = 8 - 2v.$$
+Since the body was initially at rest, we have the initial condition
+$$v(0)=0.$$
+### Solution
+
+The differential equation is separable. Separating the variables, we have
+$$\frac{dv}{8 - 2v} = 4dt.$$
+Integrate:
+$$-\frac{1}{2} \ln|8 - 2v| = 4t + c_{0}$$
+i.e., 
+$$8 - 2v = c_{1}e^{ -8t }.$$
+The initial condition gives us $c_{1}=8$. Thus the velocity at time $t$ is given by
+$$v = 4(1-e^{-8t}).$$
+To determine falle

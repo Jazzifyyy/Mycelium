@@ -16,3 +16,12 @@ Suppose $x_{0}$ is any point in the interval $[a,b]$ and suppose $c_{0},c_{1},\d
 Then there exists a *unique* solution $f$ of the differential equation such that 
 $$f(x_{0})=c_{0}, f'(x_{0})=c_{1},\dots,f^{(n-1)}(x_{0})=c_{n-1}$$
 and this solution is defined over the entire $[a,b]$.
+
+# Example
+Consider the initial-value problem
+$$y'' + 3xy'+ x^3y = e^x$$
+with $y(1)=2$ and $y'(1)=-5$.
+
+Note that $1,3x,x^3$ and $e^x$ are continuous over $-\infty < x < \infty$. Let $x_{0}=1$ which certainly belongs to this interval; and the real number $c_{0}$ and $c_{1}$ are $2$ and $-5$, respectively. 
+
+The theorem asserts that a solution of the given problem exists, is unique and is defined for all $x \in (-\infty, \infty)$.

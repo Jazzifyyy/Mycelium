@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
+                "file": "linear differential equation of higher order.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "linear differential equation of higher order"
             }
           },
           {
@@ -249,6 +249,7 @@
   },
   "active": "d65722f398998d3a",
   "lastOpenFiles": [
+    "linear differential equation of higher order.md",
     "Ordinary Differential Equations.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "terminology for differential equations.md",
@@ -258,7 +259,6 @@
     "linear first order differential equation.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
-    "linear differential equation of higher order.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "first order homogeneous equation.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",

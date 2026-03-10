@@ -18,3 +18,15 @@ m \frac{dv}{dt} &= KF \\
 \end{align}$$
 where $k = \frac{1}{K}$ and $a = \frac{dv}{dt}$. Also, $k$ depends on the units employed for force, mass, and acceleartion. Upon choosing a system of units for which $k=1$, we have
 $$F=ma.$$
+Consider a body in rectilinear motion, then the second law may be expresses in any of the following forms:
+$$\begin{align}
+m \frac{dv}{dt} &= F, \\
+m \frac{d^2x}{dt^2} &= F, \\
+mv \frac{dv}{dx}&=F
+\end{align}$$
+where $F$ is the resultartn force acting on the body.
+
+# Examples
+## Example 1
+
+A body weighing $8$ lb falls from rest toward the earth from a great height. As it falls, air resistance acts upon itt, 

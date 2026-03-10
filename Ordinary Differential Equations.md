@@ -43,4 +43,4 @@ tags:
 		+ [[any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions]]
 		+ [[fundamental set of solutions and general solutions of a linear homogeneous differential equation]]
 + [[wronskian]]
-	+ [[test of linear independence of solution of a ]]
+	+ [[test of linear independence of the solutions of a linear homogeneous differential equation]]

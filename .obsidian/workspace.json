@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "09285de2a66db372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear differential equation of higher order.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "linear differential equation of higher order"
+            }
+          },
+          {
+            "id": "dbaa83a2d99ddcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test of linear independence of the solutions of a linear homogeneous differential equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test of linear independence of the solutions of a linear homogeneous differential equation"
             }
           },
           {
@@ -54,8 +102,19 @@
               "icon": "lucide-file",
               "title": "wronskian"
             }
+          },
+          {
+            "id": "d2c51623c36bfd6d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,15 +305,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "d2c51623c36bfd6d",
   "lastOpenFiles": [
-    "wronskian.md",
     "Ordinary Differential Equations.md",
-    "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
+    "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "linear differential equation of higher order.md",
+    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
+    "wronskian.md",
+    "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
-    "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "first order homogeneous equation.md",
     "existence of a solution of linear differential equation of higher order.md",
     "introduction to mechanics.md",
@@ -273,7 +333,6 @@
     "test for an exact differential equation.md",
     "exact differential.md",
     "integrating factor of an inexact differential equation.md",
-    "a homogeneous equation is separable.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

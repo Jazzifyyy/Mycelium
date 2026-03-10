@@ -55,8 +55,7 @@
               "title": "wronskian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c547cc208ccc2151",
+  "active": "26568d8220af89f9",
   "lastOpenFiles": [
     "wronskian.md",
     "Ordinary Differential Equations.md",

@@ -13,4 +13,4 @@ $$f(x)=c_{1}f_{1}(x)+\dots+ c_{n}f_{n}(x)$$
 where $x \in [a,b]$ and $c_{1},\dots,c_{n}$ are arbitrary constants, is called a **general solution** on $[a,b]$.
 
 # In linear algebra terms:
-The set of all solutions of the stated differential equation form a real vector  
+The set of all solutions of the stated differential equation form a vector space of dimension $n$, of which any subset of $n$ linearly independent solutions is a basis, since [[any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions]]. 

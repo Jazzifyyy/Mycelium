@@ -41,4 +41,4 @@ tags:
 	+ [[a linear combination of solutions of a linear homogeneous equation is also a solution]] 
 	+ [[existence of linearly independent solutions of a linear homogeneous differential equation]]
 		+ [[any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions]]
-		+ [[fundamental set of solutions of a linear homogeneous differential equation]]
+		+ [[fundamental set of solutions and general solutions of a linear homogeneous differential equation]]

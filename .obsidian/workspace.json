@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fundamental set of solutions of a linear homogeneous differential equation.md",
+                "file": "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fundamental set of solutions of a linear homogeneous differential equation"
+              "title": "fundamental set of solutions and general solutions of a linear homogeneous differential equation"
             }
           },
           {
@@ -321,7 +321,7 @@
   },
   "active": "2e070c6fc8c8c435",
   "lastOpenFiles": [
-    "fundamental set of solutions of a linear homogeneous differential equation.md",
+    "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
     "Ordinary Differential Equations.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "linear differential equation of higher order.md",

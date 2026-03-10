@@ -17,4 +17,4 @@ The rhs term $F(x)$ is called the *non-homogeneous term*. If $F$ is identically 
 # Example
 The equation 
 $$y''' + xy'' + 3x^2y' - 5y = \sin x$$
-is a linear ordi
+is a linear ordinary differential equation of the third order.

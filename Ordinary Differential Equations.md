@@ -37,3 +37,4 @@ tags:
 + [[rate problems]]
 ## Theory of linear equations of order $n$
 + [[linear differential equation of higher order]]
+	+ [[existence of a solution of linear differential equation of higher order]]

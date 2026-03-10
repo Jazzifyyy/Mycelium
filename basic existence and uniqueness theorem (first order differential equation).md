@@ -3,6 +3,7 @@ tags:
   - info
   - books
   - differential_equations
+  - college
 ---
 # Statement
 Consider the differential equation

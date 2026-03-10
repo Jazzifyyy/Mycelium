@@ -3,6 +3,7 @@ tags:
   - books
   - differential_equations
   - info
+  - college
 ---
 # Definition
 Consider the first-order differential equation

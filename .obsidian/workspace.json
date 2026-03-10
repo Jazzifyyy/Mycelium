@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
+          },
+          {
+            "id": "05076a4465235198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introduction to mechanics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "introduction to mechanics"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +247,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "05076a4465235198",
   "lastOpenFiles": [
-    "separable equation.md",
+    "introduction to mechanics.md",
     "Ordinary Differential Equations.md",
+    "separable equation.md",
     "solution of a linear first order differential equation.md",
     "bernoulli differential equation.md",
     "transforming a bernoulli equation to a linear equation.md",
@@ -249,7 +275,6 @@
     "Test.md",
     "markov chain.md",
     "galton watson branching process.md",
-    "Stochastic Processes.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

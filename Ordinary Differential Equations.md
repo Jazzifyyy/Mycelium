@@ -33,4 +33,4 @@ tags:
 + [[bernoulli differential equation]]
 	+ [[transforming a bernoulli equation to a linear equation]]
 ## Problems in mechanics
-+ [[introduction to ]]
++ [[introduction to mechanics]]

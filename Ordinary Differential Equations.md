@@ -38,4 +38,5 @@ tags:
 ## Theory of linear equations of order $n$
 + [[linear differential equation of higher order]]
 	+ [[existence of a solution of linear differential equation of higher order]]
-	+ [[a linear combination of solutions of a linear homoegeneous equation is also a solution]] 
+	+ [[a linear combination of solutions of a linear homogeneous equation is also a solution]] 
+	+ [[existence of linearly independent solutions of a linear homogeneous differential equation]]

@@ -5,7 +5,20 @@ tags:
   - college
   - differential_equations
 ---
+# Statement
+Suppose $f$ is a non-trivial (non-zero) solution of 
+$$a_{0}(x)y'' + a_{1}(x)y' + a_{2}(x)y = 0.$$
+then the transformation $y = f(x)v$, where $v$ is a function of $x$, reduces this equation to an $(n-1)$th order homogeneous linear differential equation in the dependent variable $w = \frac{dv}{dx}$:
+$$a_{0}(x)f(x) \frac{dw}{dx} + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]w = 0.$$
 
+**Note:** This helps us to determine the solution of the second-order equation, since the first order equation gives the solution
+$$w = \frac{\exp\left( - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right)}{[f(x)]^2}$$
+and using this, we get 
+$$v(x) = \int \frac{\exp\left( - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right)}{[f(x)]^2}dx$$
+and using this, we get the function $g$ defined by
+$$g(x) = f(x) \int \frac{\exp\left( - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right)}{[f(x)]^2}dx$$
+which is the required solution of the second-order equation.
+# Proof
 
 Suppose $f$ is a known non-trivial solution of the second-order homogeneous linear equation
 $$a_{0}(x)y'' + a_{1}(x)y' + a_{2}(x)y = 0.$$

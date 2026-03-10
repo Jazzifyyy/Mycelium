@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "reduction of order of homogeneous linear differential equation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -298,8 +298,10 @@
   "active": "c0b37af3d230669a",
   "lastOpenFiles": [
     "reduction of order of homogeneous linear differential equation.md",
-    "reduction of order of a second degree homogeneous linear differential equation.md",
     "Ordinary Differential Equations.md",
+    "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
+    "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
+    "reduction of order of a second degree homogeneous linear differential equation.md",
     "linear first order differential equation.md",
     "separable equation.md",
     "linear differential equation of higher order.md",
@@ -308,8 +310,6 @@
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
-    "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
-    "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
     "existence of a solution of linear differential equation of higher order.md",
     "introduction to mechanics.md",
     "Advanced Statistical Methods.md",

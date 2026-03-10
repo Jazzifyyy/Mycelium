@@ -13,4 +13,3 @@ then the transformation $y = f(x)v$ reduces this equation to an $(n-1)$th order 
 # Also See:
 + [[reduction of order of a second degree homogeneous linear differential equation]]
 
-# Let's look at the $n=2$ case!

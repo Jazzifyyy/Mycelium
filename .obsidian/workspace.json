@@ -32,12 +32,36 @@
             }
           },
           {
+            "id": "2e070c6fc8c8c435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fundamental set of solutions of a linear homogeneous differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fundamental set of solutions of a linear homogeneous differential equation"
+            }
+          },
+          {
             "id": "c93bbc31159000f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "any solution of a linear homogenenous differential equation can be expressed as linear combination of its linearly independent solutions.md",
+                "file": "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "any solution of a linear homogenenous differential equation can be expressed as linear combination of its linearly independent solutions"
+              "title": "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions"
             }
           },
           {
@@ -295,10 +319,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c93bbc31159000f0",
+  "active": "2e070c6fc8c8c435",
   "lastOpenFiles": [
-    "any solution of a linear homogenenous differential equation can be expressed as linear combination of its linearly independent solutions.md",
+    "fundamental set of solutions of a linear homogeneous differential equation.md",
     "Ordinary Differential Equations.md",
+    "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "linear differential equation of higher order.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
@@ -322,7 +347,6 @@
     "integrating factor of an inexact differential equation.md",
     "a homogeneous equation is separable.md",
     "solving homogeneous equations.md",
-    "a trick to recognize homogenous equations.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

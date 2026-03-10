@@ -25,8 +25,8 @@ which is another solution of the second-order equation.
 (See: [[any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions]])
 
 The original known solution $f$ and the new solution $g$ are linearly indendent, and hence the general solution of the second-order equation may be expressed as
-$$c_{1}f+c_{2}g.$$
-
+$$c_{1}f+c_{2}g$$
+where $c_{1}$ and $c_{2}$ are appropriately chosen.
 # Proof
 
 Suppose $f$ is a known non-trivial solution of the second-order homogeneous linear equation

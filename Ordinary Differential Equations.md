@@ -45,3 +45,4 @@ tags:
 + [[wronskian]]
 	+ [[test of linear independence of the solutions of a linear homogeneous differential equation]]
 + [[reduction of order of homogeneous linear differential equation]]
+	+ [[reduction of order of a second degree homogeneous linear differential equation]]

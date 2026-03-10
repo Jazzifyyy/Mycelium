@@ -44,3 +44,4 @@ tags:
 		+ [[fundamental set of solutions and general solutions of a linear homogeneous differential equation]]
 + [[wronskian]]
 	+ [[test of linear independence of the solutions of a linear homogeneous differential equation]]
++ [[reduction of order of homogeneous linear differential equation]]

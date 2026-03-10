@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "d65722f398998d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
           }
         ]
@@ -224,8 +248,9 @@
   },
   "active": "26568d8220af89f9",
   "lastOpenFiles": [
-    "terminology for differential equations.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "Ordinary Differential Equations.md",
+    "terminology for differential equations.md",
     "reduction of order of homogeneous linear differential equation.md",
     "reduction of order of a second degree homogeneous linear differential equation.md",
     "separable equation.md",
@@ -249,7 +274,6 @@
     "solution of a linear first order differential equation.md",
     "bernoulli differential equation.md",
     "transforming a bernoulli equation to a linear equation.md",
-    "exact differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

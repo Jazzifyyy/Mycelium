@@ -46,3 +46,4 @@ tags:
 	+ [[test of linear independence of the solutions of a linear homogeneous differential equation]]
 + [[reduction of order of homogeneous linear differential equation]]
 	+ [[reduction of order of a second degree homogeneous linear differential equation]]
++ [[the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation]]

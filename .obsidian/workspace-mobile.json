@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "density estimation"
             }
+          },
+          {
+            "id": "a898c6d8507f809b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +189,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e733f9d24b6abd0d",
+  "active": "a898c6d8507f809b",
   "lastOpenFiles": [
-    "least-squares cross-validation objective function.md",
     "density estimation.md",
+    "transforming a bernoulli equation to a linear equation.md",
+    "solving homogeneous equations.md",
+    "solution of a linear first order differential equation.md",
+    "linear first order differential equation.md",
+    "homogeneous equation.md",
+    "bernoulli differential equation.md",
+    "a trick to recognize homogenous equations.md",
+    "a homogeneous equation is separable.md",
+    "/transforming a bernoulli equation to a linear equation.md",
+    "/solving homogeneous equations.md",
+    "/solution of a linear first order differential equation.md",
+    "/linear first order differential equation.md",
+    "/homogeneous equation.md",
+    "/bernoulli differential equation.md",
+    "/a trick to recognize homogenous equations.md",
+    "/a homogeneous equation is separable.md",
+    "/Ordinary Differential Equations.md",
+    "least-squares cross-validation objective function.md",
     "Advanced Statistical Methods.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "fligner killeen test.md",
@@ -189,16 +217,6 @@
     "example of performing the wilcoxon's rank sum test.md",
     "mann-whitney u statistic.md",
     "wilcoxon's signed rank test.md",
-    "example of performing the wilcoxon's signed rank test.md",
-    "one sample median test - signed test.md",
-    "one sample estimation of the median.md",
-    "total differential of a function.md",
-    "test for an exact differential equation.md",
-    "solution of an exact differential equation.md",
-    "series 2 problem 7 (linear statistical models).md",
-    "series 2 problem 6 (linear statistical models).md",
-    "separable equation.md",
-    "random walk on graphs.md",
     "plots/plot_7a61b537_9_20260228161923.jpg",
     "plots/plot_7a61b537_8_20260228161923.jpg",
     "plots/plot_7a61b537_7_20260228161923.jpg",
@@ -209,13 +227,6 @@
     "plots/plot_7a61b537_3_20260228161233.jpg",
     "plots/plot_7a61b537_2_20260228162502.jpg",
     "plots/plot_7a61b537_2_20260228161923.jpg",
-    "non-parametric regression.md",
-    "markov chain.md",
-    "k-nearest neighbour regression.md",
-    "integrating factor of an inexact differential equation.md",
-    "initial-value problem associated with a first-order differential equation.md",
-    "homogenous equation.md",
-    "homework 1 problem 4 (advanced statistical methods).md",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "/exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "plots",

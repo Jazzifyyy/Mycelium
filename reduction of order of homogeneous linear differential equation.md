@@ -20,4 +20,8 @@ $$y'' = f(x)v'' + 2 f'(x)v' + f''(x)v.$$
 Substituting the above two in the main equation, we obtain
 $$a_{0}(x)[f(x)v'' + 2f'(x)v' + f''(x)v] + a_{1}(x)[f(x)v' + f'(x)v]+ a_{2}(x)f(x)v=0$$
 or
-$$a_{0}(x)f(x)v'' + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]v'+ [a_{0}(x)f''(x)+a_{1}f'(x)+a_{2}(x)f(x)]v $$
+$$a_{0}(x)f(x)v'' + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]v'+ [a_{0}(x)f''(x)+a_{1}f'(x)+a_{2}(x)f(x)]v =0$$
+Note that since $f$ is a solution, the coefficient of $v$ is zero. Let $w=v'$:
+$$a_{0}(x)f(x) \frac{dw}{dx} + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]w = 0.$$
+This is a first-order homogeneous linear differential equation in the dependent variable $w$ and is separable; thus, assuming $f(x) \neq 0$ and $a_{0}(x) \neq 0$, we have
+$$\frac{dw}{w} = $$

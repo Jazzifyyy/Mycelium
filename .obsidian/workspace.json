@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "09285de2a66db372",
+            "id": "2d8fff47905e6aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear differential equation of higher order.md",
+                "file": "linear first order differential equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "linear differential equation of higher order"
+              "title": "linear first order differential equation"
             }
           },
           {
-            "id": "dbaa83a2d99ddcbb",
+            "id": "786a0e45b0a9d375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test of linear independence of the solutions of a linear homogeneous differential equation.md",
+                "file": "separable equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test of linear independence of the solutions of a linear homogeneous differential equation"
+              "title": "separable equation"
             }
           }
         ],
@@ -297,16 +297,18 @@
   },
   "active": "6ee075a030aaf222",
   "lastOpenFiles": [
+    "linear first order differential equation.md",
+    "separable equation.md",
     "reduction of order of homogeneous linear differential equation.md",
-    "Ordinary Differential Equations.md",
-    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
-    "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "linear differential equation of higher order.md",
+    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
+    "first order homogeneous equation.md",
+    "Ordinary Differential Equations.md",
+    "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
-    "first order homogeneous equation.md",
     "existence of a solution of linear differential equation of higher order.md",
     "introduction to mechanics.md",
     "Advanced Statistical Methods.md",
@@ -315,11 +317,9 @@
     "The Name of the Wind.md",
     "The Wise Man's Fear.md",
     "rate problems.md",
-    "separable equation.md",
     "solution of a linear first order differential equation.md",
     "bernoulli differential equation.md",
     "transforming a bernoulli equation to a linear equation.md",
-    "linear first order differential equation.md",
     "exact differential equation.md",
     "test for an exact differential equation.md",
     "exact differential.md",

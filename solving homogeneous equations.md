@@ -8,7 +8,7 @@ tags:
 # Problem
 Solve the equation
 $$(x^2 - 3y^2)dx + 2xy dy = 0.$$
-From [[homogeneous equation#Example 1]], we know that this is a [[homogeneous equation]].  
+From [[first order homogeneous equation#Example 1]], we know that this is a [[first order homogeneous equation]].  
 
 By theorem "[[a homogeneous equation is separable]]" we know that the equation is separable.We let $y=vx$ to get
 $$v + x \frac{dv}{dx} = -\frac{1}{2v} + \frac{3v}{2}$$

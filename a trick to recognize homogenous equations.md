@@ -23,7 +23,7 @@ $$\begin{align}
 &= - \frac{\left( \frac{1}{x} \right)^{-n}M\left( 1, \frac{y}{x} \right)}{\left( \frac{1}{x} \right)^{-n}N\left( 1, \frac{y}{x} \right)} \\
 &= -\frac{M\left( 1, \frac{y}{x} \right)}{N\left( 1, \frac{y}{x} \right)}.
 \end{align}$$
-The rhs is a function of the form $g\left( \frac{y}{x} \right)$, and therefore is a [[homogeneous equation]].
+The rhs is a function of the form $g\left( \frac{y}{x} \right)$, and therefore is a [[first order homogeneous equation]].
 # Example
 ## Example 1
 

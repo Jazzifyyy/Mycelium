@@ -23,7 +23,7 @@ tags:
 	+ [[solution of an exact differential equation]]
 + [[integrating factor of an inexact differential equation]]
 ## Separable equations and equations reducible to this form
-+ [[homogeneous equation]]
++ [[first order homogeneous equation]]
 +  [[separable equation]]
 	+ [[a homogeneous equation is separable]]
 + [[solving homogeneous equations]]
@@ -38,3 +38,4 @@ tags:
 ## Theory of linear equations of order $n$
 + [[linear differential equation of higher order]]
 	+ [[existence of a solution of linear differential equation of higher order]]
+	+ [[a linear combination of solutions of a linear homoegeneous equation is also a solution]] 

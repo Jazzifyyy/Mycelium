@@ -32,3 +32,5 @@ tags:
 + [[solution of a linear first order differential equation]]
 + [[bernoulli differential equation]]
 	+ [[transforming a bernoulli equation to a linear equation]]
+## Problems in mechanics
++ [[introduction to ]]

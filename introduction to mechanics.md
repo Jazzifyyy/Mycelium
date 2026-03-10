@@ -29,4 +29,12 @@ where $F$ is the resultartn force acting on the body.
 # Examples
 ## Example 1
 
-A body weighing $8$ lb falls from rest toward the earth from a great height. As it falls, air resistance acts upon itt, 
+A body weighing $8$ lb falls from rest toward the earth from a great height. As it falls, air resistance acts upon it, and we assume that this resistance (in pounds) is numerically equal to $2v$, where $v$ is the velocity (in feet per second). Find the velocity and distance fallen at time $t$ seconds. 
+
+**Formulation:** positive x axis: downward. Then
+1. $F_{1} = 8$ lb is the body's weight; and
+2. $F_{2} = -2v$ is the air resistance.
+
+By Newton's second law, we have
+$$m \frac{dv}{dt} = F_{1} + F_{2}.$$
+We have $g = 32$ and $m = \frac{w}{g} = \frac{8}{32} = \frac{1}{4}$.

@@ -55,7 +55,8 @@
               "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26568d8220af89f9",
+  "active": "d65722f398998d3a",
   "lastOpenFiles": [
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "Ordinary Differential Equations.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "terminology for differential equations.md",
     "reduction of order of homogeneous linear differential equation.md",
     "reduction of order of a second degree homogeneous linear differential equation.md",

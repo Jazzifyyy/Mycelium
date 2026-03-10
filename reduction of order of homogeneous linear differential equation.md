@@ -36,4 +36,18 @@ Substituting this back in $y = f(x)v$, we have
 $$y = f(x)\int \frac{\exp \left[ - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right]}{[f(x)]^2}dx.$$
 The rhs, denote it by $g$, is a solution of the second-order original differential equation.
 
-Note that $f$ and 
+Note that $f$ and $g$ are linearly independent, since
+$$\begin{align}
+W(f,g)(x) &= \begin{vmatrix}
+f(x) & g(x) \\
+f'(x) & g'(x)
+\end{vmatrix} \\
+&= \begin{vmatrix}
+f(x) & f(x)v \\
+f'(x) & f(x)v'+ f'(x) v
+\end{vmatrix} \\
+&= [f(x)]^2v'  \\
+&= [f(x)]^2 \frac{\exp \left[ - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right]}{[f(x)]^2} \\
+&= \exp \left[ - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right]  \\
+&\neq 0 \\
+\end{align}$$

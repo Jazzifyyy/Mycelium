@@ -24,4 +24,10 @@ $$a_{0}(x)f(x)v'' + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]v'+ [a_{0}(x)f''(x)+a_{1}f'(x)+
 Note that since $f$ is a solution, the coefficient of $v$ is zero. Let $w=v'$:
 $$a_{0}(x)f(x) \frac{dw}{dx} + [2a_{0}(x)f'(x)+a_{1}(x)f(x)]w = 0.$$
 This is a first-order homogeneous linear differential equation in the dependent variable $w$ and is separable; thus, assuming $f(x) \neq 0$ and $a_{0}(x) \neq 0$, we have
-$$\frac{dw}{w} = $$
+$$\frac{dw}{w} = -\left[ 2 \frac{f'(x)}{f(x)} + \frac{a_{1}(x)}{a_{0}(x)} \right]dx.$$
+Integrating, we obtain
+$$\ln|w| = - \ln[f^2(x)] - \int\frac{a_{1}(x)}{a_{0}(x)}dx + \ln|c|$$
+or
+$$w = \frac{c \exp\left( - \int \frac{a_{1}(x)}{a_{0}(x)}dx \right)}{[f(x)]^2}.$$
+Substituting this back in $y = f(x)v$, we have
+$$y = $$

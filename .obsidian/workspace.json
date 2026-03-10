@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
-            }
-          },
-          {
-            "id": "6ee075a030aaf222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "reduction of order of homogeneous linear differential equation.md",
                 "mode": "source",
                 "source": false,
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "reduction of order of homogeneous linear differential equation"
+            }
+          },
+          {
+            "id": "c0b37af3d230669a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reduction of order of a second degree homogeneous linear differential equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "reduction of order of a second degree homogeneous linear differential equation"
             }
           },
           {
@@ -295,15 +295,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ee075a030aaf222",
+  "active": "c0b37af3d230669a",
   "lastOpenFiles": [
+    "reduction of order of homogeneous linear differential equation.md",
+    "reduction of order of a second degree homogeneous linear differential equation.md",
+    "Ordinary Differential Equations.md",
     "linear first order differential equation.md",
     "separable equation.md",
-    "reduction of order of homogeneous linear differential equation.md",
     "linear differential equation of higher order.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "first order homogeneous equation.md",
-    "Ordinary Differential Equations.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
@@ -322,7 +323,6 @@
     "transforming a bernoulli equation to a linear equation.md",
     "exact differential equation.md",
     "test for an exact differential equation.md",
-    "exact differential.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

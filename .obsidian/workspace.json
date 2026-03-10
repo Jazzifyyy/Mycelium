@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
+          },
+          {
+            "id": "cd79549139e4573f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ordinary Differential Equations.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ordinary Differential Equations"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d65722f398998d3a",
+  "active": "cd79549139e4573f",
   "lastOpenFiles": [
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "existence of a solution of linear differential equation of higher order.md",
     "Ordinary Differential Equations.md",
     "linear differential equation of higher order.md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "terminology for differential equations.md",
     "reduction of order of homogeneous linear differential equation.md",
     "reduction of order of a second degree homogeneous linear differential equation.md",

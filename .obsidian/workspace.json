@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variation of parameters method to solve linear differential equations.md",
-                "mode": "source",
+                "file": "Ordinary Differential Equations.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "variation of parameters method to solve linear differential equations"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -282,10 +282,10 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
+    "general solution of homogeneous linear equation with constant coefficients.md",
     "Ordinary Differential Equations.md",
     "variation of parameters method to solve linear differential equations.md",
     "linear differential equation of higher order.md",
-    "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of differential equation.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",

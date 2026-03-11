@@ -22,3 +22,12 @@ and $a$'s, $b$'s, $\alpha$'s and $\beta$'s are constants.
 
 # Method
 Apply $L_{4}$ to the first equation and $L_{2}$ to the second equation to obtain
+$$\begin{align}
+L_{4}L_{1}x+L_{4}L_{2}y &= L_{4}f_{1} \\
+L_{2}L_{3}x + L_{2}L_{4}y &=L_{2}f_{2}.
+\end{align}$$
+Subtract the second equation from the first, after noting that $L_{4}L_{2}y=L_{2}L_{4}y$. We get
+$$L_{4}L_{1}x - L_{2}L_{3}x = L_{4}f_{1} - L_{2}f_{2}$$
+or
+$$(L_{1}L_{4} -L_{2}L_{3})x = L_{4}f_{1}-L_{2}f_{2}.$$
+We assume that the operator $L_{1}L_{4} -L_{2}L_{3}$ is not a constant (??) and assume that $f_{1}$ and $f_{2}$ are such that the rhs exists. Denote the rhs by some

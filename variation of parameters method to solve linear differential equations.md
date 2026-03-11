@@ -23,4 +23,14 @@ Condition: $$v_{1}'(x)y_{1}(x)+v_{2}'(x)y_{2}(x)=0.$$
 Then,
 $$y'_{p}(x) = v_{1}(x)y_{1}'(x) + v_{2}(x)y_{2}'(x).$$
 Differentiating, we have
-$$y''_{p}(x) = v_{1}(x)y_{1}''(x)+v_{2}(x)y''_{2}(x)+v_{1}'(x)y_{1}'(x)+v_{2}'(x)y$$
+$$y''_{p}(x) = v_{1}(x)y_{1}''(x)+v_{2}(x)y''_{2}(x)+v_{1}'(x)y_{1}'(x)+v_{2}'(x)y_{2}'(x).$$
+Substituting them back in the equation and after rearranging, we get
+$$\begin{align}
+v_{1}(x)[a_{0}(x)y_{1}''(x) &+ a_{1}(x)y_{1}'(x)+a_{2}(x)y_{1}(x)] \\
+&+v_{2}(x)[a_{0}(x)y''_{2}(x)+a_{1}(x)y'_{2}(x)+a_{2}(x)y_{2}(x)] \\
+&+ a_{0}(x)[v_{1}'(x)y_{1}'(x)+v_{2}'(x)y_{2}'(x)] = F(x).
+\end{align}$$
+Since $y_{1}$ and $y_{2}$ are solutions of homogeneous differential equation, the expressions in the first two brackets are zero. 
+
+This leaves us with two conditions that $v_{1}$ anf 
+$$v_{1}'(x)y_{1}'(x)+v_{2}'(x)y_{2}'(x) = \frac{F(x)}{a_{0}(x)}.$$

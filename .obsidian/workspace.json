@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "779ae4680da432d2",
+            "id": "682cb2ea63c82ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solving the cauchy-euler equation.md",
+                "file": "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solving the cauchy-euler equation"
+              "title": "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients"
+            }
+          },
+          {
+            "id": "779ae4680da432d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cauchy-euler equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cauchy-euler equation"
             }
           },
           {
@@ -257,10 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "779ae4680da432d2",
+  "active": "682cb2ea63c82ef1",
   "lastOpenFiles": [
-    "solving the cauchy-euler equation.md",
+    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "cauchy-euler equation.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "linear differential equation of higher order.md",
@@ -284,7 +309,6 @@
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
     "first order homogeneous equation.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
-    "wronskian.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

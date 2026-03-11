@@ -22,5 +22,6 @@ where $A_{1},B_{1},A_{2},B_{2}$ are determined by solving the characteristic equ
 
 The general solution of the system may then be written as
 $$\begin{align}
-x &= c_{1}A_{1}
+x &= c_{1}A_{1} e^{\lambda_{1}t} + c_{2}A_{2}e^{\lambda_{2}}t \\
+y &= c_{1}B_{1}e^{\lambda_{1}t} + c_{2}B_{2}e^{\lambda_{2}t}.
 \end{align}$$

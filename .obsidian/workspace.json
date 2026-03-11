@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "solutions of a homogeneous system of linear equations with constant coefficients.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -175,8 +175,7 @@
               "title": "method of undetermined coefficients"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,7 +366,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aefe5c855ca47d78",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "Ordinary Differential Equations.md",

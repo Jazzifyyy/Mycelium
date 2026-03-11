@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "variation of parameters method to solve linear differential equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -89,8 +89,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d73288d4e2bb91d8",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "Ordinary Differential Equations.md",
     "variation of parameters method to solve linear differential equations.md",
+    "Ordinary Differential Equations.md",
     "linear differential equation of higher order.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of differential equation.md",

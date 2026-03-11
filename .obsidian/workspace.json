@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variation of parameters method to solve linear differential equations.md",
+                "file": "variation of parameters method to solve second order linear differential equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "variation of parameters method to solve linear differential equations"
+              "title": "variation of parameters method to solve second order linear differential equations"
             }
           },
           {
@@ -282,7 +282,7 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "variation of parameters method to solve linear differential equations.md",
+    "variation of parameters method to solve second order linear differential equations.md",
     "Ordinary Differential Equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "linear differential equation of higher order.md",

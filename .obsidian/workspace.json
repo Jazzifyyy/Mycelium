@@ -54,8 +54,19 @@
               "icon": "lucide-file",
               "title": "linear differential equation of higher order"
             }
+          },
+          {
+            "id": "4183772c21b25d0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,12 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "4183772c21b25d0c",
   "lastOpenFiles": [
+    "Ordinary Differential Equations.md",
     "linear differential equation of higher order.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of differential equation.md",
-    "Ordinary Differential Equations.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",

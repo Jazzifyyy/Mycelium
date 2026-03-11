@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3a7ce99087b00bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
+            }
+          },
+          {
             "id": "c7fa8b2298661e0d",
             "type": "leaf",
             "state": {
@@ -271,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fa8b2298661e0d",
+  "active": "3a7ce99087b00bec",
   "lastOpenFiles": [
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "Ordinary Differential Equations.md",
     "uc functions and uc sets.md",
     "operator method for solving a linear system of differential equations.md",
@@ -299,7 +324,6 @@
     "separable equation.md",
     "linear first order differential equation.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
-    "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

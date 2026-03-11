@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "d73288d4e2bb91d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "variation of parameters method to solve linear differential equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "variation of parameters method to solve linear differential equations"
             }
           },
           {
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,9 +281,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4183772c21b25d0c",
+  "active": "d73288d4e2bb91d8",
   "lastOpenFiles": [
     "Ordinary Differential Equations.md",
+    "variation of parameters method to solve linear differential equations.md",
     "linear differential equation of higher order.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of differential equation.md",
@@ -284,7 +309,6 @@
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
-    "introduction to mechanics.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

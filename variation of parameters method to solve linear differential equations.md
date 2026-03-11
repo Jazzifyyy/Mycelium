@@ -32,5 +32,12 @@ v_{1}(x)[a_{0}(x)y_{1}''(x) &+ a_{1}(x)y_{1}'(x)+a_{2}(x)y_{1}(x)] \\
 \end{align}$$
 Since $y_{1}$ and $y_{2}$ are solutions of homogeneous differential equation, the expressions in the first two brackets are zero. 
 
-This leaves us with two conditions that $v_{1}$ anf 
-$$v_{1}'(x)y_{1}'(x)+v_{2}'(x)y_{2}'(x) = \frac{F(x)}{a_{0}(x)}.$$
+This leaves us with two conditions that $v_{1}$ and $v_{2}$ should satisfy:
+1. $v_{1}'(x)y_{1}'(x)+v_{2}'(x)y_{2}'(x) = \frac{F(x)}{a_{0}(x)}$,
+2. $v_{1}'(x)y_{1}(x)+v_{2}'(x)y_{2}(x)=0.$
+The independence of $y_{1}$ and $y_{2}$ gurantees that the system of equations has a unique solution.
+
+Solve for $v_{1}'$ and $v_{2}'$ and integrate them to get $v_{1}$ and $v_{2}$.
+
+Therefore, the a particular solution of the non-homogeneous equation is
+$$y_{p}(x) = v_{1}(x)y_{1}(x)+v_{2}(x)y_{2}(x).$$

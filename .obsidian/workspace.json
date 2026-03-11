@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operator method for solving a linear system of differential equations.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "operator method for solving a linear system of differential equations"
+              "title": "Ordinary Differential Equations"
             }
           }
         ],
@@ -297,12 +297,12 @@
   },
   "active": "8c876dfa6096116d",
   "lastOpenFiles": [
-    "operator method for solving a linear system of differential equations.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "Ordinary Differential Equations.md",
+    "operator method for solving a linear system of differential equations.md",
     "differential operator.md",
     "properties of linear differential operator.md",
     "linear system of differential equations (general form).md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "linear system of differential  equations (normal form).md",
     "existence of a solution of linear differential equation of higher order.md",
     "linear differential equation of higher order.md",

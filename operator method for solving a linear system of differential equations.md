@@ -5,3 +5,20 @@ tags:
   - college
   - differential_equations
 ---
+# Setup
+We consider a [[linear system of differential equations (general form)|linear system of differential equations]] of the form
+$$\begin{align}
+L_{1}x+L_{2}y &= f_{1}(t) \\
+L_{3}x + L_{4}y &=f_{2}(t)
+\end{align}$$
+where
+$$\begin{align}
+L_{1} &\equiv a_{0}D^m + a_{1}D^{m-1}+\dots + a_{m-1}D+ a_{m} \\
+L_{2} &\equiv b_{0}D^n+ b_{1}D^{n-1}+\dots + b_{b-1}D+ b_{n} \\
+L_{3} &\equiv \alpha_{0}D^p + \alpha_{1}D^{p-1}+\dots + \alpha_{p-1}D+ \alpha_{p} \\
+L_{4} &\equiv \beta_{0}D^q + \beta_{1}D^{q-1}+\dots + \beta_{q-1}D+ \beta_{q}
+\end{align}$$
+and $a$'s, $b$'s, $\alpha$'s and $\beta$'s are constants.
+
+# Method
+Apply $L_{4}$ to the first equation and $L_{2}$ to the second equation to obtain

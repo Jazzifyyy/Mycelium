@@ -14,7 +14,6 @@ Assume $x>0$ and let $x=e^t$. Then $t = \ln x$ and
 $$\frac{dy}{dx} = \frac{dy}{dt} \frac{dt}{dx} = \frac{1}{x} \frac{dy}{dt}$$
 and
 $$\begin{align}
-\frac{d^2y}{dx^2} &= \frac{d}{dx}\left( \frac{dy}{dx} \right) \\
-&= \frac{d}{dx}\left( \frac{1}{x} \frac{dy}{dt} \right) \\
-
+\frac{d^2y}{dx^2} &= \frac{1}{x} \frac{d}{dx}\left( \frac{dy}{dt} \right) + \frac{dy}{dt} \frac{d}{dx} \left( \frac{1}{x} \right) \\
+&= 
 \end{align}$$

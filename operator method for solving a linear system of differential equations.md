@@ -30,4 +30,9 @@ Subtract the second equation from the first, after noting that $L_{4}L_{2}y=L_{2
 $$L_{4}L_{1}x - L_{2}L_{3}x = L_{4}f_{1} - L_{2}f_{2}$$
 or
 $$(L_{1}L_{4} -L_{2}L_{3})x = L_{4}f_{1}-L_{2}f_{2}.$$
-We assume that the operator $L_{1}L_{4} -L_{2}L_{3}$ is not a constant (??) and assume that $f_{1}$ and $f_{2}$ are such that the rhs exists. Denote the rhs by some
+We assume that the operator $L_{1}L_{4} -L_{2}L_{3}$ is not a constant (??) and assume that $f_{1}$ and $f_{2}$ are such that the rhs exists. Denote the rhs by some function of $t$, say $g$. Then the equation may be written as
+$$L_{5}x = g_{1}.$$
+Note that $y$ is eliminated.
+
+Next apply $L_{3}$ and $L_{1}$ to the first and second equations and carry out a similar procedure to get the equation
+$$L_{5}x =g_{2}.$$

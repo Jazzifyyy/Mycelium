@@ -50,3 +50,4 @@ tags:
 ## Systems of linear differential equations
 + [[linear system of differential  equations (normal form)]]
 + [[differential operator]]
++ [[operator method ]]

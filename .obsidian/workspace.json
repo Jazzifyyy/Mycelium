@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
+            }
+          },
+          {
+            "id": "10804f67d2bcaf0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ordinary Differential Equations.md",
                 "mode": "source",
                 "source": false,
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
-            }
-          },
-          {
-            "id": "10804f67d2bcaf0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "differential operator.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "differential operator"
             }
           }
         ],
@@ -273,11 +273,11 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "linear system of differential  equations (normal form).md",
-    "properties of linear differential operator.md",
     "differential operator.md",
-    "Ordinary Differential Equations.md",
+    "properties of linear differential operator.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+    "Ordinary Differential Equations.md",
+    "linear system of differential  equations (normal form).md",
     "existence of a solution of linear differential equation of higher order.md",
     "linear differential equation of higher order.md",
     "terminology for differential equations.md",

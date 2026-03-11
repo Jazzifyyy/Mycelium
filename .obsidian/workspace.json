@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
+          },
+          {
+            "id": "c2916442379e5802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear system of differential equations (general form).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "linear system of differential equations (general form)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,12 +295,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "c2916442379e5802",
   "lastOpenFiles": [
+    "linear system of differential equations (general form).md",
+    "Ordinary Differential Equations.md",
     "differential operator.md",
     "properties of linear differential operator.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-    "Ordinary Differential Equations.md",
     "linear system of differential  equations (normal form).md",
     "existence of a solution of linear differential equation of higher order.md",
     "linear differential equation of higher order.md",
@@ -298,7 +323,6 @@
     "basic existence and uniqueness theorem (first order differential equation).md",
     "The Name of the Wind.md",
     "The Wise Man's Fear.md",
-    "rate problems.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

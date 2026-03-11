@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general solution of homogeneous linear equation with constant coefficients.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "general solution of homogeneous linear equation with constant coefficients"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -282,14 +282,14 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
+    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "general solution of homogeneous linear equation with constant coefficients.md",
     "uc functions and uc sets.md",
     "method of undetermined coefficients.md",
     "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",
-    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
-    "general solution of homogeneous linear equation with constant coefficients.md",
     "linear differential equation of higher order.md",
     "auxiliary or characteristic equation of differential equation.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",

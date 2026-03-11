@@ -18,7 +18,14 @@ where $n \in \{ 1,2,\dots \}$.
 Also, we write $(D+c)x$ to denote $x'+cx$ and $(aD^n + bD^m)x$ to denote $ax^{(n)} + bx^{(m)}$, where $a,b,c$ are constants.
 
 # Example
+
+## Example 1
+
 In this notation, 
 $$a_{0}x^{(n)} + \dots + a_{n}x$$
 is written as
 $$(a_{0}D^n + a_{1}D^{n-1}+\dots + a_{n-1}D+ a_{n})x.$$
+Also, $a_{0}D^n + a_{1}D^{n-1}+\dots + a_{n-1}D+ a_{n}$ is called a **linear differential operator** with constant coefficients.
+
+# Also See:
++ [[properties of linear differential operator]]

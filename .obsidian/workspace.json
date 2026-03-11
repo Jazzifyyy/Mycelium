@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c7fa8b2298661e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uc functions and uc sets.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uc functions and uc sets"
+            }
+          },
+          {
             "id": "a5396d048561f568",
             "type": "leaf",
             "state": {
@@ -54,9 +78,19 @@
               "icon": "lucide-file",
               "title": "method of undetermined coefficients"
             }
+          },
+          {
+            "id": "d6aaaa2b9ecb3fb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,8 +283,10 @@
   },
   "active": "a5396d048561f568",
   "lastOpenFiles": [
+    "uc functions and uc sets.md",
     "method of undetermined coefficients.md",
     "Ordinary Differential Equations.md",
+    "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
@@ -274,7 +310,6 @@
     "linear first order differential equation.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
-    "first order homogeneous equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",
@@ -284,7 +319,6 @@
     "plots/plot_670671cd_6_20260301105547.jpg",
     "plots/plot_670671cd_5_20260301105547.jpg",
     "plots/plot_670671cd_4_20260301105547.jpg",
-    "plots/plot_670671cd_3_20260301105547.jpg",
     "exports/series_2_problem_6__linear_statistical_models_/series_2_problem_6__linear_statistical_models__quarto.qmd",
     "exports/series_2_problem_6__linear_statistical_models_",
     "exports",

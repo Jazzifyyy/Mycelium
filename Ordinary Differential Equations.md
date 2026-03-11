@@ -51,6 +51,7 @@ tags:
 + [[homogeneous linear equation with constant coefficients]]
 	+ [[auxiliary or characteristic equation of differential equation]]
 	+ [[general solution of homogeneous linear equation with constant coefficients]]
++ [[uc functions and uc sets]]
 + [[method of undetermined coefficients]]
 + [[variation of parameters method to solve second order linear differential equations]]
 + [[cauchy-euler equation]]

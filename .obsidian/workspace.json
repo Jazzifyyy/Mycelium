@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "general solution of homogeneous linear equation with constant coefficients.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "general solution of homogeneous linear equation with constant coefficients"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5396d048561f568",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "uc functions and uc sets.md",
     "Ordinary Differential Equations.md",
+    "uc functions and uc sets.md",
     "method of undetermined coefficients.md",
     "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",

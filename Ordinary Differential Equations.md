@@ -51,4 +51,5 @@ tags:
 + [[linear system of differential equations (general form)]]
 + [[linear system of differential  equations (normal form)]]
 + [[differential operator]]
-+ [[operator method ]]
+	+ [[properties of linear differential operator]]
++ [[operator method for solving a linear system of differential equations]]

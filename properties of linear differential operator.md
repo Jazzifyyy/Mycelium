@@ -31,6 +31,16 @@ Define
 $$L(r)=L_{1}(r)L_{2}(r).$$
 Then if $f$ is a function with $n+m$ derivatives, then 
 $$L_{1}L_{2}f=L_{2}L_{1}f = Lf.$$
+
+## Property 3
+
+Let $L \equiv a_{0}D^n + a_{1}D^{n-1}+\dots + a_{n-1}D+ a_{n}$ and $L(r)=L \equiv a_{0}r^n + a_{1}r^{n-1}+\dots + a_{n-1}r+ a_{n}$ be the corresponding polynomial. 
+
+Suppose $r_{1},\dots,r_{n}$ are the roots of the polynomial equation $L(r)=0$. Then recall that $L(r)$ may be written in the factored form
+$$L(r) = a_{0}(r-r_{1})\dots(r-r_{n}).$$
+Similarly, the operator $L$ may be written as
+$$L = a_{0}(D-r_{1})\dots(D-r_{n}).$$
+
 # Example
 
 Let $L_{1} = D^2 + 1$ and $L_{2} = 3D + 2$ and $f(t)=t^3$. Then

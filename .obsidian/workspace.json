@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "differential operator.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -78,57 +78,9 @@
               "icon": "lucide-file",
               "title": "differential operator"
             }
-          },
-          {
-            "id": "f631a9ba0c3335f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "properties of linear differential operator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "properties of linear differential operator"
-            }
-          },
-          {
-            "id": "c86a875b43f3a806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear system of differential  equations (normal form).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "linear system of differential  equations (normal form)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,12 +271,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f631a9ba0c3335f8",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "differential operator.md",
-    "properties of linear differential operator.md",
-    "Ordinary Differential Equations.md",
     "linear system of differential  equations (normal form).md",
+    "properties of linear differential operator.md",
+    "differential operator.md",
+    "Ordinary Differential Equations.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "existence of a solution of linear differential equation of higher order.md",
     "linear differential equation of higher order.md",

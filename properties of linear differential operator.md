@@ -31,7 +31,7 @@ Define
 $$L(r)=L_{1}(r)L_{2}(r).$$
 Then if $f$ is a function with $n+m$ derivatives, then 
 $$L_{1}L_{2}f=L_{2}L_{1}f = Lf.$$
-### Example of property 2
+# Example
 
 Let $L_{1} = D^2 + 1$ and $L_{2} = 3D + 2$ and $f(t)=t^3$. Then
 $$\begin{align}
@@ -54,5 +54,6 @@ $$
 Also, $L = 3D^3 + 2D^2 + 3D+2$ and
 $$\begin{align}
 Lf &= (3D^3 + 2D^2 +3D +2)t^3 \\
-&= 
+&= 3(6)+2(6t)+3(3t^2)+2t^3 \\
+&= 2t^3 + 9t^2 + 12t + 18.
 \end{align}$$

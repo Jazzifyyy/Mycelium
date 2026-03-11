@@ -25,4 +25,17 @@ Let
 $$L_{1}(r) \equiv a_{0}r^m + a_{1}r^{m-1}+\dots + a_{n-1}r+ a_{m}$$
 and
 $$L_{2}(r) \equiv b_{0}r^n + b_{1}r^{m-1}+\dots + b_{n-1}r+ b_{n}$$
-be the polynomials after replacing $D^k$ by $r^k$ in the 
+be the polynomials obtained after replacing $D^k$ by $r^k$ from the respective operators. 
+
+Define 
+$$L(r)=L_{1}(r)L_{2}(r).$$
+Then if $f$ is a function with $n+m$ derivatives, then 
+$$L_{1}L_{2}f=L_{2}L_{1}f = Lf.$$
+### Example of property 2
+
+Let $L_{1} = D^2 + 1$ and $L_{2} = 3D + 2$ and $f(t)=t^3$. Then
+$$\begin{align}
+L_{1}L_{2}f &= (D^2+1)(3D+2)t^3 \\
+&= (D^2 + 1)(9t^2+2t^3) \\
+&= 
+\end{align}$$

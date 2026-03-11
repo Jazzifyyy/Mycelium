@@ -17,4 +17,4 @@ We shall call a function a **UC function** if it is either a function defined by
 
 ## Definition 2
 
-Consider a UC function $f$. The set of functions consisting of $f$ itself and all linearly independent UC functions of which the successive derivatives of $f$ are either constant multiples or linear combination
+Consider a UC function $f$. The set of functions consisting of $f$ itself and all linearly independent UC functions of which the successive derivatives of $f$ are either constant multiples or linear combinations will be called the UC set of $f$.

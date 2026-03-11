@@ -64,3 +64,4 @@ tags:
 + [[operator method for solving a linear system of differential equations]]
 + [[homogeneous linear systems with constant coefficients - two equation in two unknown functions]]
 	+ [[characteristic equation of a homogeneous linear system of differential equations with constant coefficients]]
+	+ [[solutions of a homogeneous system of linear equations with constant coefficients]]

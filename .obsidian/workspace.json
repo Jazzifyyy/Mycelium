@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "50787ef679b04da1",
+            "id": "aefe5c855ca47d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+                "file": "solutions of a homogeneous system of linear equations with constant coefficients.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
+              "title": "solutions of a homogeneous system of linear equations with constant coefficients"
+            }
+          },
+          {
+            "id": "50787ef679b04da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
               "title": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients"
+            }
+          },
+          {
+            "id": "8a4dd77e441d6dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
             }
           },
           {
@@ -319,13 +367,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50787ef679b04da1",
+  "active": "aefe5c855ca47d78",
   "lastOpenFiles": [
-    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+    "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "method of undetermined coefficients.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "uc functions and uc sets.md",
     "operator method for solving a linear system of differential equations.md",
     "differential operator.md",
@@ -347,7 +396,6 @@
     "existence of a solution of linear differential equation of higher order.md",
     "terminology for differential equations.md",
     "separable equation.md",
-    "linear first order differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

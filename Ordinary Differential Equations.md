@@ -51,6 +51,7 @@ tags:
 + [[homogeneous linear equation with constant coefficients]]
 	+ [[auxiliary or characteristic equation of differential equation]]
 	+ [[general solution of homogeneous linear equation with constant coefficients]]
++ 
 ## Systems of linear differential equations
 + [[linear system of differential equations (general form)]]
 + [[linear system of differential  equations (normal form)]]

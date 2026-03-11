@@ -35,4 +35,4 @@ $$L_{5}x = g_{1}.$$
 Note that $y$ is eliminated.
 
 Next apply $L_{3}$ and $L_{1}$ to the first and second equations and carry out a similar procedure to get the equation
-$$L_{5}x =g_{2}.$$
+$$L_{5}y =g_{2}.$$

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "50787ef679b04da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients"
+            }
+          },
+          {
             "id": "3a7ce99087b00bec",
             "type": "leaf",
             "state": {
@@ -295,13 +319,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a7ce99087b00bec",
+  "active": "50787ef679b04da1",
   "lastOpenFiles": [
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "method of undetermined coefficients.md",
+    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "uc functions and uc sets.md",
     "operator method for solving a linear system of differential equations.md",
-    "method of undetermined coefficients.md",
     "differential operator.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "reduction of order of homogeneous linear differential equation.md",
@@ -311,7 +337,6 @@
     "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",
     "linear differential equation of higher order.md",
-    "auxiliary or characteristic equation of differential equation.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
@@ -323,7 +348,6 @@
     "terminology for differential equations.md",
     "separable equation.md",
     "linear first order differential equation.md",
-    "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

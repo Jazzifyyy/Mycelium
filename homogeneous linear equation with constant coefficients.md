@@ -15,4 +15,4 @@ Such a function is $y=e^{mx}$, where $m$ is chosen such that the equation is tru
 $$y^{(k)} = m^k e^{mx}.$$
 If $y = e^{mx}$ is indeed a solution, then 
 $$e^{mx}(a_{0}m^n +\dots+a_{n})=0.$$
-Since $e^{mx} \neq 0$, the [[auxiliary or characteristic equation of differential equation|auxiliary equation]] holds for $m$.
+Since $e^{mx} \neq 0$, the [[auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients|auxiliary equation]] holds for $m$.

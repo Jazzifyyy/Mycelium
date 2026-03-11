@@ -49,7 +49,7 @@ tags:
 + [[the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation]]
 + [[the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term]]
 + [[homogeneous linear equation with constant coefficients]]
-	+ [[auxiliary or characteristic equation of differential equation]]
+	+ [[auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients]]
 	+ [[general solution of homogeneous linear equation with constant coefficients]]
 + [[uc functions and uc sets]]
 + [[method of undetermined coefficients]]
@@ -63,3 +63,4 @@ tags:
 	+ [[properties of linear differential operator]]
 + [[operator method for solving a linear system of differential equations]]
 + [[homogeneous linear systems with constant coefficients - two equation in two unknown functions]]
+	+ [[characteristic equation of a homogeneous linear system of differential equations with constant coefficients]]

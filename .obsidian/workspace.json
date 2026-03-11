@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
+                "file": "general solution of homogeneous linear equation with constant coefficients.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "general solution of homogeneous linear equation with constant coefficients"
             }
           },
           {
@@ -321,8 +321,8 @@
   },
   "active": "8c876dfa6096116d",
   "lastOpenFiles": [
-    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "Ordinary Differential Equations.md",
+    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "auxiliary or characteristic equation of differential equation.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",

@@ -273,6 +273,7 @@
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
     "Ordinary Differential Equations.md",
+    "operator method for solving a linear system of differential equations.md",
     "uc functions and uc sets.md",
     "method of undetermined coefficients.md",
     "differential operator.md",
@@ -289,7 +290,6 @@
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "homogeneous linear equation with constant coefficients.md",
-    "operator method for solving a linear system of differential equations.md",
     "properties of linear differential operator.md",
     "linear system of differential equations (general form).md",
     "linear system of differential  equations (normal form).md",

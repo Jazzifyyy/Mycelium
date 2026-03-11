@@ -43,3 +43,6 @@ The general solution of the above equation is of the form
 $$y = k_{1}u_{1}+\dots k_{N}u_{N} + U_{2}$$
 where $u_{1},\dots,u_{N}$ are linearly independent solutions of $L_{5}y=0$ and $U_{2}$ is a particular solution of $L_{5}y=g_{2}$.
 
+But $f$ and $g$ given by these equations do not simultaneously satisfy both the equations of the original system for abitrary choices of $c_{1},\dots,c_{N},k_{1},\dots,k_{N}$. We must have some of them to be dependent on the others. 
+
+It can be shown that the number of independent constants of the original system of equations is equal to the order of the operator $L_{1}L_{4} - L_{2}L_{3}$.

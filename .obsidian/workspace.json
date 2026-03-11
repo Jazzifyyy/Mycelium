@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
-          },
-          {
-            "id": "82039824d2ddce81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homogeneous linear equation with constant coefficients.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "homogeneous linear equation with constant coefficients"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -343,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82039824d2ddce81",
+  "active": "8c876dfa6096116d",
   "lastOpenFiles": [
-    "homogeneous linear equation with constant coefficients.md",
+    "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "Ordinary Differential Equations.md",
-    "the linear combination of particular solutions is a particular solution of the linear combination of the non homotgeneous term.md",
+    "auxiliary or characteristic equation of differential equation.md",
+    "homogeneous linear equation with constant coefficients.md",
     "linear differential equation of higher order.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "operator method for solving a linear system of differential equations.md",
@@ -370,7 +347,6 @@
     "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
     "introduction to mechanics.md",
     "Advanced Statistical Methods.md",
-    "initial-value problem associated with a first-order differential equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

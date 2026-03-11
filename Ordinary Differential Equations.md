@@ -47,8 +47,10 @@ tags:
 + [[reduction of order of homogeneous linear differential equation]]
 	+ [[reduction of order of a second degree homogeneous linear differential equation]]
 + [[the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation]]
-+ [[the linear combination of particular solutions is a particular solution of the linear combination of the non homotgeneous term]]
++ [[the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term]]
 + [[homogeneous linear equation with constant coefficients]]
+	+ [[auxiliary or characteristic equation of differential equation]]
+	+ 
 ## Systems of linear differential equations
 + [[linear system of differential equations (general form)]]
 + [[linear system of differential  equations (normal form)]]

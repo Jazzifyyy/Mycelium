@@ -62,3 +62,4 @@ tags:
 + [[differential operator]]
 	+ [[properties of linear differential operator]]
 + [[operator method for solving a linear system of differential equations]]
++ [[homogeneous linear systems with constant coefficients: two equation in two unknown functions]]

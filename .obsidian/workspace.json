@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "file": "operator method for solving a linear system of differential equations.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "operator method for solving a linear system of differential equations"
             }
           },
           {
@@ -77,16 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "method of undetermined coefficients"
-            }
-          },
-          {
-            "id": "d6aaaa2b9ecb3fb2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -282,14 +272,15 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "uc functions and uc sets.md",
     "method of undetermined coefficients.md",
+    "differential operator.md",
+    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "reduction of order of homogeneous linear differential equation.md",
     "reduction of order of a second degree homogeneous linear differential equation.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
-    "uc functions and uc sets.md",
     "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",
     "linear differential equation of higher order.md",
@@ -299,7 +290,6 @@
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "homogeneous linear equation with constant coefficients.md",
     "operator method for solving a linear system of differential equations.md",
-    "differential operator.md",
     "properties of linear differential operator.md",
     "linear system of differential equations (general form).md",
     "linear system of differential  equations (normal form).md",

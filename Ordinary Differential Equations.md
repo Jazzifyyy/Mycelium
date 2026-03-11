@@ -52,6 +52,7 @@ tags:
 	+ [[auxiliary or characteristic equation of differential equation]]
 	+ [[general solution of homogeneous linear equation with constant coefficients]]
 + [[variation of parameters method to solve second order linear differential equations]]
++ [[solving the cauchy-euler equation]]
 ## Systems of linear differential equations
 + [[linear system of differential equations (general form)]]
 + [[linear system of differential  equations (normal form)]]

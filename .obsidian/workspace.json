@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "d73288d4e2bb91d8",
+            "id": "779ae4680da432d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variation of parameters method to solve second order linear differential equations.md",
-                "mode": "preview",
+                "file": "solving the cauchy-euler equation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "variation of parameters method to solve second order linear differential equations"
-            }
-          },
-          {
-            "id": "620c1b8a897ba1b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear differential equation of higher order.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "linear differential equation of higher order"
+              "title": "solving the cauchy-euler equation"
             }
           },
           {
@@ -89,7 +65,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "779ae4680da432d2",
   "lastOpenFiles": [
-    "variation of parameters method to solve second order linear differential equations.md",
+    "solving the cauchy-euler equation.md",
     "Ordinary Differential Equations.md",
+    "variation of parameters method to solve second order linear differential equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "linear differential equation of higher order.md",
     "auxiliary or characteristic equation of differential equation.md",
@@ -307,7 +285,6 @@
     "first order homogeneous equation.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",
-    "a linear combination of solutions of a linear homogeneous equation is also a solution.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

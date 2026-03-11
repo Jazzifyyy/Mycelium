@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ordinary Differential Equations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -321,9 +321,10 @@
   },
   "active": "8c876dfa6096116d",
   "lastOpenFiles": [
+    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
+    "Ordinary Differential Equations.md",
     "auxiliary or characteristic equation of differential equation.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
-    "Ordinary Differential Equations.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "homogeneous linear equation with constant coefficients.md",
@@ -341,7 +342,6 @@
     "linear first order differential equation.md",
     "any solution of a linear homogeneous differential equation can be expressed as linear combination of its linearly independent solutions.md",
     "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
-    "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "first order homogeneous equation.md",
     "existence of linearly independent solutions of a linear homogeneous differential equation.md",
     "wronskian.md",

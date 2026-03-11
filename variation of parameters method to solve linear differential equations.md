@@ -41,3 +41,4 @@ Solve for $v_{1}'$ and $v_{2}'$ and integrate them to get $v_{1}$ and $v_{2}$.
 
 Therefore, the a particular solution of the non-homogeneous equation is
 $$y_{p}(x) = v_{1}(x)y_{1}(x)+v_{2}(x)y_{2}(x).$$
+(Thus, the general solution of the non-homogeneous equation may be expressed as $y = y_{c}+y_{p}$. See: [[the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation]])

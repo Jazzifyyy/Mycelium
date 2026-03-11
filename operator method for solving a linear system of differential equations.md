@@ -32,7 +32,7 @@ or
 $$(L_{1}L_{4} -L_{2}L_{3})x = L_{4}f_{1}-L_{2}f_{2}.$$
 We assume that the operator $L_{1}L_{4} -L_{2}L_{3}$ is not a constant (??) and assume that $f_{1}$ and $f_{2}$ are such that the rhs exists. Denote the rhs by some function of $t$, say $g$. Then the equation may be written as
 $$L_{5}x = g_{1}.$$
-Note that $y$ is eliminated.
+Note that $y$ is eliminated, and the equation is a linear differential equation with constant coefficients. (see: [[Ordinary Differential Equations#Theory of linear equations of order $n$]] to solve this equation.)
 
 Next apply $L_{3}$ and $L_{1}$ to the first and second equations and carry out a similar procedure to get the equation
 $$L_{5}y =g_{2}.$$

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "aefe5c855ca47d78",
+            "id": "0ba2a4e97c3b2461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solutions of a homogeneous system of linear equations with constant coefficients.md",
+                "file": "test for an exact differential equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solutions of a homogeneous system of linear equations with constant coefficients"
+              "title": "test for an exact differential equation"
             }
           },
           {
-            "id": "50787ef679b04da1",
+            "id": "d87341ac253f4a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+                "file": "exact differential.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,40 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "characteristic equation of a homogeneous linear system of differential equations with constant coefficients"
+              "title": "exact differential"
             }
           },
           {
-            "id": "8a4dd77e441d6dcc",
+            "id": "24eee7b31fa13c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
-            }
-          },
-          {
-            "id": "3a7ce99087b00bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+                "file": "total differential of a function.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,58 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
-            }
-          },
-          {
-            "id": "c7fa8b2298661e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uc functions and uc sets.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uc functions and uc sets"
-            }
-          },
-          {
-            "id": "a5396d048561f568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "method of undetermined coefficients.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "method of undetermined coefficients"
+              "title": "total differential of a function"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,15 +295,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "0ba2a4e97c3b2461",
   "lastOpenFiles": [
-    "solutions of a homogeneous system of linear equations with constant coefficients.md",
+    "exact differential equation.md",
     "Ordinary Differential Equations.md",
-    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+    "exact differential.md",
+    "total differential of a function.md",
     "method of undetermined coefficients.md",
-    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "uc functions and uc sets.md",
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+    "solutions of a homogeneous system of linear equations with constant coefficients.md",
+    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "operator method for solving a linear system of differential equations.md",
     "differential operator.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
@@ -392,9 +324,6 @@
     "properties of linear differential operator.md",
     "linear system of differential equations (general form).md",
     "linear system of differential  equations (normal form).md",
-    "existence of a solution of linear differential equation of higher order.md",
-    "terminology for differential equations.md",
-    "separable equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

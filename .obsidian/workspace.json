@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
+          },
+          {
+            "id": "c088b8b843a86f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
+            }
           }
         ],
         "currentTab": 2
@@ -273,10 +297,13 @@
   },
   "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
+    "method of undetermined coefficients.md",
+    "Ordinary Differential Equations.md",
+    "variation of parameters method to solve second order linear differential equations.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "differential operator.md",
     "properties of linear differential operator.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
-    "Ordinary Differential Equations.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "operator method for solving a linear system of differential equations.md",
     "solution of a linear first order differential equation.md",
@@ -292,13 +319,10 @@
     "terminology for differential equations.md",
     "a trick to recognize homogenous equations.md",
     "integrating factor of an inexact differential equation.md",
-    "method of undetermined coefficients.md",
     "uc functions and uc sets.md",
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
-    "reduction of order of homogeneous linear differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

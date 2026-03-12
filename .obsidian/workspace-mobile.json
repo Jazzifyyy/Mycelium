@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reduction of order of a second degree homogeneous linear differential equation.md",
+                "file": "uc functions and uc sets.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reduction of order of a second degree homogeneous linear differential equation"
+              "title": "uc functions and uc sets"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "a898c6d8507f809b",
   "lastOpenFiles": [
-    "reduction of order of homogeneous linear differential equation.md",
     "Ordinary Differential Equations.md",
+    "general solution of homogeneous linear equation with constant coefficients.md",
+    "homogeneous linear equation with constant coefficients.md",
+    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
+    "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
+    "reduction of order of homogeneous linear differential equation.md",
+    "reduction of order of a second degree homogeneous linear differential equation.md",
     "wronskian.md",
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "introduction to mechanics.md",
@@ -192,9 +197,7 @@
     "uc functions and uc sets.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-    "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "reduction of order of a second degree homogeneous linear differential equation.md",
     "rate problems.md",
     "properties of linear differential operator.md",
     "operator method for solving a linear system of differential equations.md",
@@ -203,9 +206,6 @@
     "linear system of differential  equations (normal form).md",
     "linear differential equation of higher order.md",
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
-    "homogeneous linear equation with constant coefficients.md",
-    "general solution of homogeneous linear equation with constant coefficients.md",
-    "fundamental set of solutions and general solutions of a linear homogeneous differential equation.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

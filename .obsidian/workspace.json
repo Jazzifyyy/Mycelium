@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
+                "file": "separable equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "separable equation"
             }
           }
         ],
@@ -321,11 +321,11 @@
   },
   "active": "20ea49911f73e6c1",
   "lastOpenFiles": [
+    "Ordinary Differential Equations.md",
     "separable equation.md",
     "solution of a differential equation.md",
     "exact differential equation.md",
     "exact differential.md",
-    "Ordinary Differential Equations.md",
     "test for an exact differential equation.md",
     "terminology for differential equations.md",
     "a trick to recognize homogenous equations.md",

@@ -55,8 +55,7 @@
               "title": "solution of a linear first order differential equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +246,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83834479f5478688",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
+    "solution of a linear first order differential equation.md",
     "Ordinary Differential Equations.md",
     "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
@@ -274,7 +274,6 @@
     "reduction of order of homogeneous linear differential equation.md",
     "reduction of order of a second degree homogeneous linear differential equation.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
-    "variation of parameters method to solve second order linear differential equations.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

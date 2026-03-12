@@ -127,8 +127,7 @@
               "title": "total differential of a function"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,12 +318,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebf51e848992b7d",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "exact differential equation.md",
-    "solution of an exact differential equation.md",
     "Ordinary Differential Equations.md",
+    "solution of an exact differential equation.md",
     "test for an exact differential equation.md",
+    "exact differential equation.md",
     "exact differential.md",
     "total differential of a function.md",
     "method of undetermined coefficients.md",

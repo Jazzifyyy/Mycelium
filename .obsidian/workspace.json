@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "general solution of homogeneous linear equation with constant coefficients.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "general solution of homogeneous linear equation with constant coefficients"
+            }
+          },
+          {
+            "id": "46d261d2ef213d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
@@ -54,32 +78,9 @@
               "icon": "lucide-file",
               "title": "Ordinary Differential Equations"
             }
-          },
-          {
-            "id": "46d261d2ef213d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "properties of linear differential operator.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "properties of linear differential operator"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,12 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
-    "Ordinary Differential Equations.md",
+    "differential operator.md",
     "properties of linear differential operator.md",
-    "solution of a linear first order differential equation.md",
+    "general solution of homogeneous linear equation with constant coefficients.md",
+    "Ordinary Differential Equations.md",
+    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "operator method for solving a linear system of differential equations.md",
+    "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
     "solution of a differential equation.md",
@@ -293,11 +297,8 @@
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
-    "differential operator.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "reduction of order of homogeneous linear differential equation.md",
-    "reduction of order of a second degree homogeneous linear differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

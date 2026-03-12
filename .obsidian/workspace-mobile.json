@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uc functions and uc sets.md",
+                "file": "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "uc functions and uc sets"
+              "title": "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients"
             }
           }
         ]
@@ -180,7 +180,11 @@
   },
   "active": "a898c6d8507f809b",
   "lastOpenFiles": [
+    "cauchy-euler equation.md",
     "Ordinary Differential Equations.md",
+    "variation of parameters method to solve second order linear differential equations.md",
+    "uc functions and uc sets.md",
+    "method of undetermined coefficients.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
@@ -193,19 +197,15 @@
     "density estimation.md",
     "a homogeneous equation is separable.md",
     "first order homogeneous equation.md",
-    "variation of parameters method to solve second order linear differential equations.md",
-    "uc functions and uc sets.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "rate problems.md",
     "properties of linear differential operator.md",
     "operator method for solving a linear system of differential equations.md",
-    "method of undetermined coefficients.md",
     "linear system of differential equations (general form).md",
     "linear system of differential  equations (normal form).md",
     "linear differential equation of higher order.md",
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

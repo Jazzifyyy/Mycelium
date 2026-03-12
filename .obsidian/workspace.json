@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear first order differential equation.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "linear first order differential equation"
+              "title": "Ordinary Differential Equations"
+            }
+          },
+          {
+            "id": "83834479f5478688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solution of a linear first order differential equation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "solution of a linear first order differential equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,9 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "83834479f5478688",
   "lastOpenFiles": [
     "Ordinary Differential Equations.md",
+    "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
     "solution of a differential equation.md",
     "solution of an exact differential equation.md",
@@ -250,7 +276,6 @@
     "general solution of homogeneous linear equation with constant coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "Pasted image 20260311225824.png",
-    "cauchy-euler equation.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

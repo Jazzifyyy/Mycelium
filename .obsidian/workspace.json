@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operator method for solving a linear system of differential equations.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "operator method for solving a linear system of differential equations"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -297,6 +297,7 @@
   },
   "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
+    "operator method for solving a linear system of differential equations.md",
     "Ordinary Differential Equations.md",
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
@@ -305,7 +306,6 @@
     "properties of linear differential operator.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
-    "operator method for solving a linear system of differential equations.md",
     "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
     "a homogeneous equation is separable.md",

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "separable equation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exact differential equation.md",
+                "file": "solution of a differential equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "exact differential equation"
+              "title": "solution of a differential equation"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "total differential of a function"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,18 +294,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba2a4e97c3b2461",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "test for an exact differential equation.md",
-    "separable equation.md",
-    "Ordinary Differential Equations.md",
-    "terminology for differential equations.md",
     "solution of a differential equation.md",
+    "Ordinary Differential Equations.md",
+    "test for an exact differential equation.md",
+    "exact differential equation.md",
+    "separable equation.md",
+    "exact differential.md",
+    "terminology for differential equations.md",
     "a trick to recognize homogenous equations.md",
     "integrating factor of an inexact differential equation.md",
     "solution of an exact differential equation.md",
-    "exact differential equation.md",
-    "exact differential.md",
     "total differential of a function.md",
     "method of undetermined coefficients.md",
     "uc functions and uc sets.md",

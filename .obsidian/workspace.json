@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
+                "file": "operator method for solving a linear system of differential equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "operator method for solving a linear system of differential equations"
             }
           },
           {
@@ -297,8 +297,8 @@
   },
   "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
-    "method of undetermined coefficients.md",
     "Ordinary Differential Equations.md",
+    "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "differential operator.md",

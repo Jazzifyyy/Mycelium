@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "operator method for solving a linear system of differential equations.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "operator method for solving a linear system of differential equations"
+            }
+          },
+          {
+            "id": "83834479f5478688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
@@ -32,12 +56,12 @@
             }
           },
           {
-            "id": "83834479f5478688",
+            "id": "46d261d2ef213d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solution of a linear first order differential equation.md",
+                "file": "properties of linear differential operator.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solution of a linear first order differential equation"
+              "title": "properties of linear differential operator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,10 +271,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
-    "solution of a linear first order differential equation.md",
     "Ordinary Differential Equations.md",
+    "solution of a linear first order differential equation.md",
+    "operator method for solving a linear system of differential equations.md",
     "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
     "solution of a differential equation.md",
@@ -268,7 +294,6 @@
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
-    "operator method for solving a linear system of differential equations.md",
     "differential operator.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "reduction of order of homogeneous linear differential equation.md",

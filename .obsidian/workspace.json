@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solution of an exact differential equation.md",
+                "file": "a homogeneous equation is separable.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solution of an exact differential equation"
+              "title": "a homogeneous equation is separable"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exact differential equation.md",
+                "file": "solution of an exact differential equation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "exact differential equation"
+              "title": "solution of an exact differential equation"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "separable equation"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -318,18 +319,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "20ea49911f73e6c1",
   "lastOpenFiles": [
+    "solution of an exact differential equation.md",
+    "exact differential equation.md",
+    "a homogeneous equation is separable.md",
     "Ordinary Differential Equations.md",
     "separable equation.md",
     "solution of a differential equation.md",
-    "exact differential equation.md",
     "exact differential.md",
     "test for an exact differential equation.md",
     "terminology for differential equations.md",
     "a trick to recognize homogenous equations.md",
     "integrating factor of an inexact differential equation.md",
-    "solution of an exact differential equation.md",
     "total differential of a function.md",
     "method of undetermined coefficients.md",
     "uc functions and uc sets.md",
@@ -346,7 +348,6 @@
     "variation of parameters method to solve second order linear differential equations.md",
     "Pasted image 20260311225824.png",
     "cauchy-euler equation.md",
-    "linear differential equation of higher order.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

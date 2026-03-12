@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integrating factor of an inexact differential equation.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "integrating factor of an inexact differential equation"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -320,6 +320,7 @@
   },
   "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
+    "integrating factor of an inexact differential equation.md",
     "Ordinary Differential Equations.md",
     "solution of an exact differential equation.md",
     "test for an exact differential equation.md",
@@ -346,7 +347,6 @@
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "the linear combination of particular solutions is a particular solution of the linear combination of the non homogeneous term.md",
     "homogeneous linear equation with constant coefficients.md",
-    "properties of linear differential operator.md",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
     "plots/plot_670671cd_10_20260301105547.jpg",

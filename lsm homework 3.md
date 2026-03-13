@@ -24,3 +24,6 @@ $$
 ## Part c
 
 The MLE and LSE of $\theta$ are the same.
+
+The estimators of $\sigma^2$ have different expression in their denominators:
+$$\sigma^2_{\text{MLE}} = \frac{||\hat{\mathbf{e}}||^2}{n} \text{ v.s. } \sigma^2_{}$$

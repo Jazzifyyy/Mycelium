@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "lsm homework 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",

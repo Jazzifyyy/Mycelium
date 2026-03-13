@@ -102,8 +102,19 @@
               "icon": "lucide-file",
               "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
+          },
+          {
+            "id": "924bf278430e7207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,15 +305,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10804f67d2bcaf0a",
+  "active": "924bf278430e7207",
   "lastOpenFiles": [
+    "Ordinary Differential Equations.md",
     "operator method for solving a linear system of differential equations.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-    "Ordinary Differential Equations.md",
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "differential operator.md",

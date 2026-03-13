@@ -49,4 +49,12 @@ $$\begin{align}
 ## Part d
 
 We have
-$$\frac{||\mathbf{e}||^2}{\sigma^2}= \frac{n\hat{\sigma}^2_{\text{MLE}}}{\sigma^2} \sim \chi^2_{n-d}$$
+$$\frac{||\mathbf{e}||^2}{\sigma^2}= \frac{n\hat{\sigma}^2_{\text{MLE}}}{\sigma^2} \sim \chi^2_{n-d}.$$
+Then
+$$\mathbb{E}\left[\frac{n\hat{\sigma}^2_{\text{MLE}}}{\sigma^2} \right] = n -d.$$
+From this, we have
+$$\mathbb{E}[\hat{\sigma}^2_{\text{MLE}}] = \sigma^2 \left(\frac{n-d}{n} \right).$$
+We have
+$$\text{Var}\left(\frac{n\hat{\sigma}^2_{\text{MLE}}}{\sigma^2} \right) = 2(n-d).$$
+From this, we have
+$$\text{Var}(\hat{\sigma}^2_{\text{MLE}}) = \frac{2(n-d)\sigma^4}{n^2}.$$

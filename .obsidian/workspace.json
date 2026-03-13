@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
-                "mode": "preview",
+                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
             }
           },
           {
@@ -297,8 +297,11 @@
   },
   "active": "46d261d2ef213d7e",
   "lastOpenFiles": [
-    "operator method for solving a linear system of differential equations.md",
+    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+    "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "Ordinary Differential Equations.md",
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+    "operator method for solving a linear system of differential equations.md",
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
@@ -320,9 +323,6 @@
     "a trick to recognize homogenous equations.md",
     "integrating factor of an inexact differential equation.md",
     "uc functions and uc sets.md",
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
-    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
-    "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

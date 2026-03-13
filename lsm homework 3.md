@@ -46,3 +46,7 @@ $$\begin{align}
 & =\sigma^2(X^TX)^{-1}(X^TX)[(X^TX)^T]^{-1} \\
 &= \sigma^2(X^TX)^{-1}.
 \end{align}$$
+## Part d
+
+We have
+$$\frac{||\mathbf{e}||^2}{\sigma^2}= \frac{n\hat{\sigma}^2_{\text{MLE}}}{\sigma^2} \sim \chi^2_{n-d}$$

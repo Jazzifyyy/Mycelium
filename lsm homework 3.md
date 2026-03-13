@@ -36,5 +36,13 @@ $$\begin{align}
 &= \mathbb{E}[(X^TX)^{-1}X(X\theta+\epsilon)] \\
 &= \mathbb{E}[\theta + (X^TX)^{-1}X\epsilon] \\
 &= \theta + (X^TX)^{-1}X\mathbb{E}[\epsilon]\\
-&= 
+&= \theta.
+\end{align}$$
+and
+$$\begin{align}
+\text{Var}(\hat{\theta}_{\text{MLE}}) &= \text{Var}[\theta + (X^TX)^{-1}X\epsilon] \\
+&= [(X^TX)^{-1}X]\text{Var}(\epsilon)[(X^TX)^{-1}X]^T \\
+&= (X^TX)^{-1}X^T\sigma^2I[(X^TX)^{-1}X^T]^T\\
+& =\sigma^2(X^TX)^{-1}(X^TX)[(X^TX)^T]^{-1} \\
+&= \sigma^2(X^TX)^{-1}.
 \end{align}$$

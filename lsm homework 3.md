@@ -15,9 +15,12 @@ $$
 $$
 We must also have
 $$
-\frac{\partial l}{\partial \sigma^2} = -\frac{n}{2\sigma^2} + \frac{1}{2(\sigma^2)^2}||\mathbf{y}-X\theta||^2 = 0.
+\frac{\partial l}{\partial \sigma^2} = -\frac{n}{2\sigma^2} + \frac{1}{2(\sigma^2)^2}||\mathbf{y}-X\hat{\theta}_{\text{MLE}}||^2 = 0.
 $$
 Thus, 
 $$
-\theta^2_{\text{MLE}} = \frac{||\mathbf{y} - X\theta||^2}{n}.
+\sigma^2_{\text{MLE}} = \frac{||\mathbf{y} - X\hat{\theta}_{\text{MLE}}||^2}{n}.
 $$
+## Part c
+
+The MLE and LSE of $\theta$ are the same.

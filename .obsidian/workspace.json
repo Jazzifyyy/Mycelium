@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operator method for solving a linear system of differential equations.md",
+                "file": "Ordinary Differential Equations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "operator method for solving a linear system of differential equations"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
-                "mode": "source",
+                "file": "solutions of a homogeneous system of linear equations with constant coefficients.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homogeneous linear systems with constant coefficients - two equation in two unknown functions"
+              "title": "solutions of a homogeneous system of linear equations with constant coefficients"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,19 +294,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46d261d2ef213d7e",
+  "active": "10804f67d2bcaf0a",
   "lastOpenFiles": [
-    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
-    "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "Ordinary Differential Equations.md",
-    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "operator method for solving a linear system of differential equations.md",
+    "solutions of a homogeneous system of linear equations with constant coefficients.md",
+    "general solution of homogeneous linear equation with constant coefficients.md",
+    "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
+    "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+    "Ordinary Differential Equations.md",
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "differential operator.md",
     "properties of linear differential operator.md",
-    "general solution of homogeneous linear equation with constant coefficients.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",

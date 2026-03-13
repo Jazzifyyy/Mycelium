@@ -107,10 +107,24 @@
             "id": "924bf278430e7207",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lsm homework 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lsm homework 3"
             }
           }
         ],
@@ -307,6 +321,7 @@
   },
   "active": "924bf278430e7207",
   "lastOpenFiles": [
+    "lsm homework 3.md",
     "Ordinary Differential Equations.md",
     "operator method for solving a linear system of differential equations.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
@@ -332,7 +347,6 @@
     "terminology for differential equations.md",
     "a trick to recognize homogenous equations.md",
     "integrating factor of an inexact differential equation.md",
-    "uc functions and uc sets.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

@@ -26,4 +26,15 @@ $$
 The MLE and LSE of $\theta$ are the same.
 
 The estimators of $\sigma^2$ have different expression in their denominators:
-$$\sigma^2_{\text{MLE}} = \frac{||\hat{\mathbf{e}}||^2}{n} \text{ v.s. } \sigma^2_{}$$
+$$\sigma^2_{\text{MLE}} = \frac{||\hat{\mathbf{e}}||^2}{n} \text{ v.s. } S^2 = \frac{||\mathbf{e}||^2}{n-d}.
+$$
+## Part d
+
+We have
+$$\begin{align}
+\mathbb{E}[\hat{\theta}_{\text{MLE}}] &= \mathbb{E}[(X^TX)^{-1}X\mathbf{y}] \\
+&= \mathbb{E}[(X^TX)^{-1}X(X\theta+\epsilon)] \\
+&= \mathbb{E}[\theta + (X^TX)^{-1}X\epsilon] \\
+&= \theta + (X^TX)^{-1}X\mathbb{E}[\epsilon]\\
+&= 
+\end{align}$$

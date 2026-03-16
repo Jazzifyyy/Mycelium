@@ -11,10 +11,24 @@
             "id": "c7d84a5c1e83ac20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "markov chain.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "markov chain"
             }
           }
         ]
@@ -45,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Diff",
+            "query": "Mar",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,

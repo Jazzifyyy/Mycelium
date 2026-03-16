@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "lsm homework 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -126,9 +126,19 @@
               "icon": "lucide-file",
               "title": "lsm homework 3"
             }
+          },
+          {
+            "id": "ed6f2d854482a34c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -319,7 +328,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "924bf278430e7207",
+  "active": "ed6f2d854482a34c",
   "lastOpenFiles": [
     "lsm homework 3.md",
     "Ordinary Differential Equations.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markov chain.md",
+                "file": "probability generating function.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "markov chain"
+              "title": "probability generating function"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,12 +295,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d96201ab8490030a",
+  "active": "df554923a5ae40fe",
   "lastOpenFiles": [
+    "Stochastic Processes.md",
+    "markov chain.md",
     "a random walk forms a markov chain.md",
     "random walk.md",
-    "markov chain.md",
-    "Stochastic Processes.md",
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",

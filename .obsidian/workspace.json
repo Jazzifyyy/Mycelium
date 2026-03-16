@@ -80,6 +80,78 @@
             }
           },
           {
+            "id": "c4dd46ee3b6e2bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point"
+            }
+          },
+          {
+            "id": "327e4836bb67db83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the generating function of the sum of two random variables is the product of their generating functions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the generating function of the sum of two random variables is the product of their generating functions"
+            }
+          },
+          {
+            "id": "155e07ae6be944c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root of unity filter.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "root of unity filter"
+            }
+          },
+          {
             "id": "d96201ab8490030a",
             "type": "leaf",
             "state": {
@@ -104,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,8 +367,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df554923a5ae40fe",
+  "active": "c4dd46ee3b6e2bae",
   "lastOpenFiles": [
+    "probability generating function.md",
+    "the generating function of the sum of two random variables is the product of their generating functions.md",
+    "root of unity filter.md",
     "Stochastic Processes.md",
     "markov chain.md",
     "a random walk forms a markov chain.md",
@@ -320,9 +395,6 @@
     "a homogeneous equation is separable.md",
     "solution of a differential equation.md",
     "solution of an exact differential equation.md",
-    "total differential of a function.md",
-    "separable equation.md",
-    "exact differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

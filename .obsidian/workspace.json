@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10804f67d2bcaf0a",
+            "id": "d7e3136dfe93e12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinary Differential Equations.md",
+                "file": "random walk.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,117 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
-            }
-          },
-          {
-            "id": "83834479f5478688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general solution of homogeneous linear equation with constant coefficients.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "general solution of homogeneous linear equation with constant coefficients"
-            }
-          },
-          {
-            "id": "46d261d2ef213d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "solutions of a homogeneous system of linear equations with constant coefficients.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "solutions of a homogeneous system of linear equations with constant coefficients"
-            }
-          },
-          {
-            "id": "c088b8b843a86f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation"
-            }
-          },
-          {
-            "id": "924bf278430e7207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lsm homework 3.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "lsm homework 3"
-            }
-          },
-          {
-            "id": "ed6f2d854482a34c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "random walk"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -328,16 +222,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed6f2d854482a34c",
+  "active": "d7e3136dfe93e12f",
   "lastOpenFiles": [
-    "lsm homework 3.md",
+    "Stochastic Processes.md",
+    "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
-    "operator method for solving a linear system of differential equations.md",
-    "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
+    "solutions of a homogeneous system of linear equations with constant coefficients.md",
+    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
+    "lsm homework 3.md",
+    "operator method for solving a linear system of differential equations.md",
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "differential operator.md",
@@ -354,8 +250,6 @@
     "exact differential.md",
     "test for an exact differential equation.md",
     "terminology for differential equations.md",
-    "a trick to recognize homogenous equations.md",
-    "integrating factor of an inexact differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

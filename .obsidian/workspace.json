@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes.md",
+                "file": "galton watson branching process.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stochastic Processes"
+              "title": "galton watson branching process"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,9 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6201d7f1b799c87c",
+  "active": "df554923a5ae40fe",
   "lastOpenFiles": [
     "Stochastic Processes.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
     "markov chain.md",
     "root of unity filter.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",
@@ -322,7 +323,6 @@
     "solution of a linear first order differential equation.md",
     "linear first order differential equation.md",
     "a homogeneous equation is separable.md",
-    "solution of a differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

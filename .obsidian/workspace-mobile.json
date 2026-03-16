@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markov chain.md",
+                "file": "random sum properties.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "markov chain"
+              "title": "random sum properties"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "markov chain.md",
+            "file": "random sum properties.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,8 +180,13 @@
   },
   "active": "c7d84a5c1e83ac20",
   "lastOpenFiles": [
-    "a random walk forms a markov chain.md",
+    "Stochastic Processes.md",
+    "convolution of two sequences.md",
+    "generating function of a convolution sequence.md",
+    "radius of convergence of a convolution sequence.md",
+    "power series.md",
     "markov chain.md",
+    "a random walk forms a markov chain.md",
     "lsm homework 3.md",
     "/lsm homework 3.md",
     "operator method for solving a linear system of differential equations.md",
@@ -201,11 +206,6 @@
     "test of linear independence of the solutions of a linear homogeneous differential equation.md",
     "introduction to mechanics.md",
     "density estimation.md",
-    "a homogeneous equation is separable.md",
-    "first order homogeneous equation.md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-    "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "rate problems.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

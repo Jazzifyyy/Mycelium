@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,11 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df554923a5ae40fe",
+  "active": "d96201ab8490030a",
   "lastOpenFiles": [
     "a random walk forms a markov chain.md",
-    "markov chain.md",
     "random walk.md",
+    "markov chain.md",
     "Stochastic Processes.md",
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",

@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "df5850db323111ff",
+            "id": "6201d7f1b799c87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "probability of getting even number of heads in n coin tosses.md",
+                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,103 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "probability of getting even number of heads in n coin tosses"
-            }
-          },
-          {
-            "id": "c4dd46ee3b6e2bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point"
-            }
-          },
-          {
-            "id": "327e4836bb67db83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the generating function of the sum of two random variables is the product of their generating functions.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "the generating function of the sum of two random variables is the product of their generating functions"
-            }
-          },
-          {
-            "id": "155e07ae6be944c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root of unity filter.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "root of unity filter"
-            }
-          },
-          {
-            "id": "d96201ab8490030a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markov chain.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "markov chain"
+              "title": "probability of getting two consecutive heads in repeated coin tosses"
             }
           }
         ],
@@ -391,17 +295,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df5850db323111ff",
+  "active": "6201d7f1b799c87c",
   "lastOpenFiles": [
     "Stochastic Processes.md",
-    "probability generating function.md",
-    "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
-    "the generating function of the sum of two random variables is the product of their generating functions.md",
-    "root of unity filter.md",
     "markov chain.md",
+    "root of unity filter.md",
+    "the generating function of the sum of two random variables is the product of their generating functions.md",
+    "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
+    "probability of getting even number of heads in n coin tosses.md",
+    "probability generating function.md",
     "a random walk forms a markov chain.md",
     "random walk.md",
-    "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",

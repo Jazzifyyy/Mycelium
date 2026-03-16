@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "random walk"
             }
+          },
+          {
+            "id": "e85f75699103553a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markov chain.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "markov chain"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7e3136dfe93e12f",
+  "active": "e85f75699103553a",
   "lastOpenFiles": [
+    "random walk.md",
     "Stochastic Processes.md",
     "probability of getting even number of heads in n coin tosses.md",
     "Ordinary Differential Equations.md",
@@ -249,7 +275,6 @@
     "exact differential equation.md",
     "exact differential.md",
     "test for an exact differential equation.md",
-    "terminology for differential equations.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

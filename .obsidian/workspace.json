@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a random walk forms a markov chain.md",
+                "file": "random walk.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "a random walk forms a markov chain"
+              "title": "random walk"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "probability of getting two consecutive heads in repeated coin tosses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -318,8 +319,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7e3136dfe93e12f",
+  "active": "e85f75699103553a",
   "lastOpenFiles": [
+    "a random walk forms a markov chain.md",
+    "gambler's ruin.md",
     "random walk.md",
     "exercise set 2 problem 5 stochastic processes.md",
     "Stochastic Processes.md",
@@ -328,7 +331,6 @@
     "exercise set 1 problem 5 stochastic processes.md",
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
-    "a random walk forms a markov chain.md",
     "galton watson branching process.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "markov chain.md",
@@ -345,7 +347,6 @@
     "operator method for solving a linear system of differential equations.md",
     "homogeneous linear systems with constant coefficients - two equation in two unknown functions.md",
     "characteristic equation of a homogeneous linear system of differential equations with constant coefficients.md",
-    "method of undetermined coefficients.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

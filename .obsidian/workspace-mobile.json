@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fligner killeen test.md",
+                "file": "kruskal wallis test for the equality of medians of multiple groups.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fligner killeen test"
+              "title": "kruskal wallis test for the equality of medians of multiple groups"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "fligner killeen test.md",
+            "file": "kruskal wallis test for the equality of medians of multiple groups.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +181,7 @@
   "active": "2db22e9783ed149f",
   "lastOpenFiles": [
     "Advanced Statistical Methods.md",
+    "fligner killeen test.md",
     "wilcoxon's rank sum test.md",
     "example of performing the wilcoxon's rank sum test.md",
     "mann-whitney u statistic.md",
@@ -205,7 +206,6 @@
     "/lsm homework 3.md",
     "operator method for solving a linear system of differential equations.md",
     "Ordinary Differential Equations.md",
-    "reduction of order of homogeneous linear differential equation.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

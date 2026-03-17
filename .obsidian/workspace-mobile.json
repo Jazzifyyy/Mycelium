@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one sample median test - signed test.md",
+                "file": "wilcoxon's signed rank test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one sample median test - signed test"
+              "title": "wilcoxon's signed rank test"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "2db22e9783ed149f",
   "lastOpenFiles": [
+    "one sample median test - signed test.md",
     "Advanced Statistical Methods.md",
     "probability generating function.md",
     "Stochastic Processes.md",
@@ -205,7 +206,6 @@
     "method of undetermined coefficients.md",
     "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
     "uc functions and uc sets.md",
-    "general solution of homogeneous linear equation with constant coefficients.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

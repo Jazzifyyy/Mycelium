@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one sample estimation of the median.md",
+                "file": "wilcoxon's rank sum test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one sample estimation of the median"
+              "title": "wilcoxon's rank sum test"
             }
           }
         ]
@@ -180,10 +180,11 @@
   },
   "active": "2db22e9783ed149f",
   "lastOpenFiles": [
+    "Advanced Statistical Methods.md",
     "one sample median test - signed test.md",
+    "one sample estimation of the median.md",
     "wilcoxon's signed rank test.md",
     "example of performing the wilcoxon's signed rank test.md",
-    "Advanced Statistical Methods.md",
     "probability generating function.md",
     "Stochastic Processes.md",
     "random sum properties.md",
@@ -205,7 +206,6 @@
     "reduction of order of a second degree homogeneous linear differential equation.md",
     "cauchy-euler equation.md",
     "variation of parameters method to solve second order linear differential equations.md",
-    "method of undetermined coefficients.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

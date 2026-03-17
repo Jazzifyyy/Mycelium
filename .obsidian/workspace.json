@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercise set 1 problem 3 stochastic processes.md",
+                "file": "exercise set 1 problem 6 stochastic processes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "exercise set 1 problem 3 stochastic processes"
+              "title": "exercise set 1 problem 6 stochastic processes"
             }
           },
           {
@@ -322,6 +322,8 @@
   "active": "df554923a5ae40fe",
   "lastOpenFiles": [
     "Stochastic Processes.md",
+    "exercise set 1 problem 5 stochastic processes.md",
+    "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "a random walk forms a markov chain.md",
     "galton watson branching process.md",
@@ -345,8 +347,6 @@
     "method of undetermined coefficients.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "differential operator.md",
-    "properties of linear differential operator.md",
-    "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

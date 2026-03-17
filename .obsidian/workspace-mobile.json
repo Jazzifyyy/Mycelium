@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wilcoxon's signed rank test.md",
+                "file": "one sample estimation of the median.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wilcoxon's signed rank test"
+              "title": "one sample estimation of the median"
             }
           }
         ]
@@ -181,6 +181,8 @@
   "active": "2db22e9783ed149f",
   "lastOpenFiles": [
     "one sample median test - signed test.md",
+    "wilcoxon's signed rank test.md",
+    "example of performing the wilcoxon's signed rank test.md",
     "Advanced Statistical Methods.md",
     "probability generating function.md",
     "Stochastic Processes.md",
@@ -204,8 +206,6 @@
     "cauchy-euler equation.md",
     "variation of parameters method to solve second order linear differential equations.md",
     "method of undetermined coefficients.md",
-    "transformation of a cauchy-euler equation to a linear differential equation with constant coefficients.md",
-    "uc functions and uc sets.md",
     "Pasted image 20260311225824.png",
     "/Pasted image 20260311225824.png",
     "plots/plot_7a61b537_9_20260228161923.jpg",

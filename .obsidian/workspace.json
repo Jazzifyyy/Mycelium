@@ -127,8 +127,7 @@
               "title": "probability of getting two consecutive heads in repeated coin tosses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,8 +318,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df554923a5ae40fe",
+  "active": "d7e3136dfe93e12f",
   "lastOpenFiles": [
+    "exercise set 2 problem 5 stochastic processes.md",
     "Stochastic Processes.md",
     "exercise set 2 problem 4 stochastic processes.md",
     "exercise set 1 problem 6 stochastic processes.md",
@@ -329,7 +329,6 @@
     "exercise set 1 problem 2 stochastic processes.md",
     "a random walk forms a markov chain.md",
     "galton watson branching process.md",
-    "exercise set 2 problem 5 stochastic processes.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "markov chain.md",
     "root of unity filter.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "galton watson branching process.md",
+                "file": "exercise set 1 problem 3 stochastic processes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "galton watson branching process"
+              "title": "exercise set 1 problem 3 stochastic processes"
             }
           },
           {
@@ -321,9 +321,11 @@
   },
   "active": "df554923a5ae40fe",
   "lastOpenFiles": [
-    "exercise set 2 problem 5 stochastic processes.md",
-    "galton watson branching process.md",
     "Stochastic Processes.md",
+    "exercise set 1 problem 2 stochastic processes.md",
+    "a random walk forms a markov chain.md",
+    "galton watson branching process.md",
+    "exercise set 2 problem 5 stochastic processes.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "markov chain.md",
     "root of unity filter.md",
@@ -331,7 +333,6 @@
     "the expectation of a random variables is less than or equal to 1 iff its generating function has exactly one fixed point.md",
     "probability of getting even number of heads in n coin tosses.md",
     "probability generating function.md",
-    "a random walk forms a markov chain.md",
     "random walk.md",
     "Ordinary Differential Equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
@@ -346,7 +347,6 @@
     "differential operator.md",
     "properties of linear differential operator.md",
     "auxiliary or characteristic equation of a linear homogeneous differential equation with constant coefficients.md",
-    "solution of a linear first order differential equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

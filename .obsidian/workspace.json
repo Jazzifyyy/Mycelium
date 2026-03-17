@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random walk.md",
+                "file": "gambler's ruin.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "random walk"
+              "title": "gambler's ruin"
             }
           },
           {
@@ -321,9 +321,9 @@
   },
   "active": "e85f75699103553a",
   "lastOpenFiles": [
+    "random walk.md",
     "a random walk forms a markov chain.md",
     "gambler's ruin.md",
-    "random walk.md",
     "exercise set 2 problem 5 stochastic processes.md",
     "Stochastic Processes.md",
     "exercise set 2 problem 4 stochastic processes.md",

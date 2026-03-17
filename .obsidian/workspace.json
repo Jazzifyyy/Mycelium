@@ -8,127 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7e3136dfe93e12f",
+            "id": "5071d5e4d962a1b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gambler's ruin.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gambler's ruin"
-            }
-          },
-          {
-            "id": "e85f75699103553a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gambler's ruin.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "gambler's ruin"
-            }
-          },
-          {
-            "id": "df554923a5ae40fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercise set 2 problem 5 stochastic processes.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "exercise set 2 problem 5 stochastic processes"
-            }
-          },
-          {
-            "id": "edc23bf2fb09f746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercise set 2 problem 5 stochastic processes.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "exercise set 2 problem 5 stochastic processes"
-            }
-          },
-          {
-            "id": "6201d7f1b799c87c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "probability of getting two consecutive heads in repeated coin tosses.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "probability of getting two consecutive heads in repeated coin tosses"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4a92d4a5aa48e9d5",
@@ -319,12 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e85f75699103553a",
+  "active": "5071d5e4d962a1b6",
   "lastOpenFiles": [
+    "gambler's ruin.md",
+    "probability of getting two consecutive heads in repeated coin tosses.md",
+    "exercise set 2 problem 5 stochastic processes.md",
     "random walk.md",
     "a random walk forms a markov chain.md",
-    "gambler's ruin.md",
-    "exercise set 2 problem 5 stochastic processes.md",
     "Stochastic Processes.md",
     "exercise set 2 problem 4 stochastic processes.md",
     "exercise set 1 problem 6 stochastic processes.md",
@@ -332,7 +221,6 @@
     "exercise set 1 problem 3 stochastic processes.md",
     "exercise set 1 problem 2 stochastic processes.md",
     "galton watson branching process.md",
-    "probability of getting two consecutive heads in repeated coin tosses.md",
     "markov chain.md",
     "root of unity filter.md",
     "the generating function of the sum of two random variables is the product of their generating functions.md",

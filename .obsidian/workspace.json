@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "kruskal wallis test for the equality of medians of multiple groups"
             }
+          },
+          {
+            "id": "9999e1144e21384c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "density estimation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "density estimation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -295,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c438860804f4fdb",
+  "active": "9999e1144e21384c",
   "lastOpenFiles": [
-    "least-squares cross-validation objective function.md",
-    "density estimation.md",
     "Advanced Statistical Methods.md",
+    "least-squares cross-validation objective function.md",
+    "wilcoxon's rank sum test.md",
+    "density estimation.md",
     "kruskal wallis test for the equality of medians of multiple groups.md",
     "gambler's ruin.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
@@ -322,7 +347,6 @@
     "Ordinary Differential Equations.md",
     "general solution of homogeneous linear equation with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
-    "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",

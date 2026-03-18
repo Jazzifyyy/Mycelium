@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Statistical Methods.md",
+                "file": "least-squares cross-validation objective function.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Advanced Statistical Methods"
+              "title": "least-squares cross-validation objective function"
             }
           },
           {
@@ -273,9 +273,10 @@
   },
   "active": "3c438860804f4fdb",
   "lastOpenFiles": [
-    "kruskal wallis test for the equality of medians of multiple groups.md",
-    "density estimation.md",
+    "least-squares cross-validation objective function.md",
     "Advanced Statistical Methods.md",
+    "density estimation.md",
+    "kruskal wallis test for the equality of medians of multiple groups.md",
     "gambler's ruin.md",
     "probability of getting two consecutive heads in repeated coin tosses.md",
     "exercise set 2 problem 5 stochastic processes.md",
@@ -298,7 +299,6 @@
     "general solution of homogeneous linear equation with constant coefficients.md",
     "solutions of a homogeneous system of linear equations with constant coefficients.md",
     "the sum of solutions of a non-homogeneous and the corresponding homogeneous linear differential equation is a solution of the non-homogeneous equation.md",
-    "lsm homework 3.md",
     "Pasted image 20260311225824.png",
     "plots/plot_670671cd_1_20260301110103.jpg",
     "plots/plot_670671cd_1_20260301105608.jpg",
